@@ -10,7 +10,11 @@ def concat_person(name):
     files = list(os.scandir(path))
     files_name = list(map(lambda x:x.name, files))
 
-    file = open(GROUP +  ORDER[name] + "_" + name + ".sql", "w", encoding="utf-8")
+    file = None
+    try:
+        file = open(GROUP +  ORDER[name] + "_" + name + ".sql", "w", encoding="utf-8")
+    except FileNotFoundError:
+        file = open(GROUP +  ORDER[name] + "_" + name + ".sql", "x", encoding="utf-8")
 
     for file_name in files_name:
         f = open(path + file_name, "r+", encoding="utf-8")
@@ -27,7 +31,11 @@ def concat_all():
     files = list(os.scandir(path))
     files_name = list(map(lambda x:x.name, files))
 
-    file = open(os.getcwd() + "/SQL/BASE_ALL.sql", "w", encoding="utf-8")
+    file = None
+    try:
+        file = open(os.getcwd() + "/SQL/BASE_ALL.sql", "w", encoding="utf-8")
+    except FileNotFoundError:
+        file = open(os.getcwd() + "/SQL/BASE_ALL.sql", "x", encoding="utf-8")
 
     for file_name in files_name:
         f = open(path + file_name, "r+", encoding="utf-8")
