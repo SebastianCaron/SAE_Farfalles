@@ -7,7 +7,7 @@ GROUP = "./SQL/Group/"
 def concat_person(name):
 
     path = "./SQL/" + name + "/"
-    
+    print(os.getcwd())
     files = list(os.scandir(path))
     files_name = list(map(lambda x:x.name, files))
 
