@@ -1,6 +1,6 @@
 import os
 
-ORDER = {"Table" : "0","Peio" : "1", "Tintin" : "2", "Lina" : "3", "Seb" : "4"}
+ORDER = {"Tables" : "0","Peio" : "1", "Tintin" : "2", "Lina" : "3", "Seb" : "4"}
 
 GROUP = os.getcwd() + "/SQL/Group/"
 
@@ -10,7 +10,7 @@ def concat_person(name):
     files = list(os.scandir(path))
     files_name = list(map(lambda x:x.name, files))
 
-    file = None
+    file = None 
     try:
         file = open(GROUP +  ORDER[name] + "_" + name + ".sql", "w", encoding="utf-8")
     except FileNotFoundError:
