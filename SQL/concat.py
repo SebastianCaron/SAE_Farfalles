@@ -2,7 +2,7 @@ import os
 
 ORDER = {"Table" : "0","Peio" : "1", "Tintin" : "2", "Lina" : "3", "Seb" : "4"}
 
-GROUP = "./Groups/"
+GROUP = "./Group/"
 
 def concat_person(name):
 
