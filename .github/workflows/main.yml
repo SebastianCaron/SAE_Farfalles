@@ -23,10 +23,15 @@ jobs:
     - name: Run Python script
       run: python SQL/concat.py
 
-    - name: Commit changes
+    - name: Check changes
       run: |
-        git config --local user.email "actions@users.noreply.github.com"
-        git config --local user.name "AutoSQL"
+        git diff --exit-code --quiet || echo "No changes to commit"
+
+    - name: Commit changes
+      if: ${{ !cancelled() }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Add SQL Auto Generated files"
+        git commit -m "Add SQL generated file" || echo "No changes to commit"
         git push
