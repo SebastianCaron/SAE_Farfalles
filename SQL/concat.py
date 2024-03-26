@@ -2,16 +2,15 @@ import os
 
 ORDER = {"Table" : "0","Peio" : "1", "Tintin" : "2", "Lina" : "3", "Seb" : "4"}
 
-GROUP = "./SQL/Group/"
+GROUP = os.getcwd() + "/SQL/Group/"
 
 def concat_person(name):
 
-    path = "./SQL/" + name + "/"
-    print(os.getcwd())
+    path = os.getcwd() + "/SQL/" + name + "/"
     files = list(os.scandir(path))
     files_name = list(map(lambda x:x.name, files))
 
-    file = open(GROUP +  ORDER[name] + "_" + name + ".sql", "w+", encoding="utf-8")
+    file = open(GROUP +  ORDER[name] + "_" + name + ".sql", "w", encoding="utf-8")
 
     for file_name in files_name:
         f = open(path + file_name, "r+", encoding="utf-8")
@@ -28,7 +27,7 @@ def concat_all():
     files = list(os.scandir(path))
     files_name = list(map(lambda x:x.name, files))
 
-    file = open("./SQL/BASE_ALL.sql", "w+", encoding="utf-8")
+    file = open(os.getcwd() + "/SQL/BASE_ALL.sql", "w", encoding="utf-8")
 
     for file_name in files_name:
         f = open(path + file_name, "r+", encoding="utf-8")
