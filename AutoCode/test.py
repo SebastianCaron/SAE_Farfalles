@@ -1,4 +1,4 @@
 import os
 
-if(not os.path.isdir("../TEST/")):
-    os.makedirs("../TEST/")
+if(not os.path.isdir("../test/")):
+    os.makedirs("../test/")
