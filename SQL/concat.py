@@ -7,8 +7,12 @@ GROUP = "./Group/"
 def concat_person(name):
 
     path = "./" + name + "/"
-
-    files = list(os.scandir(path))
+    print(path)
+    files = []
+    try:
+        files = list(os.scandir(path))
+    except FileNotFoundError:
+        print(path)
     files_name = list(map(lambda x:x.name, files))
 
     file = open(GROUP +  ORDER[name] + "_" + name + ".sql", "w+", encoding="utf-8")
