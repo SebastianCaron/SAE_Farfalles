@@ -1,4 +1,4 @@
-name: Create Folders
+name: Generate SQL Files
 
 on:
   push:
@@ -6,17 +6,26 @@ on:
       - main
 
 jobs:
-  build:
+  generate_file:
+    name: Generate Text File
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.12.1'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12.1' 
 
-      - name: Run Python script to create folders
-        run: python AutoCode/script_1.py
+    - name: Run Python script
+      run: python SQL/concat.py
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Add SQL Auto Generated files"
+        git push
