@@ -24,7 +24,7 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --local user.email sebastiancaron62@gmail.com"
+        git config --local user.email "sebastiancaron62@gmail.com"
         git config --local user.name "Sebastian"
         git add .
         git commit -m "Add SQL Auto Generated files"
