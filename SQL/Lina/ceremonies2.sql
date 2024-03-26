@@ -1,0 +1,2 @@
+INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("OUVERTURE","Cérémonie d'ouverture des JO 2024")
+INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("CLOTURE","Cérémonie de clôture des JO 2024")
