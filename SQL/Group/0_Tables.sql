@@ -92,12 +92,16 @@ CREATE TABLE Resultats (
     Medaille_Resultats VARCHAR(100)
 ) ENGINE=InnoDB;
 
-CREATE TABLE Personnes (
-    ID_Personnes INT PRIMARY KEY,
-    Sexe_Personnes VARCHAR(100),
-    Date_de_naissance_Personnes DATE,
-    Nom_Personnes VARCHAR(100),
-    Prenom_Personnes VARCHAR(100)
+CREATE TABLE Athletes (
+    ID_Athletes INT PRIMARY KEY,
+    Image_url_Athletes VARCHAR(200),
+    Profil_url_Athletes VARCHAR(200),
+    Nom_Athletes VARCHAR(100),
+    ID_Epreuves INT,
+    ID INT,
+    Date_naissance_Athletes DATE,
+    Lieu_naissance_Athletes VARCHAR(100),
+    Taille_Athletes VARCHAR(10)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Epreuves (
@@ -148,11 +152,6 @@ CREATE TABLE Participe_a (
     PRIMARY KEY (ID_Ceremonies, ID_Personnes)
 ) ENGINE=InnoDB;
 
-CREATE TABLE Est_De_Nationalite (
-    ID_Personnes INT AUTO_INCREMENT NOT NULL,
-    Nom_Pays VARCHAR(100) NOT NULL,
-    PRIMARY KEY (ID_Personnes, Nom_Pays)
-) ENGINE=InnoDB;
 
 CREATE TABLE Avoir (
     ID_Resultats INT AUTO_INCREMENT NOT NULL,
@@ -173,8 +172,6 @@ ALTER TABLE Se_Deroule ADD CONSTRAINT FK_Se_Deroule_ID_Ceremonies FOREIGN KEY (I
 ALTER TABLE Se_Deroule ADD CONSTRAINT FK_Se_Deroule_Latitude_Sites FOREIGN KEY (Latitude_Sites) REFERENCES Sites (Latitude_Sites);
 ALTER TABLE Participe_à ADD CONSTRAINT FK_Participe_à_ID_Ceremonies FOREIGN KEY (ID_Ceremonies) REFERENCES Ceremonies (ID_Ceremonies);
 ALTER TABLE Participe_à ADD CONSTRAINT FK_Participe_à_ID_Personnes FOREIGN KEY (ID_Personnes) REFERENCES Personnes (ID_Personnes);
-ALTER TABLE Est_De_Nationalité ADD CONSTRAINT FK_Est_De_Nationalité_ID_Personnes FOREIGN KEY (ID_Personnes) REFERENCES Personnes (ID_Personnes);
-ALTER TABLE Est_De_Nationalité ADD CONSTRAINT FK_Est_De_Nationalité_Nom_Pays FOREIGN KEY (Nom_Pays) REFERENCES Pays (Nom_Pays);
 ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Resultats FOREIGN KEY (ID_Resultats) REFERENCES Resultats (ID_Resultats);
 ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Personnes FOREIGN KEY (ID_Personnes) REFERENCES Personnes (ID_Personnes);
 
