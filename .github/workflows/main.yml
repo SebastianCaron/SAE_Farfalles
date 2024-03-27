@@ -42,10 +42,15 @@ jobs:
         git commit -m "Add SQL generated file" || echo "No changes to commit"
         git push
     
-    - name: Update DataBase
-      run: python Auto/sql_deploiement.py
-      env:
-        DB_HOST: ${{ secrets.DB_HOST }}
-        DB_USERNAME: ${{ secrets.DB_USERNAME }}
-        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-        DB_NAME: ${{ secrets.DB_NAME }}
+    - name: Set up MySQL client
+      uses: maximilianou/setup-mysql@v1
+      with:
+        mysql-version: '8.0'
+
+    - name: Update Database
+      run: |
+        cd SQL/Group/
+        for file in *.sql; do  # Loop through all SQL files in the directory
+          echo "Executing SQL file: $file"
+          mysql -h ${{ secrets.DB_HOST }} -u ${{ secrets.DB_USERNAME }} -p"${{ secrets.DB_PASSWORD }}" ${{ secrets.DB_NAME }} < "$file"
+        done
