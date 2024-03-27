@@ -3,6 +3,7 @@ from mysql.connector import Error
 import os
 
 def execute_sql_script(host, user, password, database, sql_file):
+    connection = None
     try:
         connection = mysql.connector.connect(
             host=host,
@@ -28,7 +29,7 @@ def execute_sql_script(host, user, password, database, sql_file):
         print(f"ERREUR : {e}")
 
     finally:
-        if connection.is_connected():
+        if connection is not None and connection.is_connected():
             cursor.close()
             connection.close()
             print("MySQL connection is closed")
