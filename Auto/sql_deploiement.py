@@ -36,7 +36,7 @@ def execute_sql_script(host, user, password, database, sql_file):
 
 
 if __name__ == "__main__":
-    host = os.getenv('DB_HOST')
+    host = "sebastv748.mysql.db"
     user = os.getenv('DB_USERNAME')
     password = os.getenv('DB_PASSWORD')
     database = os.getenv('DB_NAME')
