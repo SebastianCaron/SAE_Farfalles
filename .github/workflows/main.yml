@@ -21,9 +21,7 @@ jobs:
         python-version: '3.12.1' 
     
     - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      run: pip install mysql-connector-python
 
     - name: Generate SQL Files
       run: python SQL/concat.py
