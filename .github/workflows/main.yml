@@ -20,9 +20,12 @@ jobs:
       with:
         python-version: '3.12.1' 
 
-    - name: Run Python script
+    - name: Genere les fichiers SQL
       run: python SQL/concat.py
-
+      
+    - name: Upload to Server
+      run: python Auto/ftp_deploiement.py "${{ secrets.FTP_USERNAME }}" "${{ secrets.FTP_PASSWORD }}"
+      
     - name: Check changes
       run: |
         git diff --exit-code --quiet || echo "No changes to commit"
