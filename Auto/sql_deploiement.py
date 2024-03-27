@@ -11,6 +11,8 @@ def execute_sql_script(host, user, password, database, sql_file):
             database=database
         )
 
+        print(connection.is_connected())
+
         if connection.is_connected():
             print("Connected to MySQL database")
 
