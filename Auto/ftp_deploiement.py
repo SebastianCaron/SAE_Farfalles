@@ -25,5 +25,6 @@ def ftp_upload(local_dir, username, password):
 if __name__ == "__main__":
     username = sys.argv[1]
     password = sys.argv[2]
+    
     ftp_upload(os.getcwd() + "/Website/", username, password)
     
