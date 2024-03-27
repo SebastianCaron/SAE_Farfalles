@@ -1,9 +1,9 @@
 -- ENTITES
 
-CREATE TABLE Calendrier (
-    Date_Calendrier DATE PRIMARY KEY,
-    Duree_Calendrier TIME
-) ENGINE=InnoDB;
+-- CREATE TABLE Calendrier (
+--     Date_Calendrier DATE PRIMARY KEY,
+--     Duree_Calendrier TIME
+-- ) ENGINE=InnoDB;
 
 CREATE TABLE Agences (
     ID_Agences VARCHAR(25) PRIMARY KEY,
@@ -71,10 +71,18 @@ CREATE TABLE Villes (
     PRIMARY KEY (Nom_Villes, Code_Postal_Villes)
 ) ENGINE=InnoDB;
 
+-- CREATE TABLE Pays (
+--     Nom_Pays VARCHAR(100) PRIMARY KEY,
+--     Drapeau_Pays VARCHAR(100)
+-- ) ENGINE=InnoDB;
+
 CREATE TABLE Pays (
-    Nom_Pays VARCHAR(100) PRIMARY KEY,
-    Drapeau_Pays VARCHAR(100)
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Drapeau VARCHAR(200),
+    Nom_Français VARCHAR(100),
+    Nom_Anglais VARCHAR(200)
 ) ENGINE=InnoDB;
+
 
 CREATE TABLE Resultats (
     ID_Resultats INT PRIMARY KEY,
