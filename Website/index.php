@@ -36,13 +36,12 @@
         
         while ($res = $q->fetch()) {
             echo "<tr>";
-            echo "<td><img src='https:" . $res['image'] . "' alt='Athlete'></td>";
-            echo "<td>" . $res['nom'] . "</td>";
-            echo "<td>" . $res['sport'] . "</td>";
-            echo "<td>" . $res['pays'] . "</td>";
-            echo "<td>" . $res['dateNaissance'] . "</td>";
-            echo "<td>" . $res['lieuNaissance'] . "</td>";
-            echo "<td>" . $res['taille'] . "</td>";
+            echo "<td><img src='" . $res['Image_url_Athletes'] . "' alt='" . $res['Nom_Athletes'] . "'></td>";
+            echo "<td>" . $res['Nom_Athletes'] . "</td>";
+            echo "<td><a href='" . $res['Profil_url_Athletes'] . "'>Voir Profil</a></td>";
+            echo "<td>" . $res['Date_naissance_Athletes'] . "</td>";
+            echo "<td>" . $res['Lieu_naissance_Athletes'] . "</td>";
+            echo "<td>" . $res['Taille_Athletes'] . "</td>";
             echo "</tr>";
         }
         ?>
