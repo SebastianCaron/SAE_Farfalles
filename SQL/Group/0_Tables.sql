@@ -1,4 +1,24 @@
 /* Tables.sql */
+-- Suppression des tables existantes
+DROP TABLE IF EXISTS Desservir;
+DROP TABLE IF EXISTS Implique;
+DROP TABLE IF EXISTS Concourt;
+DROP TABLE IF EXISTS Se_Deroule;
+DROP TABLE IF EXISTS Participe_a;
+DROP TABLE IF EXISTS Avoir;
+DROP TABLE IF EXISTS Calendrier;
+DROP TABLE IF EXISTS Athletes;
+DROP TABLE IF EXISTS Resultats;
+DROP TABLE IF EXISTS Epreuves;
+DROP TABLE IF EXISTS Ceremonies;
+DROP TABLE IF EXISTS Arrets;
+DROP TABLE IF EXISTS Voyages;
+DROP TABLE IF EXISTS Lignes;
+DROP TABLE IF EXISTS Agences;
+DROP TABLE IF EXISTS Sites;
+DROP TABLE IF EXISTS Villes;
+DROP TABLE IF EXISTS Pays;
+
 -- ENTITES
 
 -- CREATE TABLE Calendrier (
@@ -22,7 +42,7 @@ CREATE TABLE Lignes (
     Nom_Lignes VARCHAR(25),
     Nom_long_Lignes VARCHAR(50),
     Mode_Lignes VARCHAR(25),
-    ID_Agence VARCHAR(25)
+    ID_Agences VARCHAR(25)
 ) ENGINE=InnoDB;
 
 ALTER TABLE Lignes ADD CONSTRAINT FK_Lignes_ID_Agences FOREIGN KEY (ID_Agences) REFERENCES Agences (ID_Agences);
@@ -52,10 +72,16 @@ CREATE TABLE Arrets (
 
 ALTER TABLE Arrets ADD CONSTRAINT FK_Arrets_ID_Voyages FOREIGN KEY (ID_Voyages) REFERENCES Voyages (ID_Voyages);
 
- 
+CREATE TABLE Villes (
+    Nom_Villes VARCHAR(100),
+    Code_Postal_Villes VARCHAR(10),
+    Population_Villes INT,
+    PRIMARY KEY (Nom_Villes, Code_Postal_Villes)
+) ENGINE=InnoDB; 
+
 CREATE TABLE Sites (
-    Latitude_Sites DECIMAL(20,6) DEFAULT NULL,
-    Longitude_Sites DECIMAL(20,6) DEFAULT NULL,
+    Latitude_Sites DECIMAL(20,6),
+    Longitude_Sites DECIMAL(20,6),
     Nom_Sites VARCHAR(100),
     Date_de_construction_Sites DATE,
     Capacite_d_acceuil_Sites INT,
@@ -65,12 +91,6 @@ CREATE TABLE Sites (
     FOREIGN KEY (Nom_Villes) REFERENCES Villes(Nom_Villes)
 ) ENGINE=InnoDB;
 
-CREATE TABLE Villes (
-    Nom_Villes VARCHAR(100),
-    Code_Postal_Villes VARCHAR(10),
-    Population_Villes INT,
-    PRIMARY KEY (Nom_Villes, Code_Postal_Villes)
-) ENGINE=InnoDB;
 
 -- CREATE TABLE Pays (
 --     Nom_Pays VARCHAR(100) PRIMARY KEY,
@@ -93,7 +113,7 @@ CREATE TABLE Resultats (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Athletes (
-    ID_Athletes INT PRIMARY KEY,
+    ID_Athletes INT AUTO_INCREMENT PRIMARY KEY,
     Image_url_Athletes VARCHAR(200),
     Profil_url_Athletes VARCHAR(200),
     Nom_Athletes VARCHAR(100),
@@ -136,8 +156,8 @@ CREATE TABLE Implique (
 
 CREATE TABLE Concourt (
     ID_Epreuves INT AUTO_INCREMENT NOT NULL,
-    ID_Personnes INT NOT NULL,
-    PRIMARY KEY (ID_Epreuves, ID_Personnes)
+    ID_Athletes INT NOT NULL,
+    PRIMARY KEY (ID_Epreuves, ID_Athletes)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Se_Deroule (
@@ -148,30 +168,30 @@ CREATE TABLE Se_Deroule (
 
 CREATE TABLE Participe_a (
     ID_Ceremonies INT AUTO_INCREMENT NOT NULL,
-    ID_Personnes INT NOT NULL,
-    PRIMARY KEY (ID_Ceremonies, ID_Personnes)
+    ID_Athletes INT NOT NULL,
+    PRIMARY KEY (ID_Ceremonies, ID_Athletes)
 ) ENGINE=InnoDB;
 
 
 CREATE TABLE Avoir (
     ID_Resultats INT AUTO_INCREMENT NOT NULL,
-    ID_Personnes INT NOT NULL,
-    PRIMARY KEY (ID_Resultats, ID_Personnes)
+    ID_Athletes INT NOT NULL,
+    PRIMARY KEY (ID_Resultats, ID_Athletes)
 ) ENGINE=InnoDB;
 
 
 -- CONTRAINTES ASSOCIATIONS
 
-ALTER TABLE Desservir ADD CONSTRAINT FK_Desservir_ID_Transports FOREIGN KEY (ID_Transports) REFERENCES Transports (ID_Transports);
-ALTER TABLE Desservir ADD CONSTRAINT FK_Desservir_Latitude_Sites FOREIGN KEY (Latitude_Sites) REFERENCES Sites (Latitude_Sites);
+-- ALTER TABLE Desservir ADD CONSTRAINT FK_Desservir_ID_Transports FOREIGN KEY (ID_Transports) REFERENCES Transports (ID_Transports);
+-- ALTER TABLE Desservir ADD CONSTRAINT FK_Desservir_Latitude_Sites FOREIGN KEY (Latitude_Sites) REFERENCES Sites (Latitude_Sites);
 ALTER TABLE Implique ADD CONSTRAINT FK_Implique_ID_Epreuves FOREIGN KEY (ID_Epreuves) REFERENCES Epreuves (ID_Epreuves);
 ALTER TABLE Implique ADD CONSTRAINT FK_Implique_ID_Resultats FOREIGN KEY (ID_Resultats) REFERENCES Resultats (ID_Resultats);
 ALTER TABLE Concourt ADD CONSTRAINT FK_Concourt_ID_Epreuves FOREIGN KEY (ID_Epreuves) REFERENCES Epreuves (ID_Epreuves);
-ALTER TABLE Concourt ADD CONSTRAINT FK_Concourt_ID_Personnes FOREIGN KEY (ID_Personnes) REFERENCES Personnes (ID_Personnes);
+ALTER TABLE Concourt ADD CONSTRAINT FK_Concourt_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
 ALTER TABLE Se_Deroule ADD CONSTRAINT FK_Se_Deroule_ID_Ceremonies FOREIGN KEY (ID_Ceremonies) REFERENCES Ceremonies (ID_Ceremonies);
 ALTER TABLE Se_Deroule ADD CONSTRAINT FK_Se_Deroule_Latitude_Sites FOREIGN KEY (Latitude_Sites) REFERENCES Sites (Latitude_Sites);
-ALTER TABLE Participe_à ADD CONSTRAINT FK_Participe_à_ID_Ceremonies FOREIGN KEY (ID_Ceremonies) REFERENCES Ceremonies (ID_Ceremonies);
-ALTER TABLE Participe_à ADD CONSTRAINT FK_Participe_à_ID_Personnes FOREIGN KEY (ID_Personnes) REFERENCES Personnes (ID_Personnes);
+ALTER TABLE Participe_a ADD CONSTRAINT FK_Participe_a_ID_Ceremonies FOREIGN KEY (ID_Ceremonies) REFERENCES Ceremonies (ID_Ceremonies);
+ALTER TABLE Participe_a ADD CONSTRAINT FK_Participe_a_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
 ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Resultats FOREIGN KEY (ID_Resultats) REFERENCES Resultats (ID_Resultats);
-ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Personnes FOREIGN KEY (ID_Personnes) REFERENCES Personnes (ID_Personnes);
+ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
 
