@@ -7,11 +7,6 @@
 
     $q->execute([]); // Execution de la requete
 
-    $tableau_resulat = [];
-    while ($res = $q->fetch()) { // Tant qu'il y a quelque chose à recuperer dans les resultats de la requete
-
-        array_push($tableau_resulat, $res); // je l'ajoute au tableau résultat
-    }
     
 ?>
 
