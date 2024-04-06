@@ -61,7 +61,7 @@ CREATE TABLE Arrets (
     ID_Arrets VARCHAR(25) PRIMARY KEY,
     ID_Voyages VARCHAR(100),
     Nom_Arrets VARCHAR(50),
-    Latitute_Arrets DECIMAL(20,6),
+    Latitude_Arrets DECIMAL(20,6),
     Longitude_Arrets DECIMAL(20,6), 
     Accessible_Arrets VARCHAR(2),
     Heure_arrive_Arrets TIME,
