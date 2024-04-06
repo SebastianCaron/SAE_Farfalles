@@ -1,6 +1,8 @@
 import os
 
-ORDER = {"Tables" : "0","Peio" : "1", "Tintin" : "2", "Lina" : "3", "Seb" : "4"}
+#ORDER = {"Tables" : "0","Peio" : "1", "Tintin" : "2", "Lina" : "3", "Seb" : "4"}
+ORDER = {"Tables" : "0","Peio" : "1", "Tintin" : "2", "Lina" : "3"}
+
 
 GROUP = os.getcwd() + "/SQL/Group/"
 
@@ -43,7 +45,7 @@ def main():
     for i in ORDER.keys():
         print(f'CONCAT {i}')
         concat_person(i)
-    print("CONCAT ALL")
-    concat_all()
+    #print("CONCAT ALL")
+    #concat_all()
 
 main()
