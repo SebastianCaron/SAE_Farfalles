@@ -35,8 +35,7 @@ def concat_all():
     for file_name in files_name:
         f = open(path + file_name, "r+", encoding="utf-8")
         file.write(f"/* {file_name} */\n")
-        file.write(f.read()[:-2] + ";\n")
-        file.write("\n")
+        file.write(f.read() + "\n")
         f.close()
 
     file.close()
