@@ -127,11 +127,10 @@ CREATE TABLE Athletes (
 CREATE TABLE Epreuves (
     ID_Epreuves VARCHAR(20) PRIMARY KEY,
     Nom_Epreuves VARCHAR(100),
-    Categorie_Epreuves VARCHAR(100),
+    Name_Epreuves VARCHAR(100),
+    Categorie_Epreuves BOOLEAN,
+    Type_Epreuves BOOLEAN,
     Logo_Epreuves VARCHAR(100),
-    Latitude_Sites DECIMAL(20,6),
-    Longitude_Sites DECIMAL(20,6),
-    FOREIGN KEY (Latitude_Sites) REFERENCES Sites(Latitude_Sites)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Ceremonies (
@@ -160,10 +159,16 @@ CREATE TABLE Concourt (
     PRIMARY KEY (ID_Epreuves, ID_Athletes)
 ) ENGINE=InnoDB;
 
-CREATE TABLE Se_Deroule (
+CREATE TABLE Se_Produit (
     ID_Ceremonies VARCHAR(25) NOT NULL,
     Latitude_Sites DECIMAL(20,6) NOT NULL,
     PRIMARY KEY (ID_Ceremonies, Latitude_Sites)
+) ENGINE=InnoDB;
+
+CREATE TABLE Se_Deroule (
+    ID_Epreuves VARCHAR(25) NOT NULL,
+    Latitude_Sites DECIMAL(20,6) NOT NULL,
+    PRIMARY KEY (ID_Epreuves, Latitude_Sites)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Participe_a (
@@ -188,7 +193,9 @@ ALTER TABLE Implique ADD CONSTRAINT FK_Implique_ID_Epreuves FOREIGN KEY (ID_Epre
 ALTER TABLE Implique ADD CONSTRAINT FK_Implique_ID_Resultats FOREIGN KEY (ID_Resultats) REFERENCES Resultats (ID_Resultats);
 ALTER TABLE Concourt ADD CONSTRAINT FK_Concourt_ID_Epreuves FOREIGN KEY (ID_Epreuves) REFERENCES Epreuves (ID_Epreuves);
 ALTER TABLE Concourt ADD CONSTRAINT FK_Concourt_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
-ALTER TABLE Se_Deroule ADD CONSTRAINT FK_Se_Deroule_ID_Ceremonies FOREIGN KEY (ID_Ceremonies) REFERENCES Ceremonies (ID_Ceremonies);
+ALTER TABLE Se_Produit ADD CONSTRAINT FK_Se_Produit_ID_Ceremonies FOREIGN KEY (ID_Ceremonies) REFERENCES Ceremonies (ID_Ceremonies);
+ALTER TABLE Se_Produit ADD CONSTRAINT FK_Se_Produit_Latitude_Sites FOREIGN KEY (Latitude_Sites) REFERENCES Sites (Latitude_Sites);
+ALTER TABLE Se_Deroule ADD CONSTRAINT FK_Se_Deroule_ID_Epreuves FOREIGN KEY (ID_Epreuves) REFERENCES Epreuves (ID_Epreuves);
 ALTER TABLE Se_Deroule ADD CONSTRAINT FK_Se_Deroule_Latitude_Sites FOREIGN KEY (Latitude_Sites) REFERENCES Sites (Latitude_Sites);
 ALTER TABLE Participe_a ADD CONSTRAINT FK_Participe_a_ID_Ceremonies FOREIGN KEY (ID_Ceremonies) REFERENCES Ceremonies (ID_Ceremonies);
 ALTER TABLE Participe_a ADD CONSTRAINT FK_Participe_a_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
