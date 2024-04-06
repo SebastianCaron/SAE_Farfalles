@@ -116,7 +116,7 @@ CREATE TABLE Athletes (
     Image_url_Athletes VARCHAR(200),
     Profil_url_Athletes VARCHAR(200),
     Nom_Athletes VARCHAR(100),
-    ID_Epreuves INT,
+    ID_Epreuves VARCHAR(20),
     ID INT,
     Date_naissance_Athletes DATE,
     Lieu_naissance_Athletes VARCHAR(100),
@@ -124,7 +124,7 @@ CREATE TABLE Athletes (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Epreuves (
-    ID_Epreuves INT PRIMARY KEY,
+    ID_Epreuves VARCHAR(20) PRIMARY KEY,
     Nom_Epreuves VARCHAR(100),
     Categorie_Epreuves VARCHAR(100),
     Logo_Epreuves VARCHAR(100),
@@ -134,7 +134,7 @@ CREATE TABLE Epreuves (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Ceremonies (
-    ID_Ceremonies INT PRIMARY KEY,
+    ID_Ceremonies VARCHAR(25) PRIMARY KEY,
     Nom_Ceremonies VARCHAR(100)
 ) ENGINE=InnoDB;
 
@@ -148,25 +148,25 @@ CREATE TABLE Desservir (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Implique (
-    ID_Epreuves INT AUTO_INCREMENT NOT NULL,
+    ID_Epreuves VARCHAR(20) NOT NULL,
     ID_Resultats INT NOT NULL,
     PRIMARY KEY (ID_Epreuves, ID_Resultats)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Concourt (
-    ID_Epreuves INT AUTO_INCREMENT NOT NULL,
+    ID_Epreuves VARCHAR(20) NOT NULL,
     ID_Athletes INT NOT NULL,
     PRIMARY KEY (ID_Epreuves, ID_Athletes)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Se_Deroule (
-    ID_Ceremonies INT AUTO_INCREMENT NOT NULL,
+    ID_Ceremonies VARCHAR(25) NOT NULL,
     Latitude_Sites DECIMAL(20,6) NOT NULL,
     PRIMARY KEY (ID_Ceremonies, Latitude_Sites)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Participe_a (
-    ID_Ceremonies INT AUTO_INCREMENT NOT NULL,
+    ID_Ceremonies VARCHAR(25) NOT NULL,
     ID_Athletes INT NOT NULL,
     PRIMARY KEY (ID_Ceremonies, ID_Athletes)
 ) ENGINE=InnoDB;

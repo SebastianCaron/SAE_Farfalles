@@ -135,7 +135,7 @@ CREATE TABLE Epreuves (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Ceremonies (
-    ID_Ceremonies INT PRIMARY KEY,
+    ID_Ceremonies VARCHAR(25) PRIMARY KEY,
     Nom_Ceremonies VARCHAR(100)
 ) ENGINE=InnoDB;
 
@@ -161,13 +161,13 @@ CREATE TABLE Concourt (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Se_Deroule (
-    ID_Ceremonies INT AUTO_INCREMENT NOT NULL,
+    ID_Ceremonies VARCHAR(25) NOT NULL,
     Latitude_Sites DECIMAL(20,6) NOT NULL,
     PRIMARY KEY (ID_Ceremonies, Latitude_Sites)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Participe_a (
-    ID_Ceremonies INT AUTO_INCREMENT NOT NULL,
+    ID_Ceremonies VARCHAR(25) NOT NULL,
     ID_Athletes INT NOT NULL,
     PRIMARY KEY (ID_Ceremonies, ID_Athletes)
 ) ENGINE=InnoDB;
