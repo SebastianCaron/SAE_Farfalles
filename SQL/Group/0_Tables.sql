@@ -117,7 +117,7 @@ CREATE TABLE Athletes (
     Image_url_Athletes VARCHAR(200),
     Profil_url_Athletes VARCHAR(200),
     Nom_Athletes VARCHAR(100),
-    ID_Epreuves INT,
+    ID_Epreuves VARCHAR(20),
     ID INT,
     Date_naissance_Athletes DATE,
     Lieu_naissance_Athletes VARCHAR(100),
@@ -125,7 +125,7 @@ CREATE TABLE Athletes (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Epreuves (
-    ID_Epreuves INT PRIMARY KEY,
+    ID_Epreuves VARCHAR(20) PRIMARY KEY,
     Nom_Epreuves VARCHAR(100),
     Categorie_Epreuves VARCHAR(100),
     Logo_Epreuves VARCHAR(100),
@@ -149,13 +149,13 @@ CREATE TABLE Desservir (
 ) ENGINE=InnoDB;
 
 CREATE TABLE Implique (
-    ID_Epreuves INT AUTO_INCREMENT NOT NULL,
+    ID_Epreuves VARCHAR(20) NOT NULL,
     ID_Resultats INT NOT NULL,
     PRIMARY KEY (ID_Epreuves, ID_Resultats)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Concourt (
-    ID_Epreuves INT AUTO_INCREMENT NOT NULL,
+    ID_Epreuves VARCHAR(20) NOT NULL,
     ID_Athletes INT NOT NULL,
     PRIMARY KEY (ID_Epreuves, ID_Athletes)
 ) ENGINE=InnoDB;
