@@ -16,7 +16,7 @@
 			}
 		}
 	
-		$query = "SELECT * FROM Epreuves JOIN Se_Deroule JOIN Sites";
+		$query = "SELECT * FROM Epreuves JOIN Se_Deroule ON Epreuves.ID_Epreuves = Se_Deroule.ID_Epreuves JOIN Sites ON Se_Deroule.Longitude_Sites = Sites.Longitude_Sites AND Se_Deroule.Latitude_Sites = Sites.Latitude_Sites";
 		if ($whereClause !== '') {
 			$query .= " WHERE $whereClause";
 		}
