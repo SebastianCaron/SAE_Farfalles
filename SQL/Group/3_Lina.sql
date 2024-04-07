@@ -68,7 +68,7 @@ INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuve
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CTR','Cyclisme sur piste','Cycling track',0,0,'svg_Cycling track.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CTR1','Cyclisme sur piste','Cycling track',1,0,'svg_Cycling track.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EQU_PARA','Para Equitation','Para Equestrian',0,1,'svg_Para Equestrian.svg');
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EQU_PARA','Para Equitation','Para Equestrian',1,1,'svg_Para Equestrian.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EQU_PARA1','Para Equitation','Para Equestrian',1,1,'svg_Para Equestrian.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ARC','Tir à l''arc','Archery',0,0,'svg_Archery.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ARC1','Tir à l''arc','Archery',1,0,'svg_Archery.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SWM','Natation','Swimming',0,0,'svg_Swimming.svg');
@@ -93,7 +93,7 @@ INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuve
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WFE_PARA1','Escrime fauteuil','Wheelchair Fencing',1,1,'svg_Wheelchair Fencing.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TKW_PARA','Para Taekwondo','Para Taekwondo',0,1,'svg_Para Taekwondo.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WTE_PARA','Tennis fauteuil','Wheelchair Tennis',0,1,'svg_Wheelchair Tennis.svg');
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WTE_PARA','Tennis fauteuil','Wheelchair Tennis',1,1,'svg_Wheelchair Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WTE_PARA1','Tennis fauteuil','Wheelchair Tennis',1,1,'svg_Wheelchair Tennis.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ARC_PARA','Para Tir à l''arc','Para Archery',0,1,'svg_Para Archery.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BOC_PARA','Boccia','Boccia',0,1,'svg_Boccia.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BOC_PARA1','Boccia','Boccia',1,1,'svg_Boccia.svg');
