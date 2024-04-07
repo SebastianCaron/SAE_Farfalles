@@ -29,6 +29,7 @@ body{
     font-family: 'SourceSans', sans-serif;
     background-color: var(--background);
     color: var(--text);
+    overflow-x: hidden;
 }
 
 h1, h2, h3{
