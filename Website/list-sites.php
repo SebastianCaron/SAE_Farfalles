@@ -3,9 +3,6 @@
 
     global $db;
 
-    // UTF-8
-    header('Content-Type: text/html; charset=utf-8');
-
     $sql = 'SELECT * FROM Sites';
 
     $auMoinsUnChamp = false;
@@ -43,7 +40,10 @@
     <title>Paris 2024 - Sites</title>
     <link rel="stylesheet" type="text/css" href="./css/all.css">
 
+
     <!-- VOTRE CSS -->
+    <link rel="stylesheet" type="text/css" href="./css/list-athletes.css">
+
 
     <!-- VOS SCRIPTS -->
 
