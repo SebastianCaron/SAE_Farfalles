@@ -1,6 +1,3 @@
-/* ceremonies.sql */
-INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("OUVERTURE","Cérémonie d'ouverture des JO 2024");
-INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("CLOTURE","Cérémonie de clôture des JO 2024");
 /* epreuves.sql */
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("FEN","Escrime","Fencing",0,0,"svg_Fencing.svg"),
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("FEN1","Escrime","Fencing",1,0,"svg_Fencing.svg"),
@@ -99,3 +96,6 @@ INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuv
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BOC_PARA1","Boccia","Boccia",1,1,"svg_Boccia.svg"),
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WBK_PARA","Basketball fauteuil","Wheelchair Basketball",1,1,"svg_Wheelchair Basketball.svg"),
 
+/* ceremonies.sql */
+INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("OUVERTURE","Cérémonie d'ouverture des JO 2024");
+INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("CLOTURE","Cérémonie de clôture des JO 2024");

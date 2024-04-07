@@ -99,7 +99,7 @@ CREATE TABLE Sites (
 -- ) ENGINE=InnoDB;
 
 CREATE TABLE Pays (
-    ID INT AUTO_INCREMENT PRIMARY KEY,
+    ID VARCHAR(3) PRIMARY KEY,
     Drapeau VARCHAR(200),
     Nom_Français VARCHAR(100),
     Nom_Anglais VARCHAR(200)
@@ -119,7 +119,7 @@ CREATE TABLE Athletes (
     Profil_url_Athletes VARCHAR(200),
     Nom_Athletes VARCHAR(100),
     ID_Epreuves VARCHAR(20),
-    ID INT,
+    ID VARCHAR(3),
     Date_naissance_Athletes DATE,
     Lieu_naissance_Athletes VARCHAR(100),
     Taille_Athletes VARCHAR(10)
