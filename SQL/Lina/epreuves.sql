@@ -1,96 +1,96 @@
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("FEN","Escrime","Fencing",0,0,"svg_Fencing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("FEN1","Escrime","Fencing",1,0,"svg_Fencing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TKW","Taekwondo","Taekwondo",0,0,"svg_Taekwondo.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("JUD","Judo","Judo",0,0,"svg_Judo.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("JUD1","Judo","Judo",1,0,"svg_Judo.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WRE","Lutte","Wrestling",0,0,"svg_Wrestling.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TEN","Tennis","Tennis",0,0,"svg_Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TEN1","Tennis","Tennis",1,0,"svg_Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BOX","Boxe","Boxing",0,0,"svg_Boxing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SRF","Surf","Surfing",0,0,"svg_Surfing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("JUD_PARA","Para Judo","Para Judo",0,1,"svg_Para Judo.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WRU_PARA","Rugby fauteuil","Wheelchair Rugby",1,1,"svg_Wheelchair Rugby.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("VBS_PARA","Volleyball assis","Sitting Volleyball",1,1,"svg_Sitting Volleyball.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SWM_PARA","Para Natation","Para Swimming",0,1,"svg_Para Swimming.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ROW_PARA","Para Aviron","Para Rowing",0,1,"svg_Para Rowing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ROW_PARA1","Para Aviron","Para Rowing",1,1,"svg_Para Rowing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CSP_PARA","Para Canoë","Para Canoe",0,1,"svg_Para Canoe.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BDM","Badminton","Badminton",0,0,"svg_Badminton.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BDM1","Badminton","Badminton",1,0,"svg_Badminton.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("GRY","Gymnastique rythmique","Rhythmic Gymnastics",0,0,"svg_Rhythmic Gymnastics.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("GRY1","Gymnastique rythmique","Rhythmic Gymnastics",1,0,"svg_Rhythmic Gymnastics.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BKB","Basketball","Basketball",1,0,"svg_Basketball.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("GAR","Gymnastique artistique","Artistic Gymnastics",0,0,"svg_Artistic Gymnastics.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("GAR1","Gymnastique artistique","Artistic Gymnastics",1,0,"svg_Artistic Gymnastics.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("GTR","Gymnastique trampoline","Trampoline Gymnastics",0,0,"svg_Trampoline Gymnastics.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("FBL","Football","Football",1,0,"svg_Football.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TRI_PARA","Para Triathlon","Para Triathlon",0,1,"svg_Para Triathlon.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("VVO","Volley-ball","Volleyball",1,0,"svg_Volleyball.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("MDN","Pentathlon moderne","Modern pentathlon",0,0,"svg_Modern pentathlon.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ROW","Aviron","Rowing",0,0,"svg_Rowing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ROW1","Aviron","Rowing",1,0,"svg_Rowing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CSP","Canoë-kayak sprint","Canoe sprint",0,0,"svg_Canoe sprint.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CSP1","Canoë-kayak sprint","Canoe sprint",1,0,"svg_Canoe sprint.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ATH_PARA","Para Athlétisme","Para Athletics",0,1,"svg_Para Athletics.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CRD_PARA","Cyclisme sur route - course sur route","Para Cycling road",0,1,"svg_Para Cycling road.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("FBB_PARA","Cécifoot","Blind Football",1,1,"svg_Blind Football.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TTE","Tennis de table","Table Tennis",individuel,0,"svg_Table Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TTE1","Tennis de table","Table Tennis",collectif,0,"svg_Table Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ATH","Athlétisme","Athletics",0,0,"svg_Athletics.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("RU7","Rugby à 7","Rugby Sevens",1,0,"svg_Rugby Sevens.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("MTB","Cycling Mountain Bike","Mountain Bike",0,0,"svg_Mountain Bike.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("HBL","Handball","Handball",1,0,"svg_Handball.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SAL","Voile","Sailing",0,0,"svg_Sailing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TTE_PARA","Tennis de table para","Para Table Tennis",0,1,"svg_Para Table Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TTE_PARA1","Tennis de table para","Para Table Tennis",1,1,"svg_Para Table Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WLF","Haltérophilie","Weightlifting",0,0,"svg_Weightlifting.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("VBV","Volley-ball de plage","Beach volleyball",1,0,"svg_Beach volleyball.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CRD","Cyclisme sur route - Course sur route","Cycling road",0,0,"svg_Cycling road.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("HOC","Hockey","Hockey",1,0,"svg_Hockey.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BDM_PARA","Para badminton","Para Badminton",0,1,"svg_Para Badminton.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BDM_PARA1","Para badminton","Para Badminton",1,1,"svg_Para Badminton.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("PWL_PARA","Para Haltérophilie","Para Powerlifting",0,1,"svg_Para Powerlifting.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("GBL_PARA","Goalball","Goalball",1,1,"svg_Goalball.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CLB","Escalade","Sport climbing",0,0,"svg_Sport climbing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("GLF","Golf","Golf",0,0,"svg_Golf.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CTR_PARA","Para Cyclisme sur piste","Para Cycling track",0,1,"svg_Para Cycling track.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CTR_PARA1","Para Cyclisme sur piste","Para Cycling track",1,1,"svg_Para Cycling track.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EDR","Sports équestres - dressage","Equestrian dressage",0,0,"svg_Equestrian dressage.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EVE","Sports équestres - concours complet","Equestrian eventing",0,0,"svg_Equestrian eventing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EJP","Sports équestres - saut d'obstacles","Equestrian jumping",0,0,"svg_Equestrian jumping.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EDR1","Sports équestres - dressage","Equestrian dressage",1,0,"svg_Equestrian dressage.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EVE1","Sports équestres - concours complet","Equestrian eventing",1,0,"svg_Equestrian eventing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EJP1","Sports équestres - saut d'obstacles","Equestrian jumping",1,0,"svg_Equestrian jumping.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CTR","Cyclisme sur piste","Cycling track",0,0,"svg_Cycling track.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CTR1","Cyclisme sur piste","Cycling track",1,0,"svg_Cycling track.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EQU_PARA","Para Equitation","Para Equestrian",0,1,"svg_Para Equestrian.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("EQU_PARA","Para Equitation","Para Equestrian",1,1,"svg_Para Equestrian.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ARC","Tir à l'arc","Archery",0,0,"svg_Archery.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ARC1","Tir à l'arc","Archery",1,0,"svg_Archery.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SWM","Natation","Swimming",0,0,"svg_Swimming.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SWM1","Natation","Swimming",1,0,"svg_Swimming.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WPO","Water-polo","Water polo",1,0,"svg_Water polo.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BMX","BMX Racing","BMX Racing",0,0,"svg_BMX Racing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SHO","Tir","Shooting",0,0,"svg_Shooting.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SHO1","Tir","Shooting",1,0,"svg_Shooting.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SHO_PARA","Para Tir Sportif","Shooting Para Sport",0,1,"svg_Shooting Para Sport.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BK3","Basketball 3x3","3x3 Basketball",1,0,"svg_3x3 Basketball.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BKG","Breaking","Breaking",0,0,"svg_Breaking.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BMF","BMX freestyle","BMX freestyle",0,0,"svg_BMX freestyle.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SKB","Skateboard - Street","Skateboarding",0,0,"svg_Skateboarding.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("OWS","Natation marathon","Marathon swimming",0,0,"svg_Marathon swimming.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TRI","Triathlon","Triathlon",0,0,"svg_Triathlon.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TRI1","Triathlon","Triathlon",1,0,"svg_Triathlon.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SWA","Natation artistique","Artistic swimming",0,0,"svg_Artistic swimming.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("SWA1","Natation artistique","Artistic swimming",1,0,"svg_Artistic swimming.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("DIV","Plongeon","Diving",0,0,"svg_Diving.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("CSL","Canoë-kayak slalom","Canoe slalom",0,0,"svg_Canoe slalom.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WFE_PARA","Escrime fauteuil","Wheelchair Fencing",0,1,"svg_Wheelchair Fencing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WFE_PARA1","Escrime fauteuil","Wheelchair Fencing",1,1,"svg_Wheelchair Fencing.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("TKW_PARA","Para Taekwondo","Para Taekwondo",0,1,"svg_Para Taekwondo.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WTE_PARA","Tennis fauteuil","Wheelchair Tennis",0,1,"svg_Wheelchair Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WTE_PARA","Tennis fauteuil","Wheelchair Tennis",1,1,"svg_Wheelchair Tennis.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("ARC_PARA","Para Tir à l'arc","Para Archery",0,1,"svg_Para Archery.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BOC_PARA","Boccia","Boccia",0,1,"svg_Boccia.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("BOC_PARA1","Boccia","Boccia",1,1,"svg_Boccia.svg"),
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Catégorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ("WBK_PARA","Basketball fauteuil","Wheelchair Basketball",1,1,"svg_Wheelchair Basketball.svg"),
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('FEN','Escrime','Fencing',0,0,'svg_Fencing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('FEN1','Escrime','Fencing',1,0,'svg_Fencing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TKW','Taekwondo','Taekwondo',0,0,'svg_Taekwondo.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('JUD','Judo','Judo',0,0,'svg_Judo.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('JUD1','Judo','Judo',1,0,'svg_Judo.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WRE','Lutte','Wrestling',0,0,'svg_Wrestling.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TEN','Tennis','Tennis',0,0,'svg_Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TEN1','Tennis','Tennis',1,0,'svg_Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BOX','Boxe','Boxing',0,0,'svg_Boxing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SRF','Surf','Surfing',0,0,'svg_Surfing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('JUD_PARA','Para Judo','Para Judo',0,1,'svg_Para Judo.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WRU_PARA','Rugby fauteuil','Wheelchair Rugby',1,1,'svg_Wheelchair Rugby.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('VBS_PARA','Volleyball assis','Sitting Volleyball',1,1,'svg_Sitting Volleyball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SWM_PARA','Para Natation','Para Swimming',0,1,'svg_Para Swimming.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ROW_PARA','Para Aviron','Para Rowing',0,1,'svg_Para Rowing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ROW_PARA1','Para Aviron','Para Rowing',1,1,'svg_Para Rowing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CSP_PARA','Para Canoë','Para Canoe',0,1,'svg_Para Canoe.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BDM','Badminton','Badminton',0,0,'svg_Badminton.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BDM1','Badminton','Badminton',1,0,'svg_Badminton.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GRY','Gymnastique rythmique','Rhythmic Gymnastics',0,0,'svg_Rhythmic Gymnastics.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GRY1','Gymnastique rythmique','Rhythmic Gymnastics',1,0,'svg_Rhythmic Gymnastics.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BKB','Basketball','Basketball',1,0,'svg_Basketball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GAR','Gymnastique artistique','Artistic Gymnastics',0,0,'svg_Artistic Gymnastics.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GAR1','Gymnastique artistique','Artistic Gymnastics',1,0,'svg_Artistic Gymnastics.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GTR','Gymnastique trampoline','Trampoline Gymnastics',0,0,'svg_Trampoline Gymnastics.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('FBL','Football','Football',1,0,'svg_Football.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TRI_PARA','Para Triathlon','Para Triathlon',0,1,'svg_Para Triathlon.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('VVO','Volley-ball','Volleyball',1,0,'svg_Volleyball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('MDN','Pentathlon moderne','Modern pentathlon',0,0,'svg_Modern pentathlon.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ROW','Aviron','Rowing',0,0,'svg_Rowing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ROW1','Aviron','Rowing',1,0,'svg_Rowing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CSP','Canoë-kayak sprint','Canoe sprint',0,0,'svg_Canoe sprint.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CSP1','Canoë-kayak sprint','Canoe sprint',1,0,'svg_Canoe sprint.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ATH_PARA','Para Athlétisme','Para Athletics',0,1,'svg_Para Athletics.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CRD_PARA','Cyclisme sur route - course sur route','Para Cycling road',0,1,'svg_Para Cycling road.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('FBB_PARA','Cécifoot','Blind Football',1,1,'svg_Blind Football.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE','Tennis de table','Table Tennis',individuel,0,'svg_Table Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE1','Tennis de table','Table Tennis',collectif,0,'svg_Table Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ATH','Athlétisme','Athletics',0,0,'svg_Athletics.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('RU7','Rugby à 7','Rugby Sevens',1,0,'svg_Rugby Sevens.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('MTB','Cycling Mountain Bike','Mountain Bike',0,0,'svg_Mountain Bike.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('HBL','Handball','Handball',1,0,'svg_Handball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SAL','Voile','Sailing',0,0,'svg_Sailing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE_PARA','Tennis de table para','Para Table Tennis',0,1,'svg_Para Table Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE_PARA1','Tennis de table para','Para Table Tennis',1,1,'svg_Para Table Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WLF','Haltérophilie','Weightlifting',0,0,'svg_Weightlifting.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('VBV','Volley-ball de plage','Beach volleyball',1,0,'svg_Beach volleyball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CRD','Cyclisme sur route - Course sur route','Cycling road',0,0,'svg_Cycling road.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('HOC','Hockey','Hockey',1,0,'svg_Hockey.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BDM_PARA','Para badminton','Para Badminton',0,1,'svg_Para Badminton.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BDM_PARA1','Para badminton','Para Badminton',1,1,'svg_Para Badminton.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('PWL_PARA','Para Haltérophilie','Para Powerlifting',0,1,'svg_Para Powerlifting.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GBL_PARA','Goalball','Goalball',1,1,'svg_Goalball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CLB','Escalade','Sport climbing',0,0,'svg_Sport climbing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GLF','Golf','Golf',0,0,'svg_Golf.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CTR_PARA','Para Cyclisme sur piste','Para Cycling track',0,1,'svg_Para Cycling track.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CTR_PARA1','Para Cyclisme sur piste','Para Cycling track',1,1,'svg_Para Cycling track.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EDR','Sports équestres - dressage','Equestrian dressage',0,0,'svg_Equestrian dressage.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EVE','Sports équestres - concours complet','Equestrian eventing',0,0,'svg_Equestrian eventing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EJP','Sports équestres - saut d''obstacles','Equestrian jumping',0,0,'svg_Equestrian jumping.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EDR1','Sports équestres - dressage','Equestrian dressage',1,0,'svg_Equestrian dressage.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EVE1','Sports équestres - concours complet','Equestrian eventing',1,0,'svg_Equestrian eventing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EJP1','Sports équestres - saut d''obstacles','Equestrian jumping',1,0,'svg_Equestrian jumping.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CTR','Cyclisme sur piste','Cycling track',0,0,'svg_Cycling track.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CTR1','Cyclisme sur piste','Cycling track',1,0,'svg_Cycling track.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EQU_PARA','Para Equitation','Para Equestrian',0,1,'svg_Para Equestrian.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('EQU_PARA','Para Equitation','Para Equestrian',1,1,'svg_Para Equestrian.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ARC','Tir à l''arc','Archery',0,0,'svg_Archery.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ARC1','Tir à l''arc','Archery',1,0,'svg_Archery.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SWM','Natation','Swimming',0,0,'svg_Swimming.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SWM1','Natation','Swimming',1,0,'svg_Swimming.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WPO','Water-polo','Water polo',1,0,'svg_Water polo.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BMX','BMX Racing','BMX Racing',0,0,'svg_BMX Racing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SHO','Tir','Shooting',0,0,'svg_Shooting.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SHO1','Tir','Shooting',1,0,'svg_Shooting.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SHO_PARA','Para Tir Sportif','Shooting Para Sport',0,1,'svg_Shooting Para Sport.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BK3','Basketball 3x3','3x3 Basketball',1,0,'svg_3x3 Basketball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BKG','Breaking','Breaking',0,0,'svg_Breaking.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BMF','BMX freestyle','BMX freestyle',0,0,'svg_BMX freestyle.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SKB','Skateboard - Street','Skateboarding',0,0,'svg_Skateboarding.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('OWS','Natation marathon','Marathon swimming',0,0,'svg_Marathon swimming.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TRI','Triathlon','Triathlon',0,0,'svg_Triathlon.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TRI1','Triathlon','Triathlon',1,0,'svg_Triathlon.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SWA','Natation artistique','Artistic swimming',0,0,'svg_Artistic swimming.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('SWA1','Natation artistique','Artistic swimming',1,0,'svg_Artistic swimming.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('DIV','Plongeon','Diving',0,0,'svg_Diving.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CSL','Canoë-kayak slalom','Canoe slalom',0,0,'svg_Canoe slalom.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WFE_PARA','Escrime fauteuil','Wheelchair Fencing',0,1,'svg_Wheelchair Fencing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WFE_PARA1','Escrime fauteuil','Wheelchair Fencing',1,1,'svg_Wheelchair Fencing.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TKW_PARA','Para Taekwondo','Para Taekwondo',0,1,'svg_Para Taekwondo.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WTE_PARA','Tennis fauteuil','Wheelchair Tennis',0,1,'svg_Wheelchair Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WTE_PARA','Tennis fauteuil','Wheelchair Tennis',1,1,'svg_Wheelchair Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ARC_PARA','Para Tir à l''arc','Para Archery',0,1,'svg_Para Archery.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BOC_PARA','Boccia','Boccia',0,1,'svg_Boccia.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BOC_PARA1','Boccia','Boccia',1,1,'svg_Boccia.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WBK_PARA','Basketball fauteuil','Wheelchair Basketball',1,1,'svg_Wheelchair Basketball.svg');
