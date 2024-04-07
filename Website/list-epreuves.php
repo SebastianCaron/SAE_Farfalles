@@ -143,18 +143,18 @@
 				<th>DATE EPREUVE</th>
 				<th>SITE EPREUVE</th>
             </tr>
-            <?php foreach ($epreuves as $epreuves):
+            <?php foreach ($epreuves as $epreuve){
 				echo "<tr>";
-                echo "<td><img src='" . $res['Logo_Epreuves'] . "' alt='" . $res['Nom_Epreuves'] . "'></td>";
-                echo "<td>" . $res['Nom_Epreuves'] . "</td>";
-                echo "<td>" . $res['Name_Epreuves'] . "</td>";
-                if ($res['Categorie_Epreuves'] == 1){
+                echo "<td><img src='" . $epreuve['Logo_Epreuves'] . "' alt='" . $epreuve['Nom_Epreuves'] . "'></td>";
+                echo "<td>" . $epreuve['Nom_Epreuves'] . "</td>";
+                echo "<td>" . $epreuve['Name_Epreuves'] . "</td>";
+                if ($epreuve['Categorie_Epreuves'] == 1){
                     echo "<td>Collectif</td>";
                 }
                 else {
                     echo "<td>Individuel</td>";
                 }
-                if ($res['Type_Epreuves'] == 1){
+                if ($epreuve['Type_Epreuves'] == 1){
                     echo "<td>Paralympique</td>";
                 }
                 else {
@@ -163,7 +163,7 @@
                 echo "<td>DATEDATEDAET</td>";
                 echo "<td>SITESITESITE</td>";
                 echo "</tr>";
-			    endforeach; 
+			}
             ?>
 
 	</div>
