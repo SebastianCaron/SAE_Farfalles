@@ -149,18 +149,18 @@
                 echo "<td>" . $res['Nom_Epreuves'] . "</td>";
                 echo "<td>" . $res['Name_Epreuves'] . "</td>";
                 if ($res['Categorie_Epreuves'] == 1){
-                    echo "<td>Collectif</td>"
+                    echo "<td>Collectif</td>";
                 }
                 else {
-                    echo "<td>Individuel</td>"
+                    echo "<td>Individuel</td>";
                 }
                 if ($res['Type_Epreuves'] == 1){
-                    echo "<td>Paralympique</td>"
+                    echo "<td>Paralympique</td>";
                 }
                 else {
-                    echo "<td>Olympique</td>"
+                    echo "<td>Olympique</td>";
                 }
-                echo "<td>DATEDATEDAET</td>"
+                echo "<td>DATEDATEDAET</td>";
                 echo "<td>SITESITESITE</td>";
                 echo "</tr>";
 			    endforeach; 
