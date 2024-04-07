@@ -38,8 +38,8 @@ INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuve
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ATH_PARA','Para Athlétisme','Para Athletics',0,1,'svg_Para Athletics.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('CRD_PARA','Cyclisme sur route - course sur route','Para Cycling road',0,1,'svg_Para Cycling road.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('FBB_PARA','Cécifoot','Blind Football',1,1,'svg_Blind Football.svg');
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE','Tennis de table','Table Tennis',individuel,0,'svg_Table Tennis.svg');
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE1','Tennis de table','Table Tennis',collectif,0,'svg_Table Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE','Tennis de table','Table Tennis',0,0,'svg_Table Tennis.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TTE1','Tennis de table','Table Tennis',1,0,'svg_Table Tennis.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('ATH','Athlétisme','Athletics',0,0,'svg_Athletics.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('RU7','Rugby à 7','Rugby Sevens',1,0,'svg_Rugby Sevens.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('MTB','Cycling Mountain Bike','Mountain Bike',0,0,'svg_Mountain Bike.svg');
