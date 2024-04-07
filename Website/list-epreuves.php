@@ -7,7 +7,7 @@
 	function getEpreuves($db, $filters) {
 		$whereClause = '';
 		foreach ($filters as $field => $value) {
-			$validFields = array('ID_Epreuves', 'Nom_Epreuves', 'Name_Epreuves', 'Categorie_Epreuves', 'Type_Epreuves', 'Logo_Epreuves');
+			$validFields = array('ID_Epreuves', 'Nom_Epreuves', 'Name_Epreuves', 'Categorie_Epreuves', 'Type_Epreuves', 'Logo_Epreuves', 'Longitude_Site', 'Latitude_Site', 'Date_Debut', 'Date_Fin', 'Nom_Sites');
 			if (in_array($field, $validFields)) {
 				if ($whereClause !== '') {
 					$whereClause .= ' AND ';
@@ -16,7 +16,7 @@
 			}
 		}
 	
-		$query = "SELECT * FROM Epreuves";
+		$query = "SELECT * FROM Epreuves JOIN Se_Deroule JOIN Sites";
 		if ($whereClause !== '') {
 			$query .= " WHERE $whereClause";
 		}
@@ -160,8 +160,8 @@
                 else {
                     echo "<td>Olympique</td>";
                 }
-                echo "<td>DATEDATEDAET</td>";
-                echo "<td>SITESITESITE</td>";
+                echo "<td>". $epreuve['Date_Debut'] ."  -  ". $epreuve['Date_Fin'] . "</td>";
+                echo "<td>". $epreuve['Nom_Sites']. "</td>";
                 echo "</tr>";
 			}
             ?>
