@@ -40,7 +40,7 @@ nav{
     position: sticky;
     top: 0;
     z-index: 1000;
-    width: 100vw;
+    width: 95vw;
     height: 80px;
     display: flex;
     flex-direction: row;
