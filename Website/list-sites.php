@@ -29,9 +29,6 @@
     if ($auMoinsUnChamp) {
         $query = $db->prepare($sql);
         $query->execute();
-    }else{
-        $query = $db->prepare("SELECT * FROM Sites;");
-        $query->execute();
     }
 ?>
 
@@ -85,13 +82,14 @@
             <label>Latitude: <input type="text" name="Latitude_Sites"></label><br>
             <label>Longitude: <input type="text" name="Longitude_Sites"></label><br>
             <label>Nom: <input type="text" name="Nom_Sites"></label><br>
-            <label>Date de construction: <input type="text" name="Date_de_construction_Sites"></label><br>
+            <label>Date de construction: <input type="text" name="Date_de_construction_Sites"></label><²br>
             <label>Capacité d'accueil: <input type="text" name="Capacite_d_acceuil_Sites"></label><br>
             <label>Accessibilité: <input type="text" name="Accessibilite_Sites"></label><br>
             <label>Ville: <input type="text" name="Nom_Villes"></label><br>
             <input type="submit" value="Afficher">
         </form>
 
+    <?php if ($auMoinsUnChamp): ?>
         <table>
             <tr>
                 <th>Latitude</th>
@@ -107,7 +105,8 @@
                 <tr>
                     <td><?= $row["Latitude_Sites"] ?></td>
                     <td><?= $row["Longitude_Sites"] ?></td>
-                    <td><?= $row["Nom_Sites"] ?></td>
+                    <td><a href="https://www.google.com/maps/search/?api=1&query=<?= $row["Latitude_Sites"] ?>,<?= $row["Longitude_Sites"] ?>" target="_blank"><?= $row["Nom_Sites"] ?></a></td>
+
                     <td><?= $row["Date_de_construction_Sites"] ?></td>
                     <td><?= $row["Capacite_d_acceuil_Sites"] ?></td>
                     <td><?= $row["Accessibilite_Sites"] ?></td>
@@ -115,5 +114,8 @@
                 </tr>
             <?php endwhile; ?>
         </table>
+    <?php else: ?>
+        <p>Veuillez remplir au moins un champ pour afficher les données.</p>
+    <?php endif; ?>
 </body>
 </html>
