@@ -79,7 +79,7 @@
     </div>
     <!-- FIN DE LA NAVIGATION -->
 
-    <div class="container">
+    <div class="options">
         <h1>Paris 2024 - Sites</h1>
         <form method="post">
             <label>Latitude: <input type="text" name="Latitude_Sites"></label><br>
@@ -89,7 +89,7 @@
             <label>Capacité d'accueil: <input type="text" name="Capacite_d_acceuil_Sites"></label><br>
             <label>Accessibilité: <input type="text" name="Accessibilite_Sites"></label><br>
             <label>Ville: <input type="text" name="Nom_Villes"></label><br>
-            <input type="submit" value="Afficher">
+            <input type="submit" value="Filtrer">
         </form>
 
         <table>
