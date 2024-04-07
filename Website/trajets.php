@@ -2,7 +2,7 @@
 include 'libs/config.php';
 
 // Récupération des arrêts depuis la base de données pour les options du formulaire
-$query_arrets = "SELECT Nom_Arrets FROM Arrets ORDER BY Nom_Arrets ASC";
+$query_arrets = "SELECT DISTINCT Nom_Arrets FROM Arrets ORDER BY Nom_Arrets ASC";
 $statement_arrets = $db->query($query_arrets);
 $arrets = $statement_arrets->fetchAll(PDO::FETCH_COLUMN);
 ?>
