@@ -1,0 +1,9 @@
+
+.content{
+    text-align: center;
+}
+
+.content > h2{
+    font-size: 3em;
+    color: var(--accent);
+}
