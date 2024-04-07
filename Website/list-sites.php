@@ -42,7 +42,7 @@
 
 
     <!-- VOTRE CSS -->
-    <link rel="stylesheet" type="text/css" href="./css/list-athletes.css">
+    <link rel="stylesheet" type="text/css" href="./css/list-sites.css">
 
 
     <!-- VOS SCRIPTS -->
