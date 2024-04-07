@@ -11,7 +11,7 @@
     $auMoinsUnChamp = false;
 
     // Vérification des champs du formulaire
-    $champs = ['Latitude_Sites', 'Longitude_Sites', 'Nom_Sites', 'Date_de_construction_Sites', 'Capacite_d_acceuil_Sites', 'Accessibilite_Sites', 'Nom_Villes'];
+    $champs = ['latitude', 'longitude', 'name', 'construction_date', 'capacity', 'accessibility', 'city'];
     foreach ($champs as $champ) {
         if (!empty($_POST[$champ])) {
             // Si un champ est rempli, on ajoute une condition à la requête SQL
@@ -25,7 +25,7 @@
         }
     }
 
-    //si au moins 1, execute
+    // Si au moins 1 champ est rempli, on exécute la requête
     if ($auMoinsUnChamp) {
         $query = $db->prepare($sql);
         $query->execute();
@@ -89,36 +89,32 @@
             <input type="submit" value="Afficher">
         </form>
 
-    <table>
-        <tr>
-            <th>Latitude</th>
-            <th>Longitude</th>
-            <th>Nom</th>
-            <th>Date de construction</th>
-            <th>Capacité d'accueil</th>
-            <th>Accessibilité</th>
-            <th>Ville</th>
-        </tr>
-        
-        <?php
-
-        if ($auMoinsUnChamp) {
-            while ($row = $query->fetch(PDO::FETCH_ASSOC)) {
-                echo "<tr>";
-                echo "<td>" . $row["Latitude_Sites"] . "</td>";
-                echo "<td>" . $row["Longitude_Sites"] . "</td>";
-                echo "<td>" . $row["Nom_Sites"] . "</td>";
-                echo "<td>" . $row["Date_de_construction_Sites"] . "</td>";
-                echo "<td>" . $row["Capacite_d_acceuil_Sites"] . "</td>";
-                echo "<td>" . $row["Accessibilite_Sites"] . "</td>";
-                echo "<td>" . $row["Nom_Villes"] . "</td>";
-                echo "</tr>";
-            }
-        } else {
-            echo "<p>Veuillez remplir au moins un champ pour afficher les données.</p>";
-        }
-        ?>
-        
-    </table>
+    <?php if ($auMoinsUnChamp): ?>
+        <table>
+            <tr>
+                <th>Latitude</th>
+                <th>Longitude</th>
+                <th>Nom</th>
+                <th>Date de construction</th>
+                <th>Capacité d'accueil</th>
+                <th>Accessibilité</th>
+                <th>Ville</th>
+            </tr>
+            
+            <?php while ($row = $query->fetch(PDO::FETCH_ASSOC)): ?>
+                <tr>
+                    <td><?= $row["Latitude_Sites"] ?></td>
+                    <td><?= $row["Longitude_Sites"] ?></td>
+                    <td><?= $row["Nom_Sites"] ?></td>
+                    <td><?= $row["Date_de_construction_Sites"] ?></td>
+                    <td><?= $row["Capacite_d_acceuil_Sites"] ?></td>
+                    <td><?= $row["Accessibilite_Sites"] ?></td>
+                    <td><?= $row["Nom_Villes"] ?></td>
+                </tr>
+            <?php endwhile; ?>
+        </table>
+    <?php else: ?>
+        <p>Veuillez remplir au moins un champ pour afficher les données.</p>
+    <?php endif; ?>
 </body>
 </html>
