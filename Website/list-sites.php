@@ -11,7 +11,7 @@
     $auMoinsUnChamp = false;
 
     // Vérification des champs du formulaire
-    $champs = ['latitude', 'longitude', 'name', 'construction_date', 'capacity', 'accessibility', 'city'];
+    $champs = ['Latitude_Sites', 'Longitude_Sites', 'Nom_Sites', 'Date_de_construction_Sites', 'Capacite_d_acceuil_Sites', 'Accessibilite_Sites', 'Nom_Villes'];
     foreach ($champs as $champ) {
         if (!empty($_POST[$champ])) {
             // Si un champ est rempli, on ajoute une condition à la requête SQL
