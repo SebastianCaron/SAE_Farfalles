@@ -71,7 +71,7 @@ CREATE TABLE Arrets (
     Numero_Arrets INT
 ) ENGINE=InnoDB;
 
-ALTER TABLE Arrets ADD CONSTRAINT FK_Arrets_ID_Voyages FOREIGN KEY (ID_Voyages) REFERENCES Voyages (ID_Voyages);
+-- ALTER TABLE Arrets ADD CONSTRAINT FK_Arrets_ID_Voyages FOREIGN KEY (ID_Voyages) REFERENCES Voyages (ID_Voyages);
 
 CREATE TABLE Villes (
     Nom_Villes VARCHAR(100),
