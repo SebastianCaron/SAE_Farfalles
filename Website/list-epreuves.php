@@ -145,7 +145,7 @@
             </tr>
             <?php foreach ($epreuves as $epreuve){
 				echo "<tr>";
-                echo "<td><img src='" . $epreuve['Logo_Epreuves'] . "' alt='" . $epreuve['Nom_Epreuves'] . "'></td>";
+                echo "<td><img src='./img/svgs/" . $epreuve['Logo_Epreuves'] . "' alt='" . $epreuve['Nom_Epreuves'] . "'></td>";
                 echo "<td>" . $epreuve['Nom_Epreuves'] . "</td>";
                 echo "<td>" . $epreuve['Name_Epreuves'] . "</td>";
                 if ($epreuve['Categorie_Epreuves'] == 1){
