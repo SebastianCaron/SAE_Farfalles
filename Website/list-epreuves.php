@@ -1,172 +1,159 @@
 <?php
-    include 'libs/config.php';
+include 'libs/config.php';
 
-    global $db; // Recupere l'acces à la base de donnee
+global $db; // Récupère l'accès à la base de données
 
+function getEpreuves($db, $filters) {
+    $whereClause = '';
+    foreach ($filters as $field => $value) {
+        $validFields = array('ID_Epreuves', 'Nom_Epreuves', 'Name_Epreuves', 'Categorie_Epreuves', 'Type_Epreuves', 'Logo_Epreuves', 'Date_Debut', 'Date_Fin', 'Nom_Sites');
+        if (in_array($field, $validFields)) {
+            if ($whereClause !== '') {
+                $whereClause .= ' AND ';
+            }
+            $whereClause .= "$field LIKE :$field";
+        }
+    }
 
-	function getEpreuves($db, $filters) {
-		$whereClause = '';
-		foreach ($filters as $field => $value) {
-			$validFields = array('ID_Epreuves', 'Nom_Epreuves', 'Name_Epreuves', 'Categorie_Epreuves', 'Type_Epreuves', 'Logo_Epreuves', 'Longitude_Site', 'Latitude_Site', 'Date_Debut', 'Date_Fin', 'Nom_Sites');
-			if (in_array($field, $validFields)) {
-				if ($whereClause !== '') {
-					$whereClause .= ' AND ';
-				}
-				$whereClause .= "$field LIKE :$field";
-			}
-		}
-	
-		$query = "SELECT * FROM Epreuves JOIN Se_Deroule ON Epreuves.ID_Epreuves = Se_Deroule.ID_Epreuves JOIN Sites ON Se_Deroule.Longitude_Sites = Sites.Longitude_Sites AND Se_Deroule.Latitude_Sites = Sites.Latitude_Sites";
-		if ($whereClause !== '') {
-			$query .= " WHERE $whereClause";
-		}
-		
-		// LIMITE
-		$query .= " LIMIT 100";
+    $query = "SELECT * FROM Epreuves JOIN Se_Deroule ON Epreuves.ID_Epreuves = Se_Deroule.ID_Epreuves JOIN Sites ON Se_Deroule.Longitude_Sites = Sites.Longitude_Sites AND Se_Deroule.Latitude_Sites = Sites.Latitude_Sites";
+    if ($whereClause !== '') {
+        $query .= " WHERE $whereClause";
+    }
 
-		$statement = $db->prepare($query);
+    // LIMITE
+    $query .= " LIMIT 100";
 
-		foreach ($filters as $field => $value) {
-			$statement->bindValue(":$field", "%$value%", PDO::PARAM_STR);
-		}
+    $statement = $db->prepare($query);
 
-		$statement->execute();
-		$epreuves = array();
-		while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
-			$epreuves[] = $row;
-		}
-	
-		return $epreuves;
-	}
+    foreach ($filters as $field => $value) {
+        $statement->bindValue(":$field", "%$value%", PDO::PARAM_STR);
+    }
 
-	if ($_SERVER["REQUEST_METHOD"] == "POST") {
-		$nom = $_POST["nom"];
-		$olympic = $_POST["olympic"];
-		$paralympic = $_POST["paralympic"];
-		$individual = $_POST["individual"];
-		$collective = $_POST["collective"];
-	
-		$filters = array();
-		if (!empty($nom)) {
-			$filters['Nom_Epreuves'] = $nom;
-		}
-		if (!empty($olympic)) {
-			$filters['Categorie_Epreuve'] = 0;
-		}
-		if (!empty($paralympic)) {
-			$filters['Categorie_Epreuve'] = 1;
-		}
-		if (!empty($individual)) {
-			$filters['Type_Epreuves'] = 0;
-		}
-		if (!empty($collective)) {
-			$filters['Type_Epreuves'] = 1;
-		}
-		$epreuves = getEpreuves($db, $filters);
-	}else{
-		$epreuves = getEpreuves($db, array());
-	}
-	?>
+    $statement->execute();
+    $epreuves = array();
+    while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
+        $epreuves[] = $row;
+    }
+
+    return $epreuves;
+}
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $nom = $_POST["nom"];
+    $olympic = isset($_POST["olympic"]) ? $_POST["olympic"] : null;
+    $paralympic = isset($_POST["paralympic"]) ? $_POST["paralympic"] : null;
+    $individual = isset($_POST["individual"]) ? $_POST["individual"] : null;
+    $collective = isset($_POST["collective"]) ? $_POST["collective"] : null;
+
+    $filters = array();
+    if (!empty($nom)) {
+        $filters['Nom_Epreuves'] = $nom;
+    }
+    if ($olympic === "on") {
+        $filters['Type_Epreuves'] = 0;
+    }
+    if ($paralympic === "on") {
+        $filters['Type_Epreuves'] = 1;
+    }
+    if ($individual === "on") {
+        $filters['Categorie_Epreuves'] = 0;
+    }
+    if ($collective === "on") {
+        $filters['Categorie_Epreuves'] = 1;
+    }
+    $epreuves = getEpreuves($db, $filters);
+} else {
+    $epreuves = getEpreuves($db, array());
+}
+?>
 
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Template</title>
-	<link rel="stylesheet" type="text/css" href="./css/all.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Liste des Epreuves</title>
+    <link rel="stylesheet" type="text/css" href="./css/all.css">
 
-	<!-- VOTRE CSS -->
+    <!-- VOTRE CSS -->
 
-	<!-- VOS SCRIPTS -->
+    <!-- VOS SCRIPTS -->
 
 </head>
 <body>
 
-	<!-- NAVIGATION -->
-	<script></script>
-	<nav>
-		<div class="menu-bars" onclick="showNavigationMenu();">
-			<div>
-				<img id="menu_bt" src="./img/menu-bars.svg" alt="bars menu">
-				<img id="menu_bt_close" src="./img/close.svg" alt="Bouton pour fermer le menu">
-			</div>
-			<h4>Menu</h4>
-		</div>
-		<a href="./index.html"><h2>Farfalles!</h2></a>
-		<div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
-			<img src="./img/paris2024.gif" alt="paris2024 image">
-		</div>
-	</nav>
+<!-- NAVIGATION -->
+<script></script>
+<nav>
+    <div class="menu-bars" onclick="showNavigationMenu();">
+        <div>
+            <img id="menu_bt" src="./img/menu-bars.svg" alt="bars menu">
+            <img id="menu_bt_close" src="./img/close.svg" alt="Bouton pour fermer le menu">
+        </div>
+        <h4>Menu</h4>
+    </div>
+    <a href="./index.html"><h2>Farfalles!</h2></a>
+    <div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
+        <img src="./img/paris2024.gif" alt="paris2024 image">
+    </div>
+</nav>
 
-	<div class="navigation">
-		<div class="links">
-			<a href="./index.html">Accueil</a>
-			<a href="./list-epreuves.html">Epreuves</a>
-			<a href="./list-Epreuves.html">Epreuves</a>
-			<a href="./list-transports.html">Transports</a>
-			<a href="./list-sites.html">Sites</a>
-		</div>
+<div class="navigation">
+    <div class="links">
+        <a href="./index.html">Accueil</a>
+        <a href="./list-epreuves.html">Epreuves</a>
+        <a href="./list-Epreuves.html">Epreuves</a>
+        <a href="./list-transports.html">Transports</a>
+        <a href="./list-sites.html">Sites</a>
+    </div>
 
-		<img src="./img/phryge.png" alt="mascotte paris2024">
-	</div>
+    <img src="./img/phryge.png" alt="mascotte paris2024">
+</div>
+<!-- FIN DE LA NAVIGATION -->
 
-	<!-- FIN DE LA NAVIGATION -->
-
-	<div class="content">
-		<h2>Liste des Epreuves</h2>
-		<div class="options">
-			<h3>Filtre</h3>
-			<from method="post">
-				<label for="nom">Nom Epreuve :</label>
-				<input type="text" id="nom" name="nom">
-				<label for="olympic">Epreuves olympiques :</label>
-				<input type="radio" id="olympic" checked>
-				<label for="paralympic">Epreuves paralympiques :</label>
-				<input type="radio" id="paralympic" checked>
-				<label for="individual">Epreuves individuelles :</label>
-				<input type="radio" id="individual" checked>
-				<label for="collective">Epreuves collectives :</label>
-				<input type="radio" id="collective" checked>
-				<br>
-				<br>
-				<input type="submit" value="Filtrer">
-			</from>
-		</div>
-		<table>
-			<tr>
-                <th>.</th>
-				<th>NOM EPREUVE</th>
-				<th>NOM ANGLAIS EPREUVE</th>
-				<th>CATEGORIE EPREUVE</th>
-				<th>TYPE EPREUVE</th>
-				<th>DATE EPREUVE</th>
-				<th>SITE EPREUVE</th>
+<div class="content">
+    <h2>Liste des Epreuves</h2>
+    <div class="options">
+        <h3>Filtre</h3>
+        <form method="post">
+            <label for="nom">Nom Epreuve :</label>
+            <input type="text" id="nom" name="nom">
+            <label for="olympic">Epreuves olympiques :</label>
+            <input type="checkbox" id="olympic" name="olympic">
+            <label for="paralympic">Epreuves paralympiques :</label>
+            <input type="checkbox" id="paralympic" name="paralympic">
+            <br>
+            <label for="individual">Epreuves individuelles :</label>
+            <input type="radio" id="individual" name="individual">
+            <label for="collective">Epreuves collectives :</label>
+            <input type="radio" id="collective" name="collective">
+            <br>
+            <input type="submit" value="Filtrer">
+        </form>
+    </div>
+    <table>
+        <tr>
+            <th>.</th>
+            <th>NOM EPREUVE</th>
+            <th>NOM ANGLAIS EPREUVE</th>
+            <th>CATEGORIE EPREUVE</th>
+            <th>TYPE EPREUVE</th>
+            <th>DATE EPREUVE</th>
+            <th>SITE EPREUVE</th>
+        </tr>
+        <?php foreach ($epreuves as $epreuve): ?>
+            <tr>
+                <td><img src='./img/svgs/<?php echo $epreuve['Logo_Epreuves']; ?>' alt='<?php echo $epreuve['Nom_Epreuves']; ?>'></td>
+                <td><?php echo $epreuve['Nom_Epreuves']; ?></td>
+                <td><?php echo $epreuve['Name_Epreuves']; ?></td>
+                <td><?php echo $epreuve['Categorie_Epreuves'] == 1 ? 'Collectif' : 'Individuel'; ?></td>
+                <td><?php echo $epreuve['Type_Epreuves'] == 1 ? 'Paralympique' : 'Olympique'; ?></td>
+                <td><?php echo $epreuve['Date_Debut'] . ' - ' . $epreuve['Date_Fin']; ?></td>
+                <td><?php echo $epreuve['Nom_Sites']; ?></td>
             </tr>
-            <?php foreach ($epreuves as $epreuve){
-				echo "<tr>";
-                echo "<td><img src='./img/svgs/" . $epreuve['Logo_Epreuves'] . "' alt='" . $epreuve['Nom_Epreuves'] . "'></td>";
-                echo "<td>" . $epreuve['Nom_Epreuves'] . "</td>";
-                echo "<td>" . $epreuve['Name_Epreuves'] . "</td>";
-                if ($epreuve['Categorie_Epreuves'] == 1){
-                    echo "<td>Collectif</td>";
-                }
-                else {
-                    echo "<td>Individuel</td>";
-                }
-                if ($epreuve['Type_Epreuves'] == 1){
-                    echo "<td>Paralympique</td>";
-                }
-                else {
-                    echo "<td>Olympique</td>";
-                }
-                echo "<td>". $epreuve['Date_Debut'] ."  -  ". $epreuve['Date_Fin'] . "</td>";
-                echo "<td>". $epreuve['Nom_Sites']. "</td>";
-                echo "</tr>";
-			}
-            ?>
-
-	</div>
-	<script src="./js/navigation.js"></script>
+        <?php endforeach; ?>
+    </table>
+</div>
+<script src="./js/navigation.js"></script>
 </body>
 </html>
