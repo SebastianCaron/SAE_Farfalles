@@ -62,8 +62,8 @@ CREATE TABLE Arrets (
     ID_Arrets VARCHAR(25) PRIMARY KEY,
     ID_Voyages VARCHAR(100),
     Nom_Arrets VARCHAR(50),
-    Latitude_Arrets DECIMAL(20,6),
-    Longitude_Arrets DECIMAL(20,6), 
+    Latitude_Arrets DECIMAL(20,8),
+    Longitude_Arrets DECIMAL(20,8), 
     Accessible_Arrets VARCHAR(2),
     Heure_arrive_Arrets TIME,
     Heure_depart_Arrets TIME,
@@ -80,8 +80,8 @@ CREATE TABLE Villes (
 ) ENGINE=InnoDB; 
 
 CREATE TABLE Sites (
-    Latitude_Sites DECIMAL(20,6),
-    Longitude_Sites DECIMAL(20,6),
+    Latitude_Sites DECIMAL(20,8),
+    Longitude_Sites DECIMAL(20,8),
     Nom_Sites VARCHAR(100),
     Date_de_construction_Sites DATE,
     Capacite_d_acceuil_Sites INT,
@@ -143,7 +143,7 @@ CREATE TABLE Ceremonies (
 
 CREATE TABLE Desservir (
     ID_Transports INT AUTO_INCREMENT NOT NULL,
-    Latitude_Sites DECIMAL(20,6) NOT NULL,
+    Latitude_Sites DECIMAL(20,8) NOT NULL,
     PRIMARY KEY (ID_Transports, Latitude_Sites)
 ) ENGINE=InnoDB;
 
@@ -161,8 +161,8 @@ CREATE TABLE Concourt (
 
 CREATE TABLE Se_Produit (
     ID_Ceremonies VARCHAR(25) NOT NULL,
-    Longitude_Sites DECIMAL(20,6) NOT NULL,
-    Latitude_Sites DECIMAL(20,6) NOT NULL,
+    Longitude_Sites DECIMAL(20,8) NOT NULL,
+    Latitude_Sites DECIMAL(20,8) NOT NULL,
     Date_Debut DATE NOT NULL,
     Date_Fin DATE NOT NULL,
     PRIMARY KEY (ID_Ceremonies, Latitude_Sites, Longitude_Sites, Date_Debut, Date_Fin)
@@ -170,8 +170,8 @@ CREATE TABLE Se_Produit (
 
 CREATE TABLE Se_Deroule (
     ID_Epreuves VARCHAR(25) NOT NULL,
-    Longitude_Sites DECIMAL(20,6) NOT NULL,
-    Latitude_Sites DECIMAL(20,6) NOT NULL,
+    Longitude_Sites DECIMAL(20,8) NOT NULL,
+    Latitude_Sites DECIMAL(20,8) NOT NULL,
     Date_Debut DATE NOT NULL,
     Date_Fin DATE NOT NULL,
     PRIMARY KEY (ID_Epreuves, Latitude_Sites, Longitude_Sites, Date_Debut, Date_Fin)
