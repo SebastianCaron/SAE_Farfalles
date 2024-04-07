@@ -78,7 +78,7 @@
         <img src="./img/phryge.png" alt="mascotte paris2024">
     </div>
     <!-- FIN DE LA NAVIGATION -->
-
+    
     <div class="options">
         <h1>Paris 2024 - Sites</h1>
         <form method="post">
