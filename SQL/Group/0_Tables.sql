@@ -130,7 +130,7 @@ CREATE TABLE Epreuves (
     Name_Epreuves VARCHAR(100),
     Categorie_Epreuves BOOLEAN,
     Type_Epreuves BOOLEAN,
-    Logo_Epreuves VARCHAR(100),
+    Logo_Epreuves VARCHAR(100)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Ceremonies (
