@@ -3,7 +3,7 @@
 }
 
 .options h1{
-    font-size: 10em;
+    font-size: 3em;
     color: var(--accent);
 }
 
@@ -18,7 +18,6 @@
     align-items: center;
     gap: 10px;
     margin: 5px 15px;
-    background-color: var(--grey);
     color: var(--text);
     height: 75px;
 }
@@ -32,7 +31,7 @@
 .options td, tr, a{
     color: var(--text);
     text-decoration: none;
-    font-size: 1.4em;
+    font-size: 1em;
     width: 15%;
     font-family: "Paris2024";
 }
