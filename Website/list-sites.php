@@ -1,11 +1,35 @@
 <?php
-        include 'libs/config.php';
+    include 'libs/config.php';
 
-        global $db;
+    global $db;
 
-        $query = $db->prepare('SELECT * FROM Sites'); // Requête SQL
+    // UTF-8
+    header('Content-Type: text/html; charset=utf-8');
 
-        $query->execute(); // Exécution de la requête
+    $sql = 'SELECT * FROM Sites';
+
+    $auMoinsUnChamp = false;
+
+    // Vérification des champs du formulaire
+    $champs = ['latitude', 'longitude', 'name', 'construction_date', 'capacity', 'accessibility', 'city'];
+    foreach ($champs as $champ) {
+        if (!empty($_POST[$champ])) {
+            // Si un champ est rempli, on ajoute une condition à la requête SQL
+            if (!$auMoinsUnChamp) {
+                $sql .= ' WHERE ';
+                $auMoinsUnChamp = true;
+            } else {
+                $sql .= ' AND ';
+            }
+            $sql .= "$champ LIKE '%" . $_POST[$champ] . "%'";
+        }
+    }
+
+    //si au moins 1, execute
+    if ($auMoinsUnChamp) {
+        $query = $db->prepare($sql);
+        $query->execute();
+    }
 ?>
 
 <!DOCTYPE html>
@@ -77,19 +101,22 @@
         </tr>
         
         <?php
-        
-        while ($row = $query->fetch(PDO::FETCH_ASSOC)) {
-            echo "<tr>";
-            echo "<td>" . $row["Latitude_Sites"] . "</td>";
-            echo "<td>" . $row["Longitude_Sites"] . "</td>";
-            echo "<td>" . $row["Nom_Sites"] . "</td>";
-            echo "<td>" . $row["Date_de_construction_Sites"] . "</td>";
-            echo "<td>" . $row["Capacite_d_acceuil_Sites"] . "</td>";
-            echo "<td>" . $row["Accessibilite_Sites"] . "</td>";
-            echo "<td>" . $row["Nom_Villes"] . "</td>";
-            echo "</tr>";
-        }
 
+        if ($auMoinsUnChamp) {
+            while ($row = $query->fetch(PDO::FETCH_ASSOC)) {
+                echo "<tr>";
+                echo "<td>" . $row["Latitude_Sites"] . "</td>";
+                echo "<td>" . $row["Longitude_Sites"] . "</td>";
+                echo "<td>" . $row["Nom_Sites"] . "</td>";
+                echo "<td>" . $row["Date_de_construction_Sites"] . "</td>";
+                echo "<td>" . $row["Capacite_d_acceuil_Sites"] . "</td>";
+                echo "<td>" . $row["Accessibilite_Sites"] . "</td>";
+                echo "<td>" . $row["Nom_Villes"] . "</td>";
+                echo "</tr>";
+            }
+        } else {
+            echo "<p>Veuillez remplir au moins un champ pour afficher les données.</p>";
+        }
         ?>
         
     </table>
