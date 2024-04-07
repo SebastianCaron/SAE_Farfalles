@@ -161,14 +161,20 @@ CREATE TABLE Concourt (
 
 CREATE TABLE Se_Produit (
     ID_Ceremonies VARCHAR(25) NOT NULL,
+    Longitude_Sites DECIMAL(20,6) NOT NULL,
     Latitude_Sites DECIMAL(20,6) NOT NULL,
-    PRIMARY KEY (ID_Ceremonies, Latitude_Sites)
+    Date_Debut DATE NOT NULL,
+    Date_Fin DATE NOT NULL,
+    PRIMARY KEY (ID_Ceremonies, Latitude_Sites, Longitude_Sites, Date_Debut, Date_Fin)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Se_Deroule (
     ID_Epreuves VARCHAR(25) NOT NULL,
+    Longitude_Sites DECIMAL(20,6) NOT NULL,
     Latitude_Sites DECIMAL(20,6) NOT NULL,
-    PRIMARY KEY (ID_Epreuves, Latitude_Sites)
+    Date_Debut DATE NOT NULL,
+    Date_Fin DATE NOT NULL,
+    PRIMARY KEY (ID_Epreuves, Latitude_Sites, Longitude_Sites, Date_Debut, Date_Fin)
 ) ENGINE=InnoDB;
 
 CREATE TABLE Participe_a (
