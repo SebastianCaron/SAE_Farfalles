@@ -1,34 +1,3 @@
-/* villessql.sql */
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75008,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75007,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75016,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('uvea',98600,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('villepinte',93420,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('puteaux',92800,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('vaires sur marne',77360,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75018,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75011,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('boulogne billancourt',92100,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('nantes',44100,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('decines charpieu',69150,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('vanves',92170,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('st priest en jarez',42270,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75015,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('bassens',33530,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('st denis',93200,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('elancourt',78990,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('lezennes',59260,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('st laurent du var',06700,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('marseille',13007,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('colombes',92700,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('le bourget',93350,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('guyancourt',78280,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('montigny le bretonneux',78180,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('bailly',78870,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('etrechet',36120,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75004,NULL);
-INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('marseille',13005,NULL);
-
 /* sitessql.sql */
 INSERT INTO Sites(Latitude_Sites, Longitude_Sites, Nom_Sites, Date_de_construction_Sites, Capacite_d_acceuil_Sites, Accessibilite_Sites, Nom_Villes) VALUES (48.86616355, 2.3125474, 'Grand Palais', NULL, NULL, NULL, 'paris');
 INSERT INTO Sites(Latitude_Sites, Longitude_Sites, Nom_Sites, Date_de_construction_Sites, Capacite_d_acceuil_Sites, Accessibilite_Sites, Nom_Villes) VALUES (48.8531, 2.30252, 'Arena Champ de Mars', NULL, NULL, NULL, 'paris');
@@ -69,4 +38,35 @@ INSERT INTO Sites(Latitude_Sites, Longitude_Sites, Nom_Sites, Date_de_constructi
 INSERT INTO Sites(Latitude_Sites, Longitude_Sites, Nom_Sites, Date_de_construction_Sites, Capacite_d_acceuil_Sites, Accessibilite_Sites, Nom_Villes) VALUES (48.8563881, 2.35222203, 'Hôtel de Ville', NULL, NULL, NULL, 'paris');
 INSERT INTO Sites(Latitude_Sites, Longitude_Sites, Nom_Sites, Date_de_construction_Sites, Capacite_d_acceuil_Sites, Accessibilite_Sites, Nom_Villes) VALUES (48.923723, 2.35578, 'Centre Aquatique', NULL, NULL, NULL, 'st denis');
 INSERT INTO Sites(Latitude_Sites, Longitude_Sites, Nom_Sites, Date_de_construction_Sites, Capacite_d_acceuil_Sites, Accessibilite_Sites, Nom_Villes) VALUES (43.2698, 5.3959, 'Stade de Marseille', NULL, NULL, NULL, 'marseille');
+
+/* villessql.sql */
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75008,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75007,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75016,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('uvea',98600,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('villepinte',93420,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('puteaux',92800,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('vaires sur marne',77360,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75018,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75011,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('boulogne billancourt',92100,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('nantes',44100,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('decines charpieu',69150,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('vanves',92170,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('st priest en jarez',42270,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75015,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('bassens',33530,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('st denis',93200,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('elancourt',78990,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('lezennes',59260,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('st laurent du var',06700,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('marseille',13007,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('colombes',92700,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('le bourget',93350,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('guyancourt',78280,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('montigny le bretonneux',78180,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('bailly',78870,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('etrechet',36120,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('paris',75004,NULL);
+INSERT INTO Villes(Nom_Villes, Code_Postal_Villes, Population_Villes) VALUES('marseille',13005,NULL);
 
