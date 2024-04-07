@@ -15,6 +15,8 @@ if(isset($_GET['id'])) {
     $epreuve = $statement->fetch(PDO::FETCH_ASSOC);
 }
 
+$query .= " LIMIT 100";
+
 ?>
 
 <!DOCTYPE html>
