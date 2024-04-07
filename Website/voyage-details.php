@@ -1,0 +1,87 @@
+<?php
+include 'libs/config.php';
+global $db; // Récupère l'accès à la base de données
+
+$voyage = null;
+if(isset($_GET['id'])) {
+    $voyage_id = $_GET['id'];
+    $query = "SELECT * FROM Voyages WHERE ID_Voyages = :voyage_id";
+    $statement = $db->prepare($query);
+    $statement->bindParam(':voyage_id', $voyage_id, PDO::PARAM_STR);
+    $statement->execute();
+    $voyage = $statement->fetch(PDO::FETCH_ASSOC);
+
+    $query_arrets = "
+        SELECT * 
+        FROM Arrets 
+        WHERE ID_Voyages = :voyage_id
+        ORDER BY Numero_Arrets ASC";
+    $statement_arrets = $db->prepare($query_arrets);
+    $statement_arrets->bindParam(':voyage_id', $voyage_id, PDO::PARAM_STR);
+    $statement_arrets->execute();
+    $arrets = $statement_arrets->fetchAll(PDO::FETCH_ASSOC);
+}
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Détails du Voyage</title>
+    <link rel="stylesheet" type="text/css" href="./css/all.css">
+    
+    <!-- VOTRE CSS -->
+
+    <!-- VOS SCRIPTS -->
+</head>
+<body>
+    <!-- NAVIGATION -->
+    <nav>
+        <div class="menu-bars" onclick="showNavigationMenu();">
+            <div>
+                <img id="menu_bt" src="./img/menu-bars.svg" alt="bars menu">
+                <img id="menu_bt_close" src="./img/close.svg" alt="Bouton pour fermer le menu">
+            </div>
+            <h4>Menu</h4>
+        </div>
+        <a href="./index.html"><h2>Farfalles!</h2></a>
+        <div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
+            <img src="./img/paris2024.gif" alt="paris2024 image">
+        </div>
+    </nav>
+
+    <div class="navigation">
+        <div class="links">
+            <a href="./index.html">Accueil</a>
+            <a href="./list-epreuves.html">Epreuves</a>
+            <a href="./list-athletes.php">Athletes</a>
+            <a href="./list-transports.html">Transports</a>
+            <a href="./list-sites.html">Sites</a>
+        </div>
+        <img src="./img/phryge.png" alt="mascotte paris2024">
+    </div>
+    <!-- FIN DE LA NAVIGATION -->
+
+    <div class="content">
+        <?php if($voyage): ?>
+            <h1>Détails du Voyage : <?php echo $voyage['Nom_Voyages']; ?></h1>
+            <p>ID: <?php echo $voyage['ID_Voyages']; ?></p>
+            <p>ID de la Ligne: <?php echo $voyage['ID_Lignes']; ?></p>
+            <p>Accessible Fauteuil: <?php echo $voyage['Accessible_Fauteuil_Voyages'] ? 'Oui' : 'Non'; ?></p>
+            <p>Accessible Vélo: <?php echo $voyage['Accessible_Velo_Voyages'] ? 'Oui' : 'Non'; ?></p>
+
+            <h2>Arrêts du Voyage :</h2>
+            <ul>
+                <?php foreach ($arrets as $arret): ?>
+                    <li><?php echo $arret['Nom_Arrets']; ?> -  <?php echo $arret['Heure_depart_Arrets']; ?></li>
+                <?php endforeach; ?>
+            </ul>
+        <?php else: ?>
+            <p>Voyage non trouvé.</p>
+        <?php endif; ?>
+    </div>
+
+    <script src="./js/navigation.js"></script>
+</body>
+</html>
