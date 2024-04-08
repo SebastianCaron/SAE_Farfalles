@@ -10,6 +10,10 @@
     font-size: 2em;
 }
 
+.content img{
+    height = 100px;
+}
+
 
 .options {
     text-align: center;
