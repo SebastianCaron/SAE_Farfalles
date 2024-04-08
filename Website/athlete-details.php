@@ -24,6 +24,7 @@ if(isset($_GET['id'])) {
     <link rel="stylesheet" type="text/css" href="./css/all.css">
 	
     <!-- VOTRE CSS -->
+    <link rel="stylesheet" type="text/css" href="./css/details.css">
 
     <!-- VOS SCRIPTS -->
 </head>

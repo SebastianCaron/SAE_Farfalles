@@ -92,6 +92,7 @@ CREATE TABLE Sites (
 ) ENGINE=InnoDB;
 
 
+
 -- CREATE TABLE Pays (
 --     Nom_Pays VARCHAR(100) PRIMARY KEY,
 --     Drapeau_Pays VARCHAR(100)
