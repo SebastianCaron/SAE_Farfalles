@@ -70,12 +70,20 @@
 
     .options th {
         font-size: 1.2em;
+        border: solid;
+        border-radius: 25px;
+        padding: 5px; 
     }
     .options td, tr, a{
         color: var(--text);
         text-decoration: none;
         font-size: 1.1em;
         font-family: "Paris2024";
+    }
+
+    .options td {
+        border: solid;
+        border-radius: 25px;
     }
     </style>
 
@@ -118,15 +126,16 @@
     <div class="options">
         <h1>Paris 2024 - Sites</h1>
         <form method="post">
-            <label>Nom: <input type="text" name="Nom_Sites"></label><br>
-            <label>Ville: <input type="text" name="Nom_Villes"></label><br>
-            <label>Latitude: <input type="text" name="Latitude_Sites"></label><br>
-            <label>Longitude: <input type="text" name="Longitude_Sites"></label><br>
-            <label>Date de construction: <input type="text" name="Date_de_construction_Sites"></label><br>
-            <label>Capacité d'accueil: <input type="text" name="Capacite_d_acceuil_Sites"></label><br>
-            <label>Accessibilité: <input type="text" name="Accessibilite_Sites"></label><br>
+            <input type="text" name="Nom_Sites" placeholder="Nom"><br>
+            <input type="text" name="Nom_Villes" placeholder="Ville"><br>
+            <input type="text" name="Latitude_Sites" placeholder="Latitude"><br>
+            <input type="text" name="Longitude_Sites" placeholder="Longitude"><br>
+            <input type="text" name="Date_de_construction_Sites" placeholder="Date de construction"><br>
+            <input type="text" name="Capacite_d_acceuil_Sites" placeholder="Capacité d'accueil"><br>
+            <input type="text" name="Accessibilite_Sites" placeholder="Accessibilité"><br>
             <input type="submit" value="Filtrer">
         </form>
+
 
         <table>
             <tr>
@@ -157,5 +166,6 @@
                 </tr>
             <?php endwhile; ?>
         </table>
+    </div>
 </body>
 </html>
