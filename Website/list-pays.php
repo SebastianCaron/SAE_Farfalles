@@ -16,7 +16,7 @@ function getPays($db, $filters) {
         }
     }
 
-    $query = "SELECT Pays.*, COUNT(Athletes.ID) AS Nombre_Athletes FROM Pays JOIN Athletes ON Pays.ID = Athletes.ID_Pays";
+    $query = "SELECT Pays.*, COUNT(Athletes.ID) AS Nombre_Athletes FROM Pays JOIN Athletes ON Pays.ID = Athletes.ID";
     if ($whereClause !== '') {
         $query .= " WHERE $whereClause";
     }
