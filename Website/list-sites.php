@@ -409,10 +409,13 @@
                     <td class="hide">
                         <?php
                         $ville = $row["Nom_Villes"];
+                        echo $ville;
                         $query_epreuves = $db->prepare("SELECT Nom_Epreuves FROM Epreuves WHERE Nom_Sites IN (SELECT Nom_Sites FROM Sites WHERE Nom_Villes = :ville)");
+                        echo $query_epreuves;
                         $query_epreuves->bindParam(':ville', $ville);
                         $query_epreuves->execute();
-                        $epreuvesList = "Liste des épreuves : " . "<br>"; 
+                        $epreuvesList = "Liste des épreuves : " . "<br>";
+                        echo $epreuvesList;
                         while ($epreuve = $query_epreuves->fetch(PDO::FETCH_ASSOC)) {
                             $epreuvesList .= $epreuve["Nom_Epreuves"] . "<br>";
                         }
