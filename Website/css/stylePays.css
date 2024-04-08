@@ -1,5 +1,4 @@
 .pays-liste {
-    display: flex;
     padding: 0 20px;
     color: #000000;
     text-align: center;
@@ -38,6 +37,5 @@
     background-color: #000000;
     padding: 8px 15px;
     border-radius:100px;
-    margin-left: auto;
 }
 
