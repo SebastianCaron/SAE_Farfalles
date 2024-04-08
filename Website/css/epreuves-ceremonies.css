@@ -52,6 +52,9 @@ td:first-child{
 }
 
 
-
+table img{
+    width: 100%;
+    aspect-ratio: 1 / 1;
+}
 
 
