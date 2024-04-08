@@ -68,12 +68,18 @@
         margin: 10px;
     }
 
+    .options th {
+        font-size: 1.2em;
+    }
     .options td, tr, a{
         color: var(--text);
         text-decoration: none;
-        font-size: 1.4em;
+        font-size: 1.1em;
         font-family: "Paris2024";
-    }</style>
+    }
+    </style>
+
+    
 
     <!-- VOS SCRIPTS -->
 
