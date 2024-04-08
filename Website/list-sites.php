@@ -81,7 +81,7 @@
     <!-- FIN DE LA NAVIGATION -->
     
     <div class="options">
-        <h1>Paris 2024 - Sites</h1>
+        <h1>Liste des Sites</h1>
         <form method="post">
             <input type="text" name="Nom_Sites" placeholder="Nom">
             <input type="text" name="Nom_Villes" placeholder="Ville">
