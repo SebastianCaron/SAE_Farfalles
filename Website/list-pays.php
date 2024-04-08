@@ -107,9 +107,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <img src="<?php echo $pays['Drapeau']; ?>" alt="Drapeau du pays">
                     </a>
                     <strong><?php echo $pays['ID']; ?></strong>
-                    <span><strong>FR : </strong></span> <?php echo $pays['Nom_Francais']; ?>
-                    <span><strong>EN : </strong></span> <?php echo $pays['Nom_Anglais']; ?>
-                    <span><strong>Nombre d'athlètes : </strong></span> <?php echo $pays['Nombre_Athletes']; ?>
+                    <span><strong>FR : </strong><?php echo $pays['Nom_Francais']; ?></span> 
+                    <span><strong>EN : </strong><?php echo $pays['Nom_Anglais']; ?></span> 
+                    <span><strong>Nombre d'athlètes : </span> <?php echo $pays['Nombre_Athletes']; ?></strong>
                     <span><a href="https://fr.wikipedia.org/wiki/<?php echo $pays['Nom_Francais']; ?>" target="_blank">En savoir plus</a></span>
                 </li>
             <?php endforeach; ?>
