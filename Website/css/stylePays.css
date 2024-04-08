@@ -25,8 +25,8 @@
 }
 
 .pays-liste li img {
-    width: 30px; /* Ajustez la taille selon vos besoins */
-    height: auto; /* Pour conserver les proportions de l'image */
+    width: 30px;
+    height: auto; 
     margin-right: 10px;
     border-radius: 3px;
 }
