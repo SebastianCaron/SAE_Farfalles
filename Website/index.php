@@ -195,7 +195,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div>
                     <img src="./img/pierre.jpg" alt="pierre">
                     <h2>Pierre MAGIEU</h2>
-                    <p>Une desc ?</p>
+                    <p>Un sportif qui a besoin de pâtes pour courir à toute vitesse</p>
                 </div>
                 <div>
                     <img src="./img/sebastian.png" alt="sebastian">
