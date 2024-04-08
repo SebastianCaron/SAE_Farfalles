@@ -6,7 +6,7 @@ global $db; // Récupère l'accès à la base de données
 function getEpreuves($db, $filters) {
     $whereClause = '';
     foreach ($filters as $field => $value) {
-        $validFields = array('ID_Epreuves', 'Nom_Epreuves', 'Name_Epreuves', 'Categorie_Epreuves', 'Type_Epreuves', 'Logo_Epreuves', 'Date_Debut', 'Date_Fin', 'Nom_Sites');
+        $validFields = array('ID_Epreuves', 'Nom_Epreuves', 'Name_Epreuves', 'Categorie_Epreuves', 'Type_Epreuves', 'Logo_Epreuves', 'Date_Debut', 'Date_Fin', 'ID_Sites','Nom_Sites');
         if (in_array($field, $validFields)) {
             if ($whereClause !== '') {
                 $whereClause .= ' AND ';
