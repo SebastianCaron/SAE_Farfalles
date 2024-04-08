@@ -109,7 +109,7 @@ if(isset($_GET['id'])) {
 			<?php endforeach; ?>
             
         <?php else: ?>
-            <p>Epreuve non trouvé.</p>
+            <p>Epreuve non trouvée.</p>
         <?php endif; ?>
     </div>
 
