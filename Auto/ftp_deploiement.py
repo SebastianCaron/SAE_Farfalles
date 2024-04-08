@@ -21,7 +21,7 @@ def ftp_upload(local_dir, username, password):
 def upload_dir_contents(ftp, local_dir):
     for item in os.listdir(local_dir):
         local_path = os.path.join(local_dir, item)
-        remote_path = os.path.join(FTP_TARGET_DIR, item)
+        remote_path = os.path.join(FTP_TARGET_DIR, os.path.relpath(local_path))
         if os.path.isfile(local_path):
             if item != EXCEPTION_FILE.split('/')[-1]:
                 if should_upload(local_path, remote_path, ftp):
@@ -58,7 +58,6 @@ def upload_file(ftp, local_file, remote_file):
         print(f"Uploaded {local_file} to {remote_file}")
     except ftplib.all_errors as e:
         print("FTP upload error:", e)
-
 
 if __name__ == "__main__":
     username = sys.argv[1]
