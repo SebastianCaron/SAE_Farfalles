@@ -153,7 +153,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <li><a href="./list-pays.php">list-pays</a></li>
                     </ul>
                 </li>
-                <li id="transports">
+                <li>
                     <h2>Les Transports</h2>
                     <h3>Les listes</h3>
                     <ul>
@@ -183,24 +183,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <div class="lesauteurs">
                 <div>
-                    <img src="./img/Lapatte.svg" alt="lina">
+                    <img src="./img/lina.jpg" alt="lina">
                     <h2>Lina LETHOOR</h2>
-                    <p>Une desc ?</p>
+                    <p>Dresseuse de farfalles depuis 2069</p>
                 </div>
                 <div>
-                    <img src="./img/Lapatte.svg" alt="lina">
+                    <img src="./img/quentin.jpg" alt="quentin">
                     <h2>Quentin FOUET</h2>
                     <p>Une desc ?</p>
                 </div>
                 <div>
-                    <img src="./img/Lapatte.svg" alt="lina">
+                    <img src="./img/pierre.jpg" alt="pierre">
                     <h2>Pierre MAGIEU</h2>
                     <p>Une desc ?</p>
                 </div>
                 <div>
-                    <img src="./img/Lapatte.svg" alt="lina">
+                    <img src="./img/sebastian.jpg" alt="sebastian">
                     <h2>Sebastian CARON</h2>
-                    <p>Une desc ?</p>
+                    <p>Gouteur de pâtes</p>
                 </div>
             </div>
 
