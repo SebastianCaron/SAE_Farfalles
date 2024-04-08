@@ -101,9 +101,9 @@ $arrets = $statement_arrets->fetchAll(PDO::FETCH_COLUMN);
                     $inverse = ($horaire_depart > $horaire_arrivee);
 
                     if ($inverse) {
-                        echo "<a href='voyage-details.php?id={$trajet['idvoy']}'>{$trajet['arrivee']} -> {$trajet['depart']}, {$trajet['arrets']} arrêts</a><br>";
+                        echo "<a href='trajet-details.php?id={$trajet['idvoy']}'>{$trajet['arrivee']} -> {$trajet['depart']}, {$trajet['arrets']} arrêts</a><br>";
                     } else {
-                        echo "<a href='voyage-details.php?id={$trajet['idvoy']}'>{$trajet['depart']} -> {$trajet['arrivee']}, {$trajet['arrets']} arrêts</a><br>";
+                        echo "<a href='trajet-details.php?id={$trajet['idvoy']}'>{$trajet['depart']} -> {$trajet['arrivee']}, {$trajet['arrets']} arrêts</a><br>";
                     }
         
                 }
