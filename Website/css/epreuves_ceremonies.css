@@ -1,0 +1,55 @@
+.content h2 {
+    font-size: 3em;
+    color: var(--accent);
+    font-family: 'Paris2024', sans-serif;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.content h3 {
+    font-size: 2em;
+}
+
+
+.options {
+    text-align: center;
+    border-style:  solid;
+    border-color:  white;
+    border-width:  1px;
+    border-radius: 5%;
+    margin: 2%;
+}
+
+.options input {
+    padding: 15px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+table{
+    margin: auto;
+    text-align: center;
+    font-family: 'Paris2024', sans-serif;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+a {
+    color: white;
+}
+
+th{
+    background-color: var(--accent);
+    font-size: 1.5em;
+}
+
+td:first-child{
+    background-color: var(--accent);
+}
+
+
+
+
+
