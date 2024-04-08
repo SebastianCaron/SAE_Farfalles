@@ -43,7 +43,7 @@
 
     <!-- VOTRE CSS -->
     <style>
-        .options{
+    .options{
         text-align: center;
     }
 
