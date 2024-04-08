@@ -8,7 +8,14 @@ $record = null;
 $athleterecord = null;
 if(isset($_GET['id'])) {
     $epreuve_id = $_GET['id'];
-    $query = "SELECT * FROM Epreuves WHERE ID_Epreuves = :epreuve_id JOIN Implique ON Epreuves.ID_Epreuves = Implique.Epreuves JOIN Resultats ON Implique.ID_Resultats = Resultats.ID_Resultats JOIN Avoir ON Resultats.ID_Resultats = Avoir.ID_Resultats JOIN Athletes ON Avoir.ID_Athletes = Athletes.ID_Athletes";
+    $query = "
+        SELECT * 
+        FROM Epreuves 
+        JOIN Implique ON Epreuves.ID_Epreuves = Implique.ID_Epreuves 
+        JOIN Resultats ON Implique.ID_Resultats = Resultats.ID_Resultats 
+        JOIN Avoir ON Resultats.ID_Resultats = Avoir.ID_Resultats 
+        JOIN Athletes ON Avoir.ID_Athletes = Athletes.ID_Athletes 
+        WHERE Epreuves.ID_Epreuves = :epreuve_id;";
     $statement = $db->prepare($query);
     $statement->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_INT);
     $statement->execute();
