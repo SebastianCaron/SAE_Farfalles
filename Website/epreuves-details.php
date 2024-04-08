@@ -15,7 +15,7 @@ if(isset($_GET['id'])) {
     $epreuve = $statement->fetch(PDO::FETCH_ASSOC);
 }
 
-$query .= " LIMIT 100";
+
 
 ?>
 
@@ -70,7 +70,7 @@ $query .= " LIMIT 100";
 
             <?php
             if ($epreuve['Categorie_Epreuves'] == 1){
-                    echo "<h3>Collectif</h3>"
+                    echo "<h3>Collectif</h3>";
                 }
                 else {
                     echo "<h3>Individuel</h3>";
@@ -93,8 +93,8 @@ $query .= " LIMIT 100";
                     <a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['Performance_Resultats']; ?></a>
                     <a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['Medaille_Resultats']; ?></a>
                     <?php if ($epreuve['Est_Record'] == 1 ){
-                        $record = $epreuve['Performance_Resultats']
-                        $athleterecord = $epreuve['Nom_Athletes']
+                        $record = $epreuve['Performance_Resultats'];
+                        $athleterecord = $epreuve['Nom_Athletes'];
                     } ?>
 
 				</li>
