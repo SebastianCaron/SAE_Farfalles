@@ -211,6 +211,11 @@ a:hover{
     align-items: center;
 }
 
+.lesauteurs img{
+    max-width: 150px;
+    aspect-ratio: initial;
+}
+
 .tablescroll{
     overflow: scroll;
     width: 90vw;
