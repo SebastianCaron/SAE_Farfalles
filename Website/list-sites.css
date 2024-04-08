@@ -1,0 +1,50 @@
+.options{
+    text-align: center;
+}
+
+.options h1{
+    font-size: 3em;
+    color: var(--accent);
+}
+
+.options label{
+    font-family: "SourceSans";
+    font-size: 1.2em;
+}
+
+.options form{
+    background-color: var(--grey);
+    color: var(--text);
+}
+
+.options input{
+    padding: 15px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.options th {
+    font-size: 1.2em;
+    border: solid;
+    border-radius: 25px;
+    padding: 5px; 
+}
+.options td, tr, a{
+    color: var(--text);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-family: "Paris2024";
+}
+
+.options td {
+    border: solid;
+    border-radius: 25px;
+}
+
+table {
+width: 100%;
+}
+
+.hide {
+    display: none;
+}
