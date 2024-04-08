@@ -189,7 +189,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
                 <div>
                     <img src="./img/Lapatte.svg" alt="lina">
-                    <h2>Quentin FOUET - (TABIA)</h2>
+                    <h2>Quentin FOUET</h2>
                     <p>Une desc ?</p>
                 </div>
                 <div>
