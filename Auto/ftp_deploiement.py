@@ -11,6 +11,7 @@ def ftp_upload(local_dir, username, password):
         ftp = ftplib.FTP(FTP_HOST, username, password)
         ftp.cwd(FTP_TARGET_DIR)
         for file in os.listdir(local_dir):
+            print(file)
             if os.path.isfile(os.path.join(local_dir, file)):
                 with open(os.path.join(local_dir, file), 'rb') as f:
                     ftp.storbinary('STOR ' + file, f)
