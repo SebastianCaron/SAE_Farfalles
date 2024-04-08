@@ -150,7 +150,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <li>
                     <h2>Les Pays</h2>
                     <ul>
-                        <li></li>
+                        <li><a href="./list-pays.php">list-sites</a></li>
                     </ul>
                 </li>
                 <li id="transports">
