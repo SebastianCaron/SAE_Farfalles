@@ -102,7 +102,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="links">
         <a href="./index.html">Accueil</a>
         <a href="./list-epreuves.html">Epreuves</a>
-        <a href="./list-Epreuves.html">Epreuves</a>
+        <a href="./list-athletes.html">Athletes</a>
+        <a href="./list-ceremonies.html">Ceremonies</a>
         <a href="./list-transports.html">Transports</a>
         <a href="./list-sites.html">Sites</a>
     </div>
