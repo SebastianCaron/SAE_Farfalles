@@ -400,11 +400,7 @@
             <?php while ($row = $query->fetch(PDO::FETCH_ASSOC)): ?>
                 <tr>
                     <td><a href="https://www.google.com/maps/search/?api=1&query=<?= $row["Latitude_Sites"] ?>,<?= $row["Longitude_Sites"] ?>" target="_blank"><?= $row["Nom_Sites"] ?></a></td>
-
-
                     <td><a href="javascript:void(0);" onclick="showEpreuves(this)"><?= $row["Nom_Villes"] ?></a></td>
-
-
                     <td><?= $row["Latitude_Sites"] ?></td>
                     <td><?= $row["Longitude_Sites"] ?></td>
                     <td><?= $row["Date_de_construction_Sites"] ?></td>
@@ -416,9 +412,11 @@
                         $query_epreuves = $db->prepare("SELECT Nom_Epreuves FROM Epreuves WHERE Nom_Sites IN (SELECT Nom_Sites FROM Sites WHERE Nom_Villes = :ville)");
                         $query_epreuves->bindParam(':ville', $ville);
                         $query_epreuves->execute();
+                        $epreuvesList = "Liste des épreuves : " . "<br>"; 
                         while ($epreuve = $query_epreuves->fetch(PDO::FETCH_ASSOC)) {
-                            echo $epreuve["Nom_Epreuves"] . "<br>";
+                            $epreuvesList .= $epreuve["Nom_Epreuves"] . "<br>";
                         }
+                        echo $epreuvesList;
                         ?>
                     </td>
                 </tr>
