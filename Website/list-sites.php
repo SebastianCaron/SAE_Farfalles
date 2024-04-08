@@ -411,13 +411,10 @@
                         <?php
                         $ville = $row["Nom_Villes"];
                         echo $ville;
-                        $query_epreuves = $db->prepare("
-                            SELECT Epreuves.Nom_Epreuves 
-                            FROM Epreuves 
+                        $query_epreuves = $db->prepare("SELECT Epreuves.Nom_Epreuves FROM Epreuves 
                             INNER JOIN Se_Produit ON Epreuves.ID_Epreuves = Se_Produit.ID_Ceremonies 
                             INNER JOIN Sites ON Se_Produit.Latitude_Sites = Sites.Latitude_Sites AND Se_Produit.Longitude_Sites = Sites.Longitude_Sites 
-                            WHERE Sites.Nom_Villes = :ville
-                        ");
+                            WHERE Sites.Nom_Villes = :ville");
                         echo $query_epreuves;
                         $query_epreuves->bindParam(':ville', $ville);
                         $query_epreuves->execute();
