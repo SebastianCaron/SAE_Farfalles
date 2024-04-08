@@ -9,25 +9,45 @@ FTP_TARGET_DIR = '/www/projets/Olympics'
 
 EXCEPTION_FILE = './libs/config.php'
 
-def ftp_upload(local_dir, ftp, local_path=''):
-    for item in os.listdir(local_dir):
-        local_item = os.path.join(local_dir, item)
-        if os.path.isfile(local_item):
-            remote_path = os.path.join(FTP_TARGET_DIR, local_path, item)
+def ftp_upload(local_dir, ftp_username, ftp_password):
+    ftp = ftplib.FTP(FTP_HOST, ftp_username, ftp_password)
+    ftp.cwd(FTP_TARGET_DIR)
+
+    for root, dirs, files in os.walk(local_dir):
+        # Répertoire sur le serveur correspondant à celui sur le système local
+        ftp_root = os.path.join(FTP_TARGET_DIR, os.path.relpath(root, local_dir))
+
+        # Créer des répertoires manquants sur le serveur
+        try:
+            ftp.mkd(ftp_root)
+        except ftplib.error_perm:
+            pass
+
+        ftp.cwd(ftp_root)
+
+        for file in files:
+            local_path = os.path.join(root, file)
+            ftp_path = os.path.join(ftp_root, file)
+
+            # Vérifier si le fichier existe sur le serveur
             try:
-                ftp.cwd(remote_path)
+                ftp.sendcmd('MDTM ' + ftp_path)
+                # Si le fichier existe, obtenir la date de dernière modification
+                server_mtime = ftp.sendcmd('MDTM ' + ftp_path)[4:].strip()
+                server_mtime = time.strptime(server_mtime, '%Y%m%d%H%M%S')
+                server_mtime = time.mktime(server_mtime)
+                local_mtime = os.path.getmtime(local_path)
+
+                # Si le fichier local est plus récent, télécharger
+                if local_mtime > server_mtime:
+                    with open(local_path, 'rb') as f:
+                        ftp.storbinary('STOR ' + ftp_path, f)
             except ftplib.error_perm:
-                ftp.mkd(remote_path)
-                ftp.cwd(remote_path)
-            with open(local_item, 'rb') as file:
-                if item != EXCEPTION_FILE:
-                    try:
-                        ftp.storbinary('STOR ' + item, file)
-                    except Exception as e:
-                        print("Error:", e)
-                        continue
-        elif os.path.isdir(local_item):
-            ftp_upload(local_item, ftp, os.path.join(local_path, item))
+                # Si le fichier n'existe pas sur le serveur, télécharger
+                with open(local_path, 'rb') as f:
+                    ftp.storbinary('STOR ' + ftp_path, f)
+
+    ftp.quit()
 
 if __name__ == "__main__":
     username = sys.argv[1]
