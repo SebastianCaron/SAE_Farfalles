@@ -326,6 +326,20 @@
 
     <!-- VOS SCRIPTS -->
 
+    <script>
+            function showEpreuves(element) {
+                var tr = element.parentNode.parentNode;
+                var epreuvesColumn = document.getElementById('epreuves_column');
+                var epreuvesCell = tr.cells[tr.cells.length - 1]; 
+
+                if (epreuvesCell.classList.contains('hide')) {
+                    epreuvesCell.classList.remove('hide');
+                } else {
+                    epreuvesCell.classList.add('hide');
+                }
+            }
+    </script>
+
 </head>
 <body>
 
@@ -413,19 +427,7 @@
         </table>
 
 
-        <script>
-            function showEpreuves(element) {
-                var tr = element.parentNode.parentNode;
-                var epreuvesColumn = document.getElementById('epreuves_column');
-                var epreuvesCell = tr.cells[tr.cells.length - 1]; 
-
-                if (epreuvesCell.classList.contains('hide')) {
-                    epreuvesCell.classList.remove('hide');
-                } else {
-                    epreuvesCell.classList.add('hide');
-                }
-            }
-        </script>
+        
     </div>
 </body>
 </html>
