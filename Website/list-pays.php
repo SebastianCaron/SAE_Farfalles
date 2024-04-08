@@ -6,7 +6,7 @@ global $db;
 function getPays($db, $filters) {
     $whereClause = '';
     foreach ($filters as $field => $value) {
-        $validFields = array('ID', 'Drapeau', 'Nom_Français', 'Nom_Anglais');
+        $validFields = array('ID', 'Drapeau', 'Nom_Francais', 'Nom_Anglais');
         if (in_array($field, $validFields)) {
             if ($whereClause !== '') {
                 $whereClause .= ' AND ';
@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $filters = array(
         'ID' => $_POST["id"],
         'Drapeau' => $_POST["drapeau"],
-        'Nom_Français' => $_POST["nom_francais"],
+        'Nom_Francais' => $_POST["nom_francais"],
         'Nom_Anglais' => $_POST["nom_anglais"]
     );
 
@@ -105,7 +105,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <img src="<?php echo $pays['Drapeau']; ?>" alt="Drapeau du pays">
                     </a>
                     <strong><?php echo $pays['ID']; ?></strong>
-                    <span><strong>FR : </strong></span> <?php echo $pays['Nom_Français']; ?>
+                    <span><strong>FR : </strong></span> <?php echo $pays['Nom_Francais']; ?>
                     <span><strong>EN : </strong></span> <?php echo $pays['Nom_Anglais']; ?>
                     <span><a href="https://fr.wikipedia.org/wiki/<?php echo $pays['Nom_Anglais']; ?>" target="_blank">Wikipédia</a></span>
                 </li>
