@@ -113,7 +113,6 @@
 		</div>
 		<table>
 			<tr>
-                <th>.</th>
 				<th>NOM CEREMONIE</th>
 				<th>DATE CEREMONIE</th>
 				<th>SITE CEREMONIE</th>
