@@ -17,10 +17,8 @@ def upload_files(ftp, local_dir, remote_dir):
             try:
                 local_mtime = os.path.getmtime(local_path)
                 remote_mtime = ftp.sendcmd('MDTM ' + remote_path)[4:].strip()
-                remote_mtime = ftp.voidcmd('MDTM ' + remote_path)[4:].strip()
-                remote_mtime = ftp.sendcmd('MDTM ' + remote_path)[4:].strip()
                 if str(local_mtime) == remote_mtime:
-                    print(f"{local_path} déjà à jour, sauté.")
+                    print(f"{local_path} déjà à jour, skip.")
                     continue
             except:
                 pass
@@ -44,7 +42,10 @@ def ftp_upload(local_dir, username, password):
         ftp_files = ftp.nlst()
         for ftp_file in ftp_files:
             if ftp_file != EXCEPTION_FILE:
-                ftp.delete(ftp_file)
+                try:
+                    ftp.delete(ftp_file)
+                except Exception as e:
+                    print(f"Erreur lors de la suppression de {ftp_file}: {e}")
 
         # Charger les nouveaux fichiers
         upload_files(ftp, local_dir, '/')
