@@ -13,13 +13,8 @@
 }
 
 .options form{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    gap: 10px;
-    margin: 5px 15px;
+    background-color: var(--grey);
     color: var(--text);
-    height: 75px;
 }
 
 .options input{
@@ -31,7 +26,6 @@
 .options td, tr, a{
     color: var(--text);
     text-decoration: none;
-    font-size: 1em;
-    width: 15%;
+    font-size: 1.4em;
     font-family: "Paris2024";
 }
