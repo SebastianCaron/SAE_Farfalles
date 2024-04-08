@@ -6,7 +6,7 @@ $query_arrets = "
     SELECT DISTINCT Nom_Arrets
     FROM Arrets
     GROUP BY ID_Voyages
-    HAVING COUNT(*) > 4
+    HAVING COUNT(*) > 2
     ORDER BY Nom_Arrets ASC";
 $statement_arrets = $db->query($query_arrets);
 $arrets = $statement_arrets->fetchAll(PDO::FETCH_COLUMN);
