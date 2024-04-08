@@ -386,8 +386,12 @@
             
             <?php while ($row = $query->fetch(PDO::FETCH_ASSOC)): ?>
                 <tr>
-                    <td><a href="javascript:void(0);" onclick="showEpreuves(this)"><?= $row["Nom_Sites"] ?></a></td>
-                    <td><?= $row["Nom_Villes"] ?></td>
+                    <td><a href="https://www.google.com/maps/search/?api=1&query=<?= $row["Latitude_Sites"] ?>,<?= $row["Longitude_Sites"] ?>" target="_blank"><?= $row["Nom_Sites"] ?></a></td>
+
+
+                    <td><a href="javascript:void(0);" onclick="showEpreuves(this)"><?= $row["Nom_Villes"] ?></a></td>
+
+
                     <td><?= $row["Latitude_Sites"] ?></td>
                     <td><?= $row["Longitude_Sites"] ?></td>
                     <td><?= $row["Date_de_construction_Sites"] ?></td>
