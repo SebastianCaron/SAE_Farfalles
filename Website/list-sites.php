@@ -326,20 +326,6 @@
 
     <!-- VOS SCRIPTS -->
 
-    <script>
-            function showEpreuves(element) {
-                var tr = element.parentNode.parentNode;
-                var epreuvesColumn = document.getElementById('epreuves_column');
-                var epreuvesCell = tr.cells[tr.cells.length - 1]; 
-
-                if (epreuvesCell.classList.contains('hide')) {
-                    epreuvesCell.classList.remove('hide');
-                } else {
-                    epreuvesCell.classList.add('hide');
-                }
-            }
-    </script>
-
 </head>
 <body>
 
@@ -395,8 +381,21 @@
                 <th>Date de construction</th>
                 <th>Capacité d'accueil</th>
                 <th>Accessibilité</th>
-                <th id="epreuves_column" class="hide">Épreuves</th> <!-- Nouvelle colonne pour afficher les épreuves -->
+                <th id="epreuves_column" class="hide">Épreuves</th> 
             </tr>
+
+            <script>
+                function showEpreuves(element) {
+                var tr = element.parentNode.parentNode;
+                var epreuvesCell = tr.cells[tr.cells.length - 1]; 
+
+                if (epreuvesCell.classList.contains('hide')) {
+                    epreuvesCell.classList.remove('hide');
+                } else {
+                    epreuvesCell.classList.add('hide');
+                }
+                }
+            </script>
             
             <?php while ($row = $query->fetch(PDO::FETCH_ASSOC)): ?>
                 <tr>
