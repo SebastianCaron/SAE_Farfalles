@@ -101,7 +101,7 @@ CREATE TABLE Sites (
 CREATE TABLE Pays (
     ID VARCHAR(3) PRIMARY KEY,
     Drapeau VARCHAR(200),
-    Nom_Français VARCHAR(100),
+    Nom_Francais VARCHAR(100),
     Nom_Anglais VARCHAR(200)
 ) ENGINE=InnoDB;
 
