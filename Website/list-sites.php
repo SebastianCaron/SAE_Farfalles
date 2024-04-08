@@ -311,6 +311,10 @@
         border: solid;
         border-radius: 25px;
     }
+
+    table {
+    width: 100%;
+    }
     </style>
 
     
