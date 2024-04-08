@@ -411,7 +411,7 @@
                         <?php
                         $ville = $row["Nom_Villes"];
                         echo $ville;
-                        $query_epreuves = $db->prepare("SELECT Nom_Epreuves FROM Epreuves JOIN Se_Deroule ON Epreuves.ID_Epreuves = Se_Deroule.ID_Epreuves JOIN Sites ON Se_Deroule.Latitude_Sites = Sites.Latitude_Sites AND Se_Deroule.Longitude_Sites = Sites.Longitude_Sites WHERE Sites.Nom_Villes = :ville");
+                        $query_epreuves = $db->prepare("SELECT Epreuves.Nom_Epreuves FROM Epreuves JOIN Se_Deroule ON Epreuves.ID_Epreuves = Se_Deroule.ID_Epreuves JOIN Sites ON Se_Deroule.Latitude_Sites = Sites.Latitude_Sites AND Se_Deroule.Longitude_Sites = Sites.Longitude_Sites WHERE Sites.Nom_Villes = :ville");
                         echo $query_epreuves;
                         $query_epreuves->bindParam(':ville', $ville);
                         $query_epreuves->execute();
