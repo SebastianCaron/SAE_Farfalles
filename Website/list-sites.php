@@ -286,6 +286,8 @@
     .options form{
         background-color: var(--grey);
         color: var(--text);
+        display: flex;
+
     }
 
     .options input{
@@ -352,12 +354,12 @@
     <div class="options">
         <h1>Paris 2024 - Sites</h1>
         <form method="post">
-            <input type="text" name="Nom_Sites" placeholder="Nom"><br>
-            <input type="text" name="Nom_Villes" placeholder="Ville"><br>
-            <input type="text" name="Latitude_Sites" placeholder="Latitude"><br>
-            <input type="text" name="Longitude_Sites" placeholder="Longitude"><br>
-            <input type="text" name="Date_de_construction_Sites" placeholder="Date de construction"><br>
-            <input type="text" name="Capacite_d_acceuil_Sites" placeholder="Capacité d'accueil"><br>
+            <input type="text" name="Nom_Sites" placeholder="Nom">
+            <input type="text" name="Nom_Villes" placeholder="Ville">
+            <input type="text" name="Latitude_Sites" placeholder="Latitude">
+            <input type="text" name="Longitude_Sites" placeholder="Longitude">
+            <input type="text" name="Date_de_construction_Sites" placeholder="Date de construction">
+            <input type="text" name="Capacite_d_acceuil_Sites" placeholder="Capacité d'accueil">
             <input type="text" name="Accessibilite_Sites" placeholder="Accessibilité"><br>
             <input type="submit" value="Filtrer">
         </form>
