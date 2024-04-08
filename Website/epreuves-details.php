@@ -56,12 +56,12 @@ if(isset($_GET['id'])) {
 
     <div class="navigation">
         <div class="links">
-            <a href="./index.html">Accueil</a>
-            <a href="./list-epreuves.html">Epreuves</a>
+            <a href="./index.php">Accueil</a>
+            <a href="./list-epreuves.pho">Epreuves</a>
             <a href="./list-athletes.php">Athletes</a>
 	    <a href="./list-ceremonies.php">Ceremonies</a>
-            <a href="./list-transports.html">Transports</a>
-            <a href="./list-sites.html">Sites</a>
+            <a href="./list-transports.php">Transports</a>
+            <a href="./list-sites.php">Sites</a>
         </div>
         <img src="./img/phryge.png" alt="mascotte paris2024">
     </div>
