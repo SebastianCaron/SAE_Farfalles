@@ -36,5 +36,6 @@
 .pays-liste li span a{
     background-color: #000000;
     padding: 1vw 2vw;
+    border-radius:100px;
 }
 
