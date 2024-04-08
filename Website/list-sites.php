@@ -94,24 +94,30 @@
 
         <table>
             <tr>
+                <th>Nom</th>
+                <th>Ville</th>
                 <th>Latitude</th>
                 <th>Longitude</th>
-                <th>Nom</th>
                 <th>Date de construction</th>
                 <th>Capacité d'accueil</th>
                 <th>Accessibilité</th>
-                <th>Ville</th>
             </tr>
             
             <?php while ($row = $query->fetch(PDO::FETCH_ASSOC)): ?>
                 <tr>
-                    <td><?= $row["Latitude_Sites"] ?></td>
-                    <td><?= $row["Longitude_Sites"] ?></td>
                     <td><a href="https://www.google.com/maps/search/?api=1&query=<?= $row["Latitude_Sites"] ?>,<?= $row["Longitude_Sites"] ?>" target="_blank"><?= $row["Nom_Sites"] ?></a></td>
-                    <td><?= $row["Date_de_construction_Sites"] ?></td>
-                    <td><?= $row["Capacite_d_acceuil_Sites"] ?></td>
-                    <td><?= $row["Accessibilite_Sites"] ?></td>
+
                     <td><?= $row["Nom_Villes"] ?></td>
+
+                    <td><?= $row["Latitude_Sites"] ?></td>
+
+                    <td><?= $row["Longitude_Sites"] ?></td>
+
+                    <td><?= $row["Date_de_construction_Sites"] ?></td>
+
+                    <td><?= $row["Capacite_d_acceuil_Sites"] ?></td>
+                    
+                    <td><?= $row["Accessibilite_Sites"] ?></td>
                 </tr>
             <?php endwhile; ?>
         </table>
