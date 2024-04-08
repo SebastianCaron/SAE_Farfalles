@@ -92,7 +92,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
         <h4>Menu</h4>
     </div>
-    <a href="./index.html"><h2>Farfalles!</h2></a>
+    <a href="./index.php"><h2>Farfalles!</h2></a>
     <div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
         <img src="./img/paris2024.gif" alt="paris2024 image">
     </div>
@@ -104,7 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <a href="./list-epreuves.php">Epreuves</a>
         <a href="./list-athletes.php">Athletes</a>
         <a href="./list-ceremonies.php">Ceremonies</a>
-        <a href="./list-transports.php">Transports</a>
+        <a href="./index.php#transports">Transports</a>
         <a href="./list-sites.php">Sites</a>
     </div>
 

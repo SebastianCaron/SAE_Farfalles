@@ -96,7 +96,7 @@
 			</div>
 			<h4>Menu</h4>
 		</div>
-		<a href="./index.html"><h2>Farfalles!</h2></a>
+		<a href="./index.php"><h2>Farfalles!</h2></a>
 		<div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
 			<img src="./img/paris2024.gif" alt="paris2024 image">
 		</div>
@@ -104,11 +104,11 @@
 
 	<div class="navigation">
 		<div class="links">
-			<a href="./index.html">Accueil</a>
-			<a href="./list-epreuves.html">Epreuves</a>
+			<a href="./index.php">Accueil</a>
+			<a href="./list-epreuves.php">Epreuves</a>
 			<a href="./list-athletes.php">Athletes</a>
-			<a href="./list-transports.html">Transports</a>
-			<a href="./list-sites.html">Sites</a>
+			<a href="./index.php#transports">Transports</a>
+			<a href="./list-sites.php">Sites</a>
 		</div>
 
 		<img src="./img/phryge.png" alt="mascotte paris2024">

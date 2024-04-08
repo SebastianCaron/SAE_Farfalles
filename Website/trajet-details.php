@@ -57,7 +57,7 @@ if(isset($_GET['id'])) {
             <a href="./index.php">Accueil</a>
             <a href="./list-epreuves.php">Epreuves</a>
             <a href="./list-athletes.php">Athletes</a>
-            <a href="./transports.php">Transports</a>
+            <a href="./index.php#transports">Transports</a>
             <a href="./list-sites.php">Sites</a>
         </div>
         <img src="./img/phryge.png" alt="mascotte paris2024">

@@ -72,7 +72,7 @@
             <a href="./index">Accueil</a>
             <a href="./list-epreuves.php">Epreuves</a>
             <a href="./list-athletes.php">Athletes</a>
-            <a href="./list-transports.php">Transports</a>
+            <a href="./index.php#transports">Transports</a>
             <a href="./list-sites.php">Sites</a>
         </div>
 
