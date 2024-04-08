@@ -3,23 +3,12 @@ import ftplib
 import os
 import time
 
-import hashlib
-
 
 FTP_HOST = 'ftp.cluster031.hosting.ovh.net'
 FTP_TARGET_DIR = '/www/projets/Olympics'
 
 EXCEPTION_FILE = './libs/config.php'
 
-def get_file_hash(file_path):
-    """
-    Calcule le hachage MD5 du contenu du fichier.
-    """
-    hasher = hashlib.md5()
-    with open(file_path, 'rb') as f:
-        for chunk in iter(lambda: f.read(4096), b''):
-            hasher.update(chunk)
-    return hasher.hexdigest()
 
 def ftp_upload(local_dir, ftp_username, ftp_password):
     ftp = ftplib.FTP(FTP_HOST, ftp_username, ftp_password)
@@ -43,31 +32,24 @@ def ftp_upload(local_dir, ftp_username, ftp_password):
 
             # Vérifier si le fichier existe sur le serveur
             try:
-                # Calculer le hachage du fichier local
-                local_hash = get_file_hash(local_path)
+                ftp.sendcmd('MDTM ' + ftp_path)
+                # Si le fichier existe, obtenir la date de dernière modification
+                server_mtime = ftp.sendcmd('MDTM ' + ftp_path)[4:].strip()
+                server_mtime = time.strptime(server_mtime, '%Y%m%d%H%M%S')
+                server_mtime = time.mktime(server_mtime)
+                local_mtime = os.path.getmtime(local_path)
 
-                # Télécharger le fichier si son hachage est différent ou s'il n'existe pas sur le serveur
-                try:
-                    # Télécharger le fichier pour obtenir son hachage sur le serveur
-                    with open(local_path, 'rb') as f:
-                        ftp.storbinary('STOR ' + ftp_path, f)
-
-                    # Calculer le hachage du fichier téléchargé sur le serveur
-                    ftp_hash = hashlib.md5(ftp.retrbinary('RETR ' + ftp_path, f.read)).hexdigest()
-
-                    # Comparer les hachages
-                    if local_hash != ftp_hash:
-                        # Télécharger le fichier car les hachages sont différents
-                        with open(local_path, 'rb') as f:
-                            ftp.storbinary('STOR ' + ftp_path, f)
-                except ftplib.error_perm:
-                    # Le fichier n'existe pas sur le serveur, donc le télécharger
+                # Si le fichier local est plus récent, télécharger
+                if local_mtime > server_mtime:
                     with open(local_path, 'rb') as f:
                         ftp.storbinary('STOR ' + ftp_path, f)
             except ftplib.error_perm:
-                pass
+                # Si le fichier n'existe pas sur le serveur, télécharger
+                with open(local_path, 'rb') as f:
+                    ftp.storbinary('STOR ' + ftp_path, f)
 
     ftp.quit()
+
 if __name__ == "__main__":
     username = sys.argv[1]
     password = sys.argv[2]
