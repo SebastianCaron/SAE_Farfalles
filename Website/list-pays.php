@@ -103,8 +103,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <li>
                     <img src="<?php echo $pays['Drapeau']; ?>" alt="Drapeau du pays">
                     <strong><?php echo $pays['ID']; ?></strong>
-                    <span>Nom Français : </span> <?php echo $pays['Nom_Français']; ?>
-                    <span>Nom Anglais : </span> <?php echo $pays['Nom_Anglais']; ?>
+                    <span>FR : </span> <?php echo $pays['Nom_Français']; ?>
+                    <span>EN : </span> <?php echo $pays['Nom_Anglais']; ?>
                 </li>
             <?php endforeach; ?>
         </ul>
