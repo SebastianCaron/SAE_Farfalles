@@ -20,12 +20,11 @@
     background-color: rgba(255, 255, 255, 0.8);
     margin-bottom: 10px;
     padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
 }
 
 .pays-liste li img {
-    width: 30px;
+    width: 50px;
     height: auto; 
     margin-right: 10px;
     border-radius: 3px;
