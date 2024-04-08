@@ -42,8 +42,38 @@
 
 
     <!-- VOTRE CSS -->
-    <link rel="stylesheet" type="text/css" href="./css/list-sites.css">
+    <style>
+        .options{
+        text-align: center;
+    }
 
+    .options h1{
+        font-size: 3em;
+        color: var(--accent);
+    }
+
+    .options label{
+        font-family: "SourceSans";
+        font-size: 1.2em;
+    }
+
+    .options form{
+        background-color: var(--grey);
+        color: var(--text);
+    }
+
+    .options input{
+        padding: 15px;
+        border-radius: 25px;
+        margin: 10px;
+    }
+
+    .options td, tr, a{
+        color: var(--text);
+        text-decoration: none;
+        font-size: 1.4em;
+        font-family: "Paris2024";
+    }</style>
 
     <!-- VOS SCRIPTS -->
 
@@ -82,13 +112,13 @@
     <div class="options">
         <h1>Paris 2024 - Sites</h1>
         <form method="post">
+            <label>Nom: <input type="text" name="Nom_Sites"></label><br>
+            <label>Ville: <input type="text" name="Nom_Villes"></label><br>
             <label>Latitude: <input type="text" name="Latitude_Sites"></label><br>
             <label>Longitude: <input type="text" name="Longitude_Sites"></label><br>
-            <label>Nom: <input type="text" name="Nom_Sites"></label><br>
             <label>Date de construction: <input type="text" name="Date_de_construction_Sites"></label><br>
             <label>Capacité d'accueil: <input type="text" name="Capacite_d_acceuil_Sites"></label><br>
             <label>Accessibilité: <input type="text" name="Accessibilite_Sites"></label><br>
-            <label>Ville: <input type="text" name="Nom_Villes"></label><br>
             <input type="submit" value="Filtrer">
         </form>
 
