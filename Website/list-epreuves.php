@@ -76,7 +76,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link rel="stylesheet" type="text/css" href="./css/all.css">
 
     <!-- VOTRE CSS -->
-
+    <link rel="stylesheet" type="text/css" href="./css/epreuves-ceremonies.css">
     <!-- VOS SCRIPTS -->
 
 </head>
