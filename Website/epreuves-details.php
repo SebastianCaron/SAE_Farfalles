@@ -59,6 +59,7 @@ if(isset($_GET['id'])) {
             <a href="./index.html">Accueil</a>
             <a href="./list-epreuves.html">Epreuves</a>
             <a href="./list-athletes.php">Athletes</a>
+	    <a href="./list-ceremonies.php">Ceremonies</a>
             <a href="./list-transports.html">Transports</a>
             <a href="./list-sites.html">Sites</a>
         </div>
