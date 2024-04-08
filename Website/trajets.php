@@ -3,7 +3,7 @@ include 'libs/config.php';
 
 // Récupération des arrêts depuis la base de données pour les options du formulaire
 $query_arrets = "
-    SELECT Nom_Arrets
+    SELECT DISTINCT Nom_Arrets
     FROM Arrets
     GROUP BY ID_Voyages
     HAVING COUNT(*) > 4
