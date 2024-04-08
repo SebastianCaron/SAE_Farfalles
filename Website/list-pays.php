@@ -100,10 +100,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <ul>
             <?php foreach ($pays as $pays) : ?>
                 <li>
-                    <strong>ID:</strong> <?php echo $pays['ID']; ?>,
-                    <strong>Drapeau:</strong> <?php echo $pays['Drapeau']; ?>,
-                    <strong>Nom Français:</strong> <?php echo $pays['Nom_Français']; ?>,
-                    <strong>Nom Anglais:</strong> <?php echo $pays['Nom_Anglais']; ?>
+                    <span>ID : </span><?php echo $pays['ID']; ?>,
+                    <span>Drapeau : </span> <?php echo $pays['Drapeau']; ?>,
+                    <span>Nom Français : </span> <?php echo $pays['Nom_Français']; ?>,
+                    <span>Nom Anglais : </span> <?php echo $pays['Nom_Anglais']; ?>
                 </li>
             <?php endforeach; ?>
         </ul>
