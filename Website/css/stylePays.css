@@ -3,12 +3,12 @@
     padding: 20px;
     border-radius: 5px;
     color : #000000;
+    text-align : center;
 }
 
 .pays-liste h2 {
     font-size: 6vw;
     margin-bottom: 10px;
-    text-align : center;
     color : #ffffff;
 }
 
