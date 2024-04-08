@@ -150,7 +150,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <li>
                     <h2>Les Pays</h2>
                     <ul>
-                        <li><a href="./list-pays.php">list-pays</a></li>
+                        <li></li>
                     </ul>
                 </li>
                 <li>
@@ -164,10 +164,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     </ul>
                     <h3>Les Details</h3>
                     <ul>
-                        <li><a href="./list-agences.php">list-agences</a></li>
-                        <li><a href="./list-lignes.php">list-lignes</a></li>
-                        <li><a href="./list-voyages.php">list-voyages</a></li>
-                        <li><a href="./list-arrets.php">list-arrets</a></li>
+                        <li><a href="./agence-details.php?id=1046">agence-details</a></li>
+                        <li><a href="./ligne-details.php?id=02372">ligne-details</a></li>
+                        <li><a href="./voyage-details.php?id=BIEVRE_BUS_MOBILITES:108111-C00344-17062223">voyage-details</a></li>
+                        <li><a href="./arret-details.php?id=15198">arret-details</a></li>
                     </ul>
                     <h3>Autres</h3>
                     <ul>
@@ -189,7 +189,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
                 <div>
                     <img src="./img/Lapatte.svg" alt="lina">
-                    <h2>Quentin FOUET</h2>
+                    <h2>Quentin FOUET - (TABIA)</h2>
                     <p>Une desc ?</p>
                 </div>
                 <div>
