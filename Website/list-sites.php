@@ -4,6 +4,7 @@
     global $db;
 
     $sql = 'SELECT * FROM Sites';
+    $sql2 = 'SELECT * FROM Epreuves';
 
     $auMoinsUnChamp = false;
 
@@ -42,283 +43,283 @@
 
 
     <!-- VOTRE CSS -->
-    <link rel="stylesheet" type="text/css" href="./css/list-sites.css">
+    <!-- <link rel="stylesheet" type="text/css" href="./css/list-sites.css"> -->
     <style>
-        :root{
-            --text: #FFFFFF;
-            --background: #080807;
-            --accent: #D7C378;
-            --gold: #FFC900;
-            --silver: #FFFFFF;
-            --bronze: #FFBD98;
-            --primary: #FFC800;
-            --secondary: #344366;
-        }
+    :root{
+        --text: #FFFFFF;
+        --background: #080807;
+        --accent: #D7C378;
+        --gold: #FFC900;
+        --silver: #FFFFFF;
+        --bronze: #FFBD98;
+        --primary: #FFC800;
+        --secondary: #344366;
+    }
 
 
-        @font-face {
-            font-family: 'Paris2024';
-            src: url('fonts/Paris2024-Variable.woff2') format('woff2'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-                url('fonts/Paris2024-Variable.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
-        }  
+    @font-face {
+        font-family: 'Paris2024';
+        src: url('fonts/Paris2024-Variable.woff2') format('woff2'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+            url('fonts/Paris2024-Variable.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+    }  
 
-        @font-face {
-            font-family: 'SourceSans';
-            src: url('fonts/SourceSans3.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
-        }  
+    @font-face {
+        font-family: 'SourceSans';
+        src: url('fonts/SourceSans3.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+    }  
 
-        body{
-            margin: 0;
-            padding: 0;
-            scroll-behavior: smooth;
-            box-sizing: border-box;
-            font-family: 'SourceSans', sans-serif;
-            background-color: var(--background);
-            color: var(--text);
-            overflow-x: hidden;
-        }
+    body{
+        margin: 0;
+        padding: 0;
+        scroll-behavior: smooth;
+        box-sizing: border-box;
+        font-family: 'SourceSans', sans-serif;
+        background-color: var(--background);
+        color: var(--text);
+        overflow-x: hidden;
+    }
 
-        h1, h2, h3{
-            font-family: 'Paris2024', sans-serif;
-        }
+    h1, h2, h3{
+        font-family: 'Paris2024', sans-serif;
+    }
 
-        nav{
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-            width: 100%;
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            align-items: center;
-            background-color: var(--background);
-
-        }
-
-
-        nav > div:nth-child(1){
-            width: 20vw;
-            min-width: 50px;
-            max-width: 200px;
-        }
-
-        nav > div:nth-child(2){
-            width: 60vw;
-            min-width: 100px;
-            max-width: 200px;
-        }
-        nav > div:nth-child(3){
-            width: 20vw;
-            min-width: 50px;
-            max-width: 200px;
-            max-height: 80px;
-        }
-
-        nav > div{
-            height: 100px;
-        }
-
-        nav > .menu-bars{
-            display: flex;
-            justify-content: center;
-            flex-direction: row;
-            align-items: center;
-            gap: 20px;
-            cursor: pointer;
-        }
-
-        nav > .menu-bars > h4{
-            font-size: 1.2em;
-        }
-
-        nav > .menu-bars > div{
-            border-radius: 50000px;
-            background-color: var(--text);
-            padding: 20px;
-            aspect-ratio: 1 / 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            max-width: 60px;
-            max-height: 60px;
-        }
-
-        nav > a{
-            color: var(--text);
-            font-size: 1.4em;
-            text-decoration: none;
-            font-weight: 200;
-        }
-
-
-        nav .img{
-            text-align: right;
-            margin-right: 10px;
-            cursor: pointer;
-            max-width: 80px;
-            max-height: 80px;
-        }
-        nav .img img{
-            aspect-ratio: 1 / 1;
-            max-width: 80px;
-            max-height: 80px;
-            object-fit: contain;
-
-        }
-
-        .navigation{
-            position: fixed;
-            top: -100%;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 999;
-            background-color: white;
-            display: flex;
-            flex-direction: row;
-            align-items: center;
-            justify-content: start;
-            transition: all 0.3s ease;
-        }
-
-        .navigation.active{
-            top: 0;
-            transition: all 0.3s ease;
-        }
-
-        #menu_bt{
-            display: block;
-            transform: rotateY(0) perspective(1000px) translateX(0);
-            transition: all 0s ease-in-out;
-            transition: opacity 0.22s ease-in transform 0.25s ease-in-out;
-            opacity: 1;
-        }
-        #menu_bt.anim{
-            transform: rotateY(90deg) perspective(1000px) translateX(200%);
-            opacity: 0.01;
-            display: none;
-        }
-
-        #menu_bt_close{
-            display: none;
-            transform: rotateY(90deg) perspective(1000px) translateX(-200%);
-            transition: all 0s ease-in-out;
-            transition: opacity 0.22s ease-in transform 0.25s ease-in-out;
-            opacity: 0.01;
-        }
-        #menu_bt_close.anim{
-            transform: rotateY(0) perspective(1000px) translateX(0);
-            opacity: 1;
-            display: block;
-        }
-
-        .navigation > .links{
-            display: flex;
-            flex-direction: column;
-            margin-left: 5vw;
-            gap: 20px;
-        }
-
-        .navigation > .links > a{
-            color: var(--secondary);
-            font-size: 3em;
-            font-weight: 500;
-            font-family: 'Paris2024';
-            text-decoration: none;
-            letter-spacing: 3%;
-            position: relative;
-        }
-
-        .navigation > .links > a:after {    
-            background: none repeat scroll 0 0 transparent;
-            border-radius: 3px;
-            content: "";
-            display: block;
-            height: 5px;
-            position: absolute; 
-            left: 0;
-            bottom: 0;
-            background: var(--secondary);
-            width: 0;
-        }
-
-        .navigation > .links > a:hover:after{
-            animation: 0.3s linear hoverlinks;
-            animation-fill-mode: forwards;
-        }
-
-        .navigation > img{
-            margin-left: 30%;
-            padding-top: 15px;
-        }
-
-        @keyframes hoverlinks{
-            0%{
-                width: 0;
-                left: 0;
-                bottom: 0;
-            }
-            50% {
-                width: 100%;
-            }
-            100% {
-                width: 15%;
-            }
-        }
-
-        .options{
-            text-align: center;
-        }
-
-        .options h1{
-            font-size: 3em;
-            color: var(--accent);
-        }
-
-        .options label{
-            font-family: "SourceSans";
-            font-size: 1.2em;
-        }
-
-        .options form{
-            background-color: var(--grey);
-            color: var(--text);
-        }
-
-        .options input{
-            padding: 15px;
-            border-radius: 25px;
-            margin: 10px;
-        }
-
-        .options th {
-            font-size: 1.2em;
-            border: solid;
-            border-radius: 25px;
-            padding: 5px; 
-        }
-        .options td, tr, a{
-            color: var(--text);
-            text-decoration: none;
-            font-size: 1.1em;
-            font-family: "Paris2024";
-        }
-
-        .options td {
-            border: solid;
-            border-radius: 25px;
-        }
-
-        table {
+    nav{
+        position: sticky;
+        top: 0;
+        z-index: 1000;
         width: 100%;
-        }
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        background-color: var(--background);
 
-        .hide {
-            display: none;
+    }
+
+
+    nav > div:nth-child(1){
+        width: 20vw;
+        min-width: 50px;
+        max-width: 200px;
+    }
+
+    nav > div:nth-child(2){
+        width: 60vw;
+        min-width: 100px;
+        max-width: 200px;
+    }
+    nav > div:nth-child(3){
+        width: 20vw;
+        min-width: 50px;
+        max-width: 200px;
+        max-height: 80px;
+    }
+
+    nav > div{
+        height: 100px;
+    }
+
+    nav > .menu-bars{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        gap: 20px;
+        cursor: pointer;
+    }
+
+    nav > .menu-bars > h4{
+        font-size: 1.2em;
+    }
+
+    nav > .menu-bars > div{
+        border-radius: 50000px;
+        background-color: var(--text);
+        padding: 20px;
+        aspect-ratio: 1 / 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 60px;
+        max-height: 60px;
+    }
+
+    nav > a{
+        color: var(--text);
+        font-size: 1.4em;
+        text-decoration: none;
+        font-weight: 200;
+    }
+
+
+    nav .img{
+        text-align: right;
+        margin-right: 10px;
+        cursor: pointer;
+        max-width: 80px;
+        max-height: 80px;
+    }
+    nav .img img{
+        aspect-ratio: 1 / 1;
+        max-width: 80px;
+        max-height: 80px;
+        object-fit: contain;
+
+    }
+
+    .navigation{
+        position: fixed;
+        top: -100%;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 999;
+        background-color: white;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: start;
+        transition: all 0.3s ease;
+    }
+
+    .navigation.active{
+        top: 0;
+        transition: all 0.3s ease;
+    }
+
+    #menu_bt{
+        display: block;
+        transform: rotateY(0) perspective(1000px) translateX(0);
+        transition: all 0s ease-in-out;
+        transition: opacity 0.22s ease-in transform 0.25s ease-in-out;
+        opacity: 1;
+    }
+    #menu_bt.anim{
+        transform: rotateY(90deg) perspective(1000px) translateX(200%);
+        opacity: 0.01;
+        display: none;
+    }
+
+    #menu_bt_close{
+        display: none;
+        transform: rotateY(90deg) perspective(1000px) translateX(-200%);
+        transition: all 0s ease-in-out;
+        transition: opacity 0.22s ease-in transform 0.25s ease-in-out;
+        opacity: 0.01;
+    }
+    #menu_bt_close.anim{
+        transform: rotateY(0) perspective(1000px) translateX(0);
+        opacity: 1;
+        display: block;
+    }
+
+    .navigation > .links{
+        display: flex;
+        flex-direction: column;
+        margin-left: 5vw;
+        gap: 20px;
+    }
+
+    .navigation > .links > a{
+        color: var(--secondary);
+        font-size: 3em;
+        font-weight: 500;
+        font-family: 'Paris2024';
+        text-decoration: none;
+        letter-spacing: 3%;
+        position: relative;
+    }
+
+    .navigation > .links > a:after {    
+        background: none repeat scroll 0 0 transparent;
+        border-radius: 3px;
+        content: "";
+        display: block;
+        height: 5px;
+        position: absolute; 
+        left: 0;
+        bottom: 0;
+        background: var(--secondary);
+        width: 0;
+    }
+
+    .navigation > .links > a:hover:after{
+        animation: 0.3s linear hoverlinks;
+        animation-fill-mode: forwards;
+    }
+
+    .navigation > img{
+        margin-left: 30%;
+        padding-top: 15px;
+    }
+
+    @keyframes hoverlinks{
+        0%{
+            width: 0;
+            left: 0;
+            bottom: 0;
         }
+        50% {
+            width: 100%;
+        }
+        100% {
+            width: 15%;
+        }
+    }
+
+    .options{
+        text-align: center;
+    }
+
+    .options h1{
+        font-size: 3em;
+        color: var(--accent);
+    }
+
+    .options label{
+        font-family: "SourceSans";
+        font-size: 1.2em;
+    }
+
+    .options form{
+        background-color: var(--grey);
+        color: var(--text);
+    }
+
+    .options input{
+        padding: 15px;
+        border-radius: 25px;
+        margin: 10px;
+    }
+
+    .options th {
+        font-size: 1.2em;
+        border: solid;
+        border-radius: 25px;
+        padding: 5px; 
+    }
+    .options td, tr, a{
+        color: var(--text);
+        text-decoration: none;
+        font-size: 1.1em;
+        font-family: "Paris2024";
+    }
+
+    .options td {
+        border: solid;
+        border-radius: 25px;
+    }
+
+    table {
+    width: 100%;
+    }
+
+    .hide {
+        display: none;
+    }
 
     </style>
 
@@ -410,18 +411,25 @@
                         <?php
                         $ville = $row["Nom_Villes"];
                         echo $ville;
-                        $query_epreuves = $db->prepare("SELECT Nom_Epreuves FROM Epreuves WHERE Nom_Sites IN (SELECT Nom_Sites FROM Sites WHERE Nom_Villes = :ville)");
+                        $query_epreuves = $db->prepare("
+                            SELECT Epreuves.Nom_Epreuves 
+                            FROM Epreuves 
+                            INNER JOIN Se_Produit ON Epreuves.ID_Epreuves = Se_Produit.ID_Ceremonies 
+                            INNER JOIN Sites ON Se_Produit.Latitude_Sites = Sites.Latitude_Sites AND Se_Produit.Longitude_Sites = Sites.Longitude_Sites 
+                            WHERE Sites.Nom_Villes = :ville
+                        ");
                         echo $query_epreuves;
                         $query_epreuves->bindParam(':ville', $ville);
                         $query_epreuves->execute();
                         $epreuvesList = "Liste des épreuves : " . "<br>";
-                        echo $epreuvesList;
+                        echo $epreuvesList; 
                         while ($epreuve = $query_epreuves->fetch(PDO::FETCH_ASSOC)) {
                             $epreuvesList .= $epreuve["Nom_Epreuves"] . "<br>";
                         }
                         echo $epreuvesList;
                         ?>
                     </td>
+                    
                 </tr>
             <?php endwhile; ?>
         </table>
