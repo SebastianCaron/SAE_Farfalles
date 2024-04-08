@@ -134,7 +134,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
     <table>
         <tr>
-            <th>.</th>
+            <th>Logo</th>
             <th>NOM EPREUVE</th>
             <th>NOM ANGLAIS EPREUVE</th>
             <th>CATEGORIE EPREUVE</th>
