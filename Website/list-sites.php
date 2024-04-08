@@ -38,7 +38,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Liste des Sites</title>
+    <title>Paris 2024 - Sites</title>
     <!-- <link rel="stylesheet" type="text/css" href="./css/all.css"> -->
 
 
@@ -81,7 +81,7 @@
     <!-- FIN DE LA NAVIGATION -->
     
     <div class="options">
-        <h1>Paris 2024 - Sites</h1>
+        <h1>Liste des Sites</h1>
         <form method="post">
             <input type="text" name="Nom_Sites" placeholder="Nom">
             <input type="text" name="Nom_Villes" placeholder="Ville">
