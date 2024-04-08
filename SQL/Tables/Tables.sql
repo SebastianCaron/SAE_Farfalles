@@ -207,3 +207,4 @@ ALTER TABLE Participe_a ADD CONSTRAINT FK_Participe_a_ID_Ceremonies FOREIGN KEY 
 ALTER TABLE Participe_a ADD CONSTRAINT FK_Participe_a_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
 ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Resultats FOREIGN KEY (ID_Resultats) REFERENCES Resultats (ID_Resultats);
 ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
+
