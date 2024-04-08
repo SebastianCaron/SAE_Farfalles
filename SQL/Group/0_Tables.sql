@@ -71,6 +71,11 @@ CREATE TABLE Arrets (
     Numero_Arrets INT
 ) ENGINE=InnoDB;
 
+
+CREATE TRIGGER delete_agence_trigger BEFORE DELETE ON Agences FOR EACH ROW UPDATE Lignes SET ID_Agences = NULL WHERE ID_Agences = OLD.ID_Agences;
+CREATE TRIGGER delete_ligne_trigger BEFORE DELETE ON Lignes FOR EACH ROW UPDATE Voyages SET ID_Lignes = NULL WHERE ID_Lignes = OLD.ID_Lignes;
+CREATE TRIGGER delete_voyage_trigger BEFORE DELETE ON Voyages FOR EACH ROW UPDATE Arrets SET ID_Voyages = NULL WHERE ID_Voyages = OLD.ID_Voyages;
+
 -- ALTER TABLE Arrets ADD CONSTRAINT FK_Arrets_ID_Voyages FOREIGN KEY (ID_Voyages) REFERENCES Voyages (ID_Voyages);
 
 CREATE TABLE Villes (
@@ -92,6 +97,7 @@ CREATE TABLE Sites (
     FOREIGN KEY (Nom_Villes) REFERENCES Villes(Nom_Villes)
 ) ENGINE=InnoDB;
 
+CREATE TRIGGER delete_villes_trigger BEFORE DELETE ON Villes FOR EACH ROW UPDATE Sites SET Nom_Villes = NULL WHERE Nom_Villes = OLD.Nom_Villes;
 
 
 -- CREATE TABLE Pays (
@@ -125,6 +131,9 @@ CREATE TABLE Athletes (
     Lieu_naissance_Athletes VARCHAR(100),
     Taille_Athletes VARCHAR(10)
 ) ENGINE=InnoDB;
+
+CREATE TRIGGER delete_Pays_trigger BEFORE DELETE ON Pays FOR EACH ROW UPDATE Athletes SET ID = NULL WHERE ID = OLD.ID;
+
 
 CREATE TABLE Epreuves (
     ID_Epreuves VARCHAR(20) PRIMARY KEY,
@@ -211,3 +220,19 @@ ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Resultats FOREIGN KEY (ID_Resultats
 ALTER TABLE Avoir ADD CONSTRAINT FK_Avoir_ID_Athletes FOREIGN KEY (ID_Athletes) REFERENCES Athletes (ID_Athletes);
 
 
+CREATE TRIGGER delete_epreuve_trigger BEFORE DELETE ON Epreuves FOR EACH ROW DELETE FROM Implique WHERE ID_Epreuves = OLD.ID_Epreuves;
+CREATE TRIGGER delete_epreuve_trigger_2 BEFORE DELETE ON Epreuves FOR EACH ROW DELETE FROM Se_Deroule WHERE ID_Epreuves = OLD.ID_Epreuves;
+CREATE TRIGGER delete_epreuve_trigger_3 BEFORE DELETE ON Epreuves FOR EACH ROW DELETE FROM Concourt WHERE ID_Epreuves = OLD.ID_Epreuves;
+
+CREATE TRIGGER delete_resultat_trigger BEFORE DELETE ON Resultats FOR EACH ROW DELETE FROM Avoir WHERE ID_Resultats = OLD.ID_Resultats;
+CREATE TRIGGER delete_resultat_trigger BEFORE DELETE ON Resultats FOR EACH ROW DELETE FROM Implique WHERE ID_Resultats = OLD.ID_Resultats;
+
+CREATE TRIGGER delete_ceremonie_trigger BEFORE DELETE ON Ceremonies FOR EACH ROW DELETE FROM Se_Produit WHERE ID_Ceremonies = OLD.ID_Ceremonies;
+CREATE TRIGGER delete_ceremonie_trigger_2 BEFORE DELETE ON Ceremonies FOR EACH ROW DELETE FROM Participe_a WHERE ID_Ceremonies = OLD.ID_Ceremonies;
+
+CREATE TRIGGER delete_site_trigger BEFORE DELETE ON Sites FOR EACH ROW DELETE FROM Se_Produit WHERE Latitude_Sites = OLD.Latitude_Sites AND Longitude_Sites = OLD.Longitude_Sites;
+CREATE TRIGGER delete_site_trigger_2 BEFORE DELETE ON Sites FOR EACH ROW DELETE FROM Se_Deroule WHERE Latitude_Sites = OLD.Latitude_Sites AND Longitude_Sites = OLD.Longitude_Sites;
+
+CREATE TRIGGER delete_athlete_trigger BEFORE DELETE ON Athletes FOR EACH ROW DELETE FROM Concourt WHERE ID_Athletes = OLD.ID_Athletes;
+CREATE TRIGGER delete_athlete_trigger_2 BEFORE DELETE ON Athletes FOR EACH ROW DELETE FROM Participe_a WHERE ID_Athletes = OLD.ID_Athletes;
+CREATE TRIGGER delete_athlete_trigger_3 BEFORE DELETE ON Athletes FOR EACH ROW DELETE FROM Avoir WHERE ID_Athletes = OLD.ID_Athletes;
