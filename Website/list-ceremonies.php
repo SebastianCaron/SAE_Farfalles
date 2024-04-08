@@ -101,7 +101,7 @@
 
 	<div class="content">
 		<h2>Liste des Ceremonies</h2>
-		<img src="./img/svg/svg_ceremonies.svg" alt="svg logo ceremonie">
+		<img src="./img/svgs/svg_ceremonies.svg" alt="svg logo ceremonie">
 		<div class="options">
 			<h3>Filtre</h3>
 			<from method="post">
