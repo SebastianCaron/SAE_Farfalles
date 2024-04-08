@@ -21,7 +21,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 
 <body>
-    <header>
         <nav>
             <div class="menu-bars" onclick="showNavigationMenu();">
                 <div>
@@ -49,7 +48,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <img src="./img/phryge.png" alt="mascotte paris2024">
         </div>
-    </header>
     <main>
         <section class="logos">
             <span class="goldBox1"></span>
