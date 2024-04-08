@@ -16,7 +16,7 @@
 			}
 		}
 	
-		$query = "SELECT * FROM Ceremonies JOIN Se_Deroule ON Ceremonies.ID_Ceremonies = Se_Deroule.ID_Ceremonies JOIN Sites ON Se_Deroule.Longitude_Sites = Sites.Longitude_Sites AND Se_Deroule.Latitude_Sites = Sites.Latitude_Sites";
+		$query = "SELECT * FROM Ceremonies JOIN Se_Produit ON Ceremonies.ID_Ceremonies = Se_Produit.ID_Ceremonies JOIN Sites ON Se_Produit.Longitude_Sites = Sites.Longitude_Sites AND Se_Produit.Latitude_Sites = Sites.Latitude_Sites";
 		if ($whereClause !== '') {
 			$query .= " WHERE $whereClause";
 		}
@@ -57,7 +57,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Template</title>
+	<title>Liste Cérémonies</title>
 	<link rel="stylesheet" type="text/css" href="./css/all.css">
 
 	<!-- VOTRE CSS -->
@@ -101,6 +101,7 @@
 
 	<div class="content">
 		<h2>Liste des Ceremonies</h2>
+		<img src="./img/svgs/svg_ceremonie.svg" alt="svg logo ceremonie">
 		<div class="options">
 			<h3>Filtre</h3>
 			<from method="post">
@@ -113,7 +114,6 @@
 		</div>
 		<table>
 			<tr>
-                <th>.</th>
 				<th>NOM CEREMONIE</th>
 				<th>DATE CEREMONIE</th>
 				<th>SITE CEREMONIE</th>

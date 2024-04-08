@@ -315,6 +315,11 @@
     table {
     width: 100%;
     }
+
+    .hide {
+        display: none;
+    }
+
     </style>
 
     
@@ -359,7 +364,7 @@
             <input type="text" name="Nom_Sites" placeholder="Nom">
             <input type="text" name="Nom_Villes" placeholder="Ville">
             <input type="text" name="Latitude_Sites" placeholder="Latitude">
-            <input type="text" name="Longitude_Sites" placeholder="Longitude">
+            <input type="text" name="Longitude_Sites" placeholder="Longitude"><br>
             <input type="text" name="Date_de_construction_Sites" placeholder="Date de construction">
             <input type="text" name="Capacite_d_acceuil_Sites" placeholder="Capacité d'accueil">
             <input type="text" name="Accessibilite_Sites" placeholder="Accessibilité"><br>
@@ -376,26 +381,53 @@
                 <th>Date de construction</th>
                 <th>Capacité d'accueil</th>
                 <th>Accessibilité</th>
+                <th id="epreuves_column" class="hide">Épreuves</th> 
             </tr>
+
+            <script>
+                function showEpreuves(element) {
+                var tr = element.parentNode.parentNode;
+                var epreuvesCell = tr.cells[tr.cells.length - 1]; 
+
+                if (epreuvesCell.classList.contains('hide')) {
+                    epreuvesCell.classList.remove('hide');
+                } else {
+                    epreuvesCell.classList.add('hide');
+                }
+                }
+            </script>
             
             <?php while ($row = $query->fetch(PDO::FETCH_ASSOC)): ?>
                 <tr>
                     <td><a href="https://www.google.com/maps/search/?api=1&query=<?= $row["Latitude_Sites"] ?>,<?= $row["Longitude_Sites"] ?>" target="_blank"><?= $row["Nom_Sites"] ?></a></td>
-
-                    <td><?= $row["Nom_Villes"] ?></td>
-
+                    <td><a href="javascript:void(0);" onclick="showEpreuves(this)"><?= $row["Nom_Villes"] ?></a></td>
                     <td><?= $row["Latitude_Sites"] ?></td>
-
                     <td><?= $row["Longitude_Sites"] ?></td>
-
                     <td><?= $row["Date_de_construction_Sites"] ?></td>
-
                     <td><?= $row["Capacite_d_acceuil_Sites"] ?></td>
-                    
                     <td><?= $row["Accessibilite_Sites"] ?></td>
+                    <td class="hide">
+                        <?php
+                        $ville = $row["Nom_Villes"];
+                        echo $ville;
+                        $query_epreuves = $db->prepare("SELECT Nom_Epreuves FROM Epreuves WHERE Nom_Sites IN (SELECT Nom_Sites FROM Sites WHERE Nom_Villes = :ville)");
+                        echo $query_epreuves;
+                        $query_epreuves->bindParam(':ville', $ville);
+                        $query_epreuves->execute();
+                        $epreuvesList = "Liste des épreuves : " . "<br>";
+                        echo $epreuvesList;
+                        while ($epreuve = $query_epreuves->fetch(PDO::FETCH_ASSOC)) {
+                            $epreuvesList .= $epreuve["Nom_Epreuves"] . "<br>";
+                        }
+                        echo $epreuvesList;
+                        ?>
+                    </td>
                 </tr>
             <?php endwhile; ?>
         </table>
+
+
+        
     </div>
 </body>
 </html>
