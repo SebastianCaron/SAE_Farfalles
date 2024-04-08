@@ -101,7 +101,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <ul>
             <?php foreach ($pays as $pays) : ?>
                 <li>
-                    <img src="<?php echo $pays['Drapeau']; ?>" alt="Drapeau du pays">
+                    <a href="<?php echo $pays['Drapeau']; ?>" target="_blank">
+                        <img src="<?php echo $pays['Drapeau']; ?>" alt="Drapeau du pays">
+                    </a>
                     <strong><?php echo $pays['ID']; ?></strong>
                     <span><strong>FR : </strong></span> <?php echo $pays['Nom_Français']; ?>
                     <span><strong>EN : </strong></span> <?php echo $pays['Nom_Anglais']; ?>
