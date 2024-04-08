@@ -107,6 +107,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <strong><?php echo $pays['ID']; ?></strong>
                     <span><strong>FR : </strong></span> <?php echo $pays['Nom_Français']; ?>
                     <span><strong>EN : </strong></span> <?php echo $pays['Nom_Anglais']; ?>
+                    <span><a href="https://fr.wikipedia.org/wiki/<?php echo $pays['Nom_Anglais']; ?>" target="_blank">Wikipédia</a></span>
                 </li>
             <?php endforeach; ?>
         </ul>
