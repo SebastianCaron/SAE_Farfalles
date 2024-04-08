@@ -16,10 +16,11 @@ function getPays($db, $filters) {
         }
     }
 
-    $query = "SELECT * FROM Pays";
+    $query = "SELECT Pays.*, COUNT(Athletes.ID) AS Nombre_Athletes FROM Pays JOIN Athletes ON Pays.ID = Athletes.ID";
     if ($whereClause !== '') {
         $query .= " WHERE $whereClause";
     }
+    $query .= " GROUP BY Pays.ID";
 
     $statement = $db->prepare($query);
 
@@ -106,8 +107,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <img src="<?php echo $pays['Drapeau']; ?>" alt="Drapeau du pays">
                     </a>
                     <strong><?php echo $pays['ID']; ?></strong>
-                    <span><strong>FR : </strong></span> <?php echo $pays['Nom_Francais']; ?>
-                    <span><strong>EN : </strong></span> <?php echo $pays['Nom_Anglais']; ?>
+                    <span><strong>FR : </strong><?php echo $pays['Nom_Francais']; ?></span> 
+                    <span><strong>EN : </strong><?php echo $pays['Nom_Anglais']; ?></span> 
+                    <span><strong>Nombre d'athlètes :</strong> <?php echo $pays['Nombre_Athletes']; ?></span> 
                     <span><a href="https://fr.wikipedia.org/wiki/<?php echo $pays['Nom_Francais']; ?>" target="_blank">En savoir plus</a></span>
                 </li>
             <?php endforeach; ?>

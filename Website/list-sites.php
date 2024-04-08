@@ -103,8 +103,10 @@
                 <th>Date de construction</th>
                 <th>Capacité d'accueil</th>
                 <th>Accessibilité</th>
-                <th id="epreuves_column" class="hide">Épreuves</th> 
+                <th id="epreuves_column" class="hide">Épreuves</th>
             </tr>
+
+            <br>
 
             <script>
                 function showEpreuves(element) {
