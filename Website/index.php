@@ -198,7 +198,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <p>Une desc ?</p>
                 </div>
                 <div>
-                    <img src="./img/sebastian.jpg" alt="sebastian">
+                    <img src="./img/sebastian.png" alt="sebastian">
                     <h2>Sebastian CARON</h2>
                     <p>Gouteur de pâtes</p>
                 </div>
