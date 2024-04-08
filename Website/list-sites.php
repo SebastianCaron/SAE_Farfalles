@@ -286,8 +286,6 @@
     .options form{
         background-color: var(--grey);
         color: var(--text);
-        display: flex;
-
     }
 
     .options input{
