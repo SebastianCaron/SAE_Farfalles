@@ -238,11 +238,6 @@ nav .img img{
     font-size: 1.2em;
 }
 
-.options form{
-    background-color: var(--grey);
-    color: var(--text);
-}
-
 .options input{
     padding: 15px;
     border-radius: 25px;
@@ -266,6 +261,7 @@ nav .img img{
     background-color: var(--grey);
     height: 75px;
     width: 75px;
+    border-radius: 25px;
 }
 
 table {
