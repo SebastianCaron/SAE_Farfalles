@@ -104,8 +104,9 @@
                 <th>Capacité d'accueil</th>
                 <th>Accessibilité</th>
                 <th id="epreuves_column" class="hide">Épreuves</th>
-                <br>
             </tr>
+
+            <br>
 
             <script>
                 function showEpreuves(element) {
