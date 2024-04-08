@@ -9,35 +9,25 @@ FTP_TARGET_DIR = '/www/projets/Olympics'
 
 EXCEPTION_FILE = './libs/config.php'
 
-def ftp_upload(local_path, username, password):
-    try:
-        ftp = ftplib.FTP(FTP_HOST, username, password)
-        ftp.cwd(FTP_TARGET_DIR)
-        
-        for root, dirs, files in os.walk(local_path):
-            for d in dirs:
-                ftp.mkd(os.path.join(root, d).replace(local_path, '').lstrip('/'))
-
-            for f in files:
-                local_file = os.path.join(root, f)
-                remote_file = os.path.join(root, f).replace(local_path, '').lstrip('/')
-                local_mtime = os.path.getmtime(local_file)
-                
-                try:
-                    remote_mtime = ftp.sendcmd('MDTM ' + remote_file)
-                    remote_mtime = time.strptime(remote_mtime[4:], '%Y%m%d%H%M%S')
-                    remote_mtime = time.mktime(remote_mtime)
-                except ftplib.error_perm:
-                    remote_mtime = 0
-
-                if local_mtime > remote_mtime:
-                    with open(local_file, 'rb') as file:
-                        ftp.storbinary('STOR ' + remote_file, file)
-
-        ftp.quit()
-        print("Upload successful!")
-    except ftplib.all_errors as e:
-        print("FTP error:", e)
+def ftp_upload(local_dir, ftp, local_path=''):
+    for item in os.listdir(local_dir):
+        local_item = os.path.join(local_dir, item)
+        if os.path.isfile(local_item):
+            remote_path = os.path.join(FTP_TARGET_DIR, local_path, item)
+            try:
+                ftp.cwd(remote_path)
+            except ftplib.error_perm:
+                ftp.mkd(remote_path)
+                ftp.cwd(remote_path)
+            with open(local_item, 'rb') as file:
+                if item != EXCEPTION_FILE:
+                    try:
+                        ftp.storbinary('STOR ' + item, file)
+                    except Exception as e:
+                        print("Error:", e)
+                        continue
+        elif os.path.isdir(local_item):
+            ftp_upload(local_item, ftp, os.path.join(local_path, item))
 
 if __name__ == "__main__":
     username = sys.argv[1]
