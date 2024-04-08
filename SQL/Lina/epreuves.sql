@@ -19,7 +19,7 @@ INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuve
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BDM1','Badminton','Badminton',1,0,'svg_Badminton.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GRY','Gymnastique rythmique','Rhythmic Gymnastics',0,0,'svg_Rhythmic Gymnastics.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GRY1','Gymnastique rythmique','Rhythmic Gymnastics',1,0,'svg_Rhythmic Gymnastics.svg');
-INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BKB','Basketball','Basketball',1,0,'svg_Basketball.svg');
+INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BKB','Basketball','Basketball',1,0,'svg_Basketball .svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GAR','Gymnastique artistique','Artistic Gymnastics',0,0,'svg_Artistic Gymnastics.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GAR1','Gymnastique artistique','Artistic Gymnastics',1,0,'svg_Artistic Gymnastics.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('GTR','Gymnastique trampoline','Trampoline Gymnastics',0,0,'svg_Trampoline Gymnastics.svg');
