@@ -142,7 +142,14 @@ h1 {
     height: 8vh;
     cursor: pointer;
     border: 0px solid black;
+    transition: all 0.3s ease-in-out;
 }
+
+.boxBlanche input[type="submit"]:hover{
+    box-shadow: 2px 2px 100px 1px rgba(0, 255, 255, 0.4);
+    transition: all 0.3s ease-in-out;
+}
+
 
 .boxBlanche span:hover {
     cursor: pointer;

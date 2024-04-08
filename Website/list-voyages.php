@@ -72,35 +72,32 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 
-<!-- NAVIGATION -->
-<script></script>
-<nav>
-    <div class="menu-bars" onclick="showNavigationMenu();">
-        <div>
-            <img id="menu_bt" src="./img/menu-bars.svg" alt="bars menu">
-            <img id="menu_bt_close" src="./img/close.svg" alt="Bouton pour fermer le menu">
+    <!-- NAVIGATION -->
+    <nav>
+        <div class="menu-bars" onclick="showNavigationMenu();">
+            <div>
+                <img id="menu_bt" src="./img/menu-bars.svg" alt="bars menu">
+                <img id="menu_bt_close" src="./img/close.svg" alt="Bouton pour fermer le menu">
+            </div>
+            <h4>Menu</h4>
         </div>
-        <h4>Menu</h4>
-    </div>
-    <a href="./index.html"><h2>Farfalles!</h2></a>
-    <div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
-        <img src="./img/paris2024.gif" alt="paris2024 image">
-    </div>
-</nav>
+        <a href="./index.php"><h2>Farfalles!</h2></a>
+        <div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
+            <img src="./img/paris2024.gif" alt="paris2024 image">
+        </div>
+    </nav>
 
-<div class="navigation">
-    <div class="links">
-        <a href="./index.html">Accueil</a>
-        <a href="./list-epreuves.html">Epreuves</a>
-        <a href="./list-athletes.php">Athletes</a>
-        <a href="./list-transports.html">Transports</a>
-        <a href="./list-sites.html">Sites</a>
+    <div class="navigation">
+        <div class="links">
+            <a href="./index.php">Accueil</a>
+            <a href="./list-epreuves.php">Epreuves</a>
+            <a href="./list-athletes.php">Athletes</a>
+            <a href="./transports.php">Transports</a>
+            <a href="./list-sites.php">Sites</a>
+        </div>
+        <img src="./img/phryge.png" alt="mascotte paris2024">
     </div>
-
-    <img src="./img/phryge.png" alt="mascotte paris2024">
-</div>
-
-<!-- FIN DE LA NAVIGATION -->
+    <!-- FIN DE LA NAVIGATION -->
 
 <div class="content">
     <h2>Liste des Voyages</h2>

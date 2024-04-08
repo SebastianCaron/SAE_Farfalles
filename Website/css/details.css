@@ -1,0 +1,19 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3em;
+}
+
+.content ul{
+    list-style: decimal;
+}
+
+.content p{
+    margin-top: 40px;
+}
+
+.content h2{
+    margin-top: 40px;
+}

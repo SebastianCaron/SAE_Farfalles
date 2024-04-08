@@ -1,0 +1,49 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.content > form{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap:40px;
+}
+
+.content > form > select{
+    font-size: 1.2em;
+    padding: 1vw;
+    border-radius: 400px;
+    min-width: 100px;
+}
+
+.content > form button{
+    background-color: aqua;
+    border-radius: 100px;
+    color: #080807;
+    font-size: 1vw;
+    width: 12vw;
+    height: 8vh;
+    cursor: pointer;
+    border: 0px solid black;
+    transition: all 0.3s ease-in-out;
+}
+
+.content > form button:hover{
+    box-shadow: 2px 2px 200px 2px rgba(0, 255, 255, 0.179);
+    transition: all 0.3s ease-in-out;
+}
+
+
+.content a{
+    font-size: 1.2em;
+}
+
+.content p{
+    margin-top: 40px;
+    font-size: 1.5em;
+}

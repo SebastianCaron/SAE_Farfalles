@@ -20,6 +20,8 @@ $arrets = $statement_arrets->fetchAll(PDO::FETCH_COLUMN);
     <title>Recherche de trajets</title>
     <link rel="stylesheet" type="text/css" href="./css/all.css">
     <!-- VOTRE CSS -->
+    <link rel="stylesheet" type="text/css" href="./css/trajets.css">
+    
 </head>
 <body>
     <!-- NAVIGATION -->
@@ -31,7 +33,7 @@ $arrets = $statement_arrets->fetchAll(PDO::FETCH_COLUMN);
             </div>
             <h4>Menu</h4>
         </div>
-        <a href="./index.html"><h2>Farfalles!</h2></a>
+        <a href="./index.php"><h2>Farfalles!</h2></a>
         <div class="img" onclick="goTo('https://www.paris2024.org/fr/',true);">
             <img src="./img/paris2024.gif" alt="paris2024 image">
         </div>
@@ -39,11 +41,11 @@ $arrets = $statement_arrets->fetchAll(PDO::FETCH_COLUMN);
 
     <div class="navigation">
         <div class="links">
-            <a href="./index.html">Accueil</a>
-            <a href="./list-epreuves.html">Epreuves</a>
+            <a href="./index.php">Accueil</a>
+            <a href="./list-epreuves.php">Epreuves</a>
             <a href="./list-athletes.php">Athletes</a>
-            <a href="./list-transports.html">Transports</a>
-            <a href="./list-sites.html">Sites</a>
+            <a href="./transports.php">Transports</a>
+            <a href="./list-sites.php">Sites</a>
         </div>
         <img src="./img/phryge.png" alt="mascotte paris2024">
     </div>
@@ -52,14 +54,14 @@ $arrets = $statement_arrets->fetchAll(PDO::FETCH_COLUMN);
     <div class="content">
         <h1>Recherche de trajets</h1>
         <form action="" method="GET">
-            <label for="depart">POINT A :</label>
+            <label for="depart"></label>
             <select name="depart" id="depart" onchange="updateDestinations()">
                 <?php foreach ($arrets as $arret) : ?>
                     <option value="<?php echo $arret; ?>"><?php echo $arret; ?></option>
                 <?php endforeach; ?>
             </select>
             <br>
-            <label for="arrivee">POINT B :</label>
+            <label for="arrivee"></label>
             <select name="arrivee" id="arrivee">
 =
             </select>
