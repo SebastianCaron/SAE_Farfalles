@@ -53,9 +53,9 @@ nav{
 
 
 nav > div:nth-child(1){
-    width: 20vw;
-    min-width: 50px;
-    max-width: 200px;
+    height: 100%;
+    aspect-ratio: 1 / 1;
+    margin-left: 5vw;
 }
 
 nav > div:nth-child(2){
@@ -64,10 +64,9 @@ nav > div:nth-child(2){
     max-width: 200px;
 }
 nav > div:nth-child(3){
-    width: 20vw;
-    min-width: 50px;
-    max-width: 200px;
-    max-height: 80px;
+    height: 100%;
+    aspect-ratio: 1 / 1;
+    margin-right: 5vw;
 }
 
 nav > div{
@@ -129,6 +128,54 @@ nav .img img{
     left: 0;
     right: 0;
     width: 100%;
+    height: 100%;
+    z-index: 999;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    transition: all 0.3s ease;
+}
+
+.navigation.active{
+    top: 0;
+    transition: all 0.3s ease;
+}
+
+#menu_bt{
+    display: block;
+    transform: rotateY(0) perspective(1000px) translateX(0);
+    transition: all 0s ease-in-out;
+    transition: opacity 0.22s ease-in transform 0.25s ease-in-out;
+    opacity: 1;
+}
+#menu_bt.anim{
+    transform: rotateY(90deg) perspective(1000px) translateX(200%);
+    opacity: 0.01;
+    display: none;
+}
+
+#menu_bt_close{
+    display: none;
+    transform: rotateY(90deg) perspective(1000px) translateX(-200%);
+    transition: all 0s ease-in-out;
+    transition: opacity 0.22s ease-in transform 0.25s ease-in-out;
+    opacity: 0.01;
+}
+#menu_bt_close.anim{
+    transform: rotateY(0) perspective(1000px) translateX(0);
+    opacity: 1;
+    display: block;
+}
+
+.navigation{
+    position: fixed;
+    top: -100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 99vw;
     height: 100%;
     z-index: 999;
     background-color: white;
