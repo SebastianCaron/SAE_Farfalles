@@ -13,7 +13,7 @@ if(isset($_GET['id'])) {
         FROM Epreuves 
         WHERE ID_Epreuves = :epreuve_id;";
     $statement = $db->prepare($query);
-    $statement->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_INT);
+    $statement->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_STR);
     $statement->execute();
     $epreuve = $statement->fetch(PDO::FETCH_ASSOC);
 
@@ -22,7 +22,7 @@ if(isset($_GET['id'])) {
         FROM Athletes 
         WHERE ID_Epreuves = :epreuve_id;";
     $statement2 = $db->prepare($query2);
-    $statement2->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_INT);
+    $statement2->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_STR);
     $statement2->execute();
 
     $athletes = $statement2->fetchAll(PDO::FETCH_ASSOC);
