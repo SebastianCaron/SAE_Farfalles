@@ -1,11 +1,7 @@
-/* se_produit.sql */
-INSERT INTO Se_Produit (ID_Ceremonies, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('OUVERTURE',2.29221884,48.85972558,'2024-07-26','2024-08-11');
-INSERT INTO Se_Produit (ID_Ceremonies, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('CLOTURE',2.360127,48.924475,'2024-08-11','2024-08-11');
-
-/* ceremonies.sql */
+/* 0_ceremonies.sql */
 INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("OUVERTURE","Cérémonie d'ouverture des JO 2024");
 INSERT INTO Ceremonies (ID_Ceremonies, Nom_Ceremonies) VALUES ("CLOTURE","Cérémonie de clôture des JO 2024");
-/* epreuves.sql */
+/* 1_epreuves.sql */
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('FEN','Escrime','Fencing',0,0,'svg_Fencing.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('FEN1','Escrime','Fencing',1,0,'svg_Fencing.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('TKW','Taekwondo','Taekwondo',0,0,'svg_Taekwondo.svg');
@@ -103,7 +99,11 @@ INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuve
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('BOC_PARA1','Boccia','Boccia',1,1,'svg_Boccia.svg');
 INSERT INTO Epreuves(ID_Epreuves, Nom_Epreuves, Name_Epreuves, Categorie_Epreuves, Type_Epreuves, Logo_Epreuves) VALUES ('WBK_PARA','Basketball fauteuil','Wheelchair Basketball',1,1,'svg_Wheelchair Basketball.svg');
 
-/* se_deroule.sql */
+/* 3_se_produit.sql */
+INSERT INTO Se_Produit (ID_Ceremonies, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('OUVERTURE',2.29221884,48.85972558,'2024-07-26','2024-08-11');
+INSERT INTO Se_Produit (ID_Ceremonies, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('CLOTURE',2.360127,48.924475,'2024-08-11','2024-08-11');
+
+/* 2_se_deroule.sql */
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('FEN',2.3125474,48.86616355,'2024-07-27','2024-08-10');
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('FEN1',2.3125474,48.86616355,'2024-07-27','2024-08-10');
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('TKW',2.3125474,48.86616355,'2024-07-27','2024-08-10');
