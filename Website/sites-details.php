@@ -8,7 +8,7 @@ if(isset($_GET['id'])) {
     $site_id = $_GET['id'];
     $query = "SELECT * FROM Sites WHERE Latitude_Sites = :site_id";
     $statement = $db->prepare($query);
-    $statement->bindParam(':site_id', $site_id, PDO::PARAM_INT);
+    $statement->bindParam(':site_id', $site_id, PDO::PARAM_STR);
     $statement->execute();
     $site = $statement->fetch(PDO::FETCH_ASSOC);
 }
