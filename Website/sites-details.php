@@ -6,7 +6,7 @@ global $db; // Recupere l'acces à la base de donnee
 $site = null;
 if(isset($_GET['id'])) {
     $site_id = $_GET['id'];
-    $query = "SELECT * FROM Sites WHERE Latitude_Sites = :site_id";
+    $query = "SELECT * FROM Sites WHERE Nom_Sites = :site_id";
     $statement = $db->prepare($query);
     $statement->bindParam(':site_id', $site_id, PDO::PARAM_STR);
     $statement->execute();
@@ -57,7 +57,7 @@ if(isset($_GET['id'])) {
     <!-- FIN DE LA NAVIGATION -->
 	<div class="content">
         <?php if($site): ?>
-            <h2><?php echo $site['Nom_sites']; ?></h2>
+            <h2><?php echo $site['Nom_Sites']; ?></h2>
             <h3><?php echo $site['Latitude_Sites']; ?></h3>
             <h3><?php echo $site['Longitude_Sites']; ?></h3>
             <h3><?php echo $site['Date_de_construction_Sites']; ?></h3>
