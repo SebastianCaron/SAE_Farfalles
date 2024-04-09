@@ -11,20 +11,21 @@ if(isset($_GET['id'])) {
     $query = "
         SELECT * 
         FROM Epreuves 
-        WHERE Epreuves.ID_Epreuves = :epreuve_id;";
+        WHERE ID_Epreuves = :epreuve_id;";
     $statement = $db->prepare($query);
     $statement->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_INT);
     $statement->execute();
+    $epreuve = $statement->fetch(PDO::FETCH_ASSOC);
 
     $query2 = "
         SELECT * 
         FROM Athletes 
-        WHERE Epreuves.ID_Epreuves = :epreuve_id;";
+        WHERE ID_Epreuves = :epreuve_id;";
     $statement2 = $db->prepare($query2);
     $statement2->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_INT);
     $statement2->execute();
 
-    $athletes = $statement2->fetch(PDO::FETCH_ASSOC);
+    $athletes = $statement2->fetchAll(PDO::FETCH_ASSOC);
 }
 
 
@@ -75,8 +76,8 @@ if(isset($_GET['id'])) {
     <div class="content">
         <?php if($epreuve): ?>
             <img alt="Logo de L'épreuve" src="<?php echo $epreuve['Logo_Epreuves']; ?>">
-            <h2><?php echo $epreuve['Nom_Epreuve']; ?></h2>
-            <h2><?php echo $epreuve['Name_Epreuve']; ?></h2>
+            <h2><?php echo $epreuve['Nom_Epreuves']; ?></h2>
+            <h2><?php echo $epreuve['Name_Epreuves']; ?></h2>
             <h3><?php echo $epreuve['ID_Epreuves']; ?></h3>
             <?php
             if ($epreuve['Categorie_Epreuves'] == 1){
