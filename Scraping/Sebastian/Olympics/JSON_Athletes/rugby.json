@@ -1,0 +1,3382 @@
+[
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/874574.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/cecil-afrika-874574",
+        "NOM": "Cecil Afrika",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "March 3, 1988",
+        "LIEU_NAISSANCE": "Port Elizabeth",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1634078.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/holly-aitchison-1634078",
+        "NOM": "Holly Aitchison",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "September 13, 1997",
+        "LIEU_NAISSANCE": "Southport",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/882576.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/andrew-amonde-882576",
+        "NOM": "Andrew Amonde",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "December 25, 1983",
+        "LIEU_NAISSANCE": "Kisumu",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1958684.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kurt-lee-arendse-1958684",
+        "NOM": "Kurt-Lee Arendse",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "June 17, 1996",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500896.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/janet-awino-1500896",
+        "NOM": "Janet Awino",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "August 8, 1985",
+        "LIEU_NAISSANCE": "Nairobi",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/872815.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kurt-baker-872815",
+        "NOM": "Kurt Baker",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "October 7, 1988",
+        "LIEU_NAISSANCE": "Palmerston North",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1322076.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/perry-baker-1322076",
+        "NOM": "Perry Baker",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "June 29, 1986",
+        "LIEU_NAISSANCE": "New Smyrna Beach, FL",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1268436.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/danny-barrett-1268436",
+        "NOM": "Danny Barrett",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "March 23, 1990",
+        "LIEU_NAISSANCE": "Pacifica, CA",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1261378.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/daniel-bibby-1261378",
+        "NOM": "Daniel Bibby",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "February 6, 1991",
+        "LIEU_NAISSANCE": "Aspull",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1268494.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/pat-blair-1268494",
+        "NOM": "Pat Blair",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "January 27, 1990",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936795.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/vilimoni-botitu-1936795",
+        "NOM": "Vilimoni Botitu",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "June 15, 1998",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/911337.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/connor-braid-911337",
+        "NOM": "Connor Braid",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "May 31, 1990",
+        "LIEU_NAISSANCE": "Victoria",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1125442.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kelly-brazier-1125442",
+        "NOM": "Kelly Brazier",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "October 28, 1989",
+        "LIEU_NAISSANCE": "Dunedin",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/769096.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kyle-brown-769096",
+        "NOM": "Kyle Brown",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "February 6, 1987",
+        "LIEU_NAISSANCE": "Cape Town",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936783.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/maceo-brown-1936783",
+        "NOM": "Maceo Brown",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "September 1, 1995",
+        "LIEU_NAISSANCE": "Tempe, AZ",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/883319.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/philip-burgess-883319",
+        "NOM": "Philip Burgess",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "July 1, 1988",
+        "LIEU_NAISSANCE": "Frimley",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1562489.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kayla-canett-oca-1562489",
+        "NOM": "Kayla Canett-Oca",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "April 29, 1998",
+        "LIEU_NAISSANCE": "San Diego, CA",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1797565.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mateo-carreras-1797565",
+        "NOM": "Mateo Carreras",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "December 17, 1999",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1381571.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/isadora-cerullo-1381571",
+        "NOM": "Isadora Cerullo",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "March 24, 1991",
+        "LIEU_NAISSANCE": "2016, 2020",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1501073.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/andrew-coe-1501073",
+        "NOM": "Andrew Coe",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 8, 1996",
+        "LIEU_NAISSANCE": "Markham",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1360366.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dylan-collier-1360366",
+        "NOM": "Dylan Collier",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "April 27, 1991",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1244125.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/scott-curry-1244125",
+        "NOM": "Scott Curry",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "May 17, 1988",
+        "LIEU_NAISSANCE": "Rotorua",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500855.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/raijieli-daveua-1500855",
+        "NOM": "Raijieli Daveua",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "May 30, 1992",
+        "LIEU_NAISSANCE": "Suva",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1503277.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mogamat-zain-davids-1503277",
+        "NOM": "Mogamat Zain Davids",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "May 4, 1997",
+        "LIEU_NAISSANCE": "Cape Town",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1647145.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/selvyn-davids-1647145",
+        "NOM": "Selvyn Davids",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "March 26, 1994",
+        "LIEU_NAISSANCE": "Jeffreys Bay",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936788.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ratu-meli-derenalagi-1936788",
+        "NOM": "Ratu Meli Derenalagi",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "November 26, 1998",
+        "LIEU_NAISSANCE": "Suva",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185614.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sam-dickson-1185614",
+        "NOM": "Sam Dickson",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "October 28, 1989",
+        "LIEU_NAISSANCE": "Christchurch",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1669506.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/leila-silva-1669506",
+        "NOM": "Leila Silva",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "October 23, 1996",
+        "LIEU_NAISSANCE": "S\u00e3o Paulo",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185529.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/justin-douglas-1185529",
+        "NOM": "Justin Douglas",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 5, 1994",
+        "LIEU_NAISSANCE": "Abbotsford",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1269262.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lauren-doyle-1269262",
+        "NOM": "Lauren Doyle",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "February 23, 1991",
+        "LIEU_NAISSANCE": "Springfield, IL",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1650946.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/paula-dranisinukula-1650946",
+        "NOM": "Paula Dranisinukula",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "November 23, 1989",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/874571.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/chris-dry-874571",
+        "NOM": "Chris Dry",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "February 13, 1988",
+        "LIEU_NAISSANCE": "Cape Town",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1769047.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/muller-du-plessis-1769047",
+        "NOM": "Muller Du Plessis",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "June 25, 1999",
+        "LIEU_NAISSANCE": "Cape Town",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/883254.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/branco-du-preez-883254",
+        "NOM": "Branco du Preez",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "May 8, 1990",
+        "LIEU_NAISSANCE": "George",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1501015.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/cheta-emba-1501015",
+        "NOM": "Cheta Emba",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 16, 1993",
+        "LIEU_NAISSANCE": "Richmond, VA",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177415.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/rodrigo-etchart-1177415",
+        "NOM": "Rodrigo Etchart",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "January 24, 1994",
+        "LIEU_NAISSANCE": "Buenos Aires",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185486.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/bianca-farella-1185486",
+        "NOM": "Bianca Farella",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 10, 1992",
+        "LIEU_NAISSANCE": "Montreal",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1562483.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/deborah-fleming-1562483",
+        "NOM": "Deborah Fleming",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "June 10, 1991",
+        "LIEU_NAISSANCE": "Penzance",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1489457.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/stacey-fluhler-1489457",
+        "NOM": "Stacey Fluhler",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "November 3, 1995",
+        "LIEU_NAISSANCE": "Papakura",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1175100.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/yoshikazu-fujita-1175100",
+        "NOM": "Yoshikazu Fujita",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "September 8, 1993",
+        "LIEU_NAISSANCE": "Kyoto",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1503323.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/stedman-gans-1503323",
+        "NOM": "Stedman Gans",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "March 19, 1997",
+        "LIEU_NAISSANCE": "Vredenburg",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177491.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/justin-geduld-1177491",
+        "NOM": "Justin Geduld",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "October 1, 1993",
+        "LIEU_NAISSANCE": "Cape Town",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1360377.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/goto-teruya-1360377",
+        "NOM": "Goto Teruya",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "December 18, 1991",
+        "LIEU_NAISSANCE": "Yamanashi",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1268471.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/goya-kazuhiro-1268471",
+        "NOM": "Goya Kazuhiro",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "April 21, 1993",
+        "LIEU_NAISSANCE": "Onojo",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1651539.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jordan-matyas-1651539",
+        "NOM": "Jordan Matyas",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 2, 1993",
+        "LIEU_NAISSANCE": "Las Vegas, NV",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1269250.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/julia-greenshields-1269250",
+        "NOM": "Julia Greenshields",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "February 12, 1992",
+        "LIEU_NAISSANCE": "Sarnia",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1569923.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/scott-gregory-1569923",
+        "NOM": "Scott Gregory",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "January 7, 1999",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1963724.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/thalia-costa-1963724",
+        "NOM": "Thalia Costa",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "May 30, 1997",
+        "LIEU_NAISSANCE": "S\u00e3o Paulo",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/964183.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/richard-de-carpentier-964183",
+        "NOM": "Richard de Carpentier",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "April 30, 1990",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177410.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/santiago-alvarez-1177410",
+        "NOM": "Santiago Alvarez",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "February 17, 1994",
+        "LIEU_NAISSANCE": "Bah\u00eda Blanca",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1501002.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/abby-gustaitis-1501002",
+        "NOM": "Abby Gustaitis",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "May 9, 1991",
+        "LIEU_NAISSANCE": "Baltimore, MD",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185539.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kazushi-hano-1185539",
+        "NOM": "Kazushi Hano",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "June 21, 1991",
+        "LIEU_NAISSANCE": "Nagoya",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1489453.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nicole-heavirland-1489453",
+        "NOM": "Nicole Heavirland",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "February 25, 1995",
+        "LIEU_NAISSANCE": "Chula Vista, CA",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1501070.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/yume-hirano-1501070",
+        "NOM": "Yume Hirano",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "March 15, 2000",
+        "LIEU_NAISSANCE": "Tokyo",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/697359.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nathan-hirayama-697359",
+        "NOM": "Nathan Hirayama",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 23, 1988",
+        "LIEU_NAISSANCE": "Richmond",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185591.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lewis-holland-1185591",
+        "NOM": "Lewis Holland",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "January 14, 1993",
+        "LIEU_NAISSANCE": "Queanbeyan",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1268479.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/madison-hughes-1268479",
+        "NOM": "Madison Hughes",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "October 26, 1992",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500849.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dewald-human-1500849",
+        "NOM": "Dewald Human",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "May 19, 1995",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1318762.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/henry-hutchinson-1318762",
+        "NOM": "Henry Hutchinson",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "February 12, 1997",
+        "LIEU_NAISSANCE": "Crows Nest",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1964253.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/livai-ikanikoda-1964253",
+        "NOM": "Livai Ikanikoda",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "October 30, 1989",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/martin-iosefo-1335714",
+        "NOM": "Martin Iosefo",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "January 13, 1990",
+        "LIEU_NAISSANCE": "Honolulu, HI",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/carlin-isles-1185504",
+        "NOM": "Carlin Isles",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "November 21, 1989",
+        "LIEU_NAISSANCE": "Massillon, OH",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/harry-jones-1054802",
+        "NOM": "Harry Jones",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "August 26, 1989",
+        "LIEU_NAISSANCE": "Vancouver",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/megan-jones-1501276",
+        "NOM": "Megan Jones",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 23, 1996",
+        "LIEU_NAISSANCE": "Cardiff",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sheilla-kavugwe-chajira-1500905",
+        "NOM": "Sheilla Kavugwe Chajira",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "December 20, 1993",
+        "LIEU_NAISSANCE": "2016, 2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/leyla-alev-kelter-1269190",
+        "NOM": "Leyla Alev Kelter",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "March 21, 1991",
+        "LIEU_NAISSANCE": "Tampa, FL",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kristi-kirshe-1950660",
+        "NOM": "Kristi Kirshe",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "October 14, 1994",
+        "LIEU_NAISSANCE": "Natick, MA",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/raquel-kochhann-1269298",
+        "NOM": "Raquel Kochhann",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "October 6, 1992",
+        "LIEU_NAISSANCE": "Saudades",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/werner-kok-1244130",
+        "NOM": "Werner Kok",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "January 17, 1993",
+        "LIEU_NAISSANCE": "Nelspruit",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/vilimoni-koroi-1624738",
+        "NOM": "Vilimoni Koroi",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "April 17, 1998",
+        "LIEU_NAISSANCE": "Wanganui",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1624729.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mesulame-kunavula-kunalolo-1624729",
+        "NOM": "Mesulame Kunavula Kunalolo",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "October 31, 1995",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185568.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ghislaine-landry-1185568",
+        "NOM": "Ghislaine Landry",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 27, 1988",
+        "LIEU_NAISSANCE": "Toronto",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1375547.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/matai-leuta-1375547",
+        "NOM": "Matai Leuta",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 20, 1990",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1358117.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/augustine-lugonzo-1358117",
+        "NOM": "Augustine Lugonzo",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "July 29, 1992",
+        "LIEU_NAISSANCE": "2016",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1669504.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kaili-lukan-1669504",
+        "NOM": "Kaili Lukan",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "June 28, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1250162.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/fernando-luna-1250162",
+        "NOM": "Fernando Luna",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "May 12, 1990",
+        "LIEU_NAISSANCE": "2016",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1801790.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ilona-maher-1801790",
+        "NOM": "Ilona Maher",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "August 12, 1996",
+        "LIEU_NAISSANCE": "Burlington, VT",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1244117.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nick-malouf-1244117",
+        "NOM": "Nick Malouf",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "March 19, 1993",
+        "LIEU_NAISSANCE": "Brisbane",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500888.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/celestine-masinde-1500888",
+        "NOM": "Celestine Masinde",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "January 12, 1987",
+        "LIEU_NAISSANCE": "Kimilili",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1797505.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ignacio-mendy-1797505",
+        "NOM": "Ignacio Mendy",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "June 29, 2000",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/872835.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tim-mikkelson-872835",
+        "NOM": "Tim Mikkelson",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "August 13, 1986",
+        "LIEU_NAISSANCE": "Hamilton",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185449.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tom-mitchell-1185449",
+        "NOM": "Tom Mitchell",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "July 22, 1989",
+        "LIEU_NAISSANCE": "Cuckfield",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1458665.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sevuloni-mocenacagi-1458665",
+        "NOM": "Sevuloni Mocenacagi",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "June 29, 1990",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1480926.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sione-molia-1480926",
+        "NOM": "Sione Molia",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "September 5, 1993",
+        "LIEU_NAISSANCE": "Auckland",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1733989.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/saskia-morgan-1733989",
+        "NOM": "Saskia Morgan",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "November 3, 1994",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1322054.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/bush-mwale-1322054",
+        "NOM": "Bush Mwale",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "November 14, 1993",
+        "LIEU_NAISSANCE": "Nairobi",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1268526.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/waisea-nacuqu-1268526",
+        "NOM": "Waisea Nacuqu",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "May 24, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1765591.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alasio-sovita-naduva-1765591",
+        "NOM": "Alasio Sovita Naduva",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "June 25, 1990",
+        "LIEU_NAISSANCE": "Suva",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2031661.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/hana-nagata-2031661",
+        "NOM": "Hana Nagata",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "May 19, 2000",
+        "LIEU_NAISSANCE": "Fukuoka",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1562477.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ana-maria-naimasi-1562477",
+        "NOM": "Ana Maria Naimasi",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "February 21, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185517.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nakamura-chiharu-1185517",
+        "NOM": "Nakamura Chiharu",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "April 25, 1988",
+        "LIEU_NAISSANCE": "Ibaraki",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1765596.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/etene-nanai-seturo-1765596",
+        "NOM": "Etene Nanai-Seturo",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "August 20, 1999",
+        "LIEU_NAISSANCE": "Auckland",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1657487.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jona-malanicagi-nareki-1657487",
+        "NOM": "Jona Malanicagi Nareki",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "December 27, 1997",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1335706.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/amenoni-nasilasila-1335706",
+        "NOM": "Amenoni Nasilasila",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "February 8, 1992",
+        "LIEU_NAISSANCE": "Nadroga",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1563884.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kalione-nasoko-1563884",
+        "NOM": "Kalione Nasoko",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "December 2, 1990",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185682.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tyla-nathan-wong-1185682",
+        "NOM": "Tyla Nathan-Wong",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "July 1, 1994",
+        "LIEU_NAISSANCE": "Auckland",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/987059.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/folau-niua-987059",
+        "NOM": "Folau Niua",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "January 27, 1985",
+        "LIEU_NAISSANCE": "East Palo Alto, CA",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500895.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/janet-okelo-1500895",
+        "NOM": "Janet Okelo",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "May 5, 1992",
+        "LIEU_NAISSANCE": "Kisumu",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185679.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/okuroda-yume-1185679",
+        "NOM": "Okuroda Yume",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "July 6, 1994",
+        "LIEU_NAISSANCE": "Matsudo",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1769044.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ryan-olowofela-1769044",
+        "NOM": "Ryan Olowofela",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "April 17, 1998",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/grace-adhiambo-okulu-1501250",
+        "NOM": "Grace Adhiambo Okulu",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "March 16, 1998",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/eden-kochieng-agero-1185497",
+        "NOM": "Eden Kochieng Agero",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "September 17, 1990",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/elissa-alarie-1269216",
+        "NOM": "Elissa Alarie",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "January 31, 1986",
+        "LIEU_NAISSANCE": "Victoria",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/willie-ambaka-1185612",
+        "NOM": "Willie Ambaka",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "May 14, 1990",
+        "LIEU_NAISSANCE": "Nairobi",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/lachlan-anderson-1626760",
+        "NOM": "Lachlan Anderson",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "August 27, 1997",
+        "LIEU_NAISSANCE": "Baulkham Hills",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/madison-ashby-2031659",
+        "NOM": "Madison Ashby",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "January 22, 2001",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/cynthia-atieno-1500889",
+        "NOM": "Cynthia Atieno",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "April 17, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/iosefo-masikau-baleiwairiki-2205131",
+        "NOM": "Iosefo Masikau Baleiwairiki",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "May 9, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/anna-baranchuk-1501229",
+        "NOM": "Anna Baranchuk",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "December 18, 1993",
+        "LIEU_NAISSANCE": "Prokop'yevsk",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/dennis-ombachi-1244108",
+        "NOM": "Dennis Ombachi",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "December 14, 1991",
+        "LIEU_NAISSANCE": "Nakuru",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/philadelphia-orlando-1500902",
+        "NOM": "Philadelphia Orlando",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "February 18, 1990",
+        "LIEU_NAISSANCE": "2016, 2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/otake-fumiko-1765581",
+        "NOM": "Otake Fumiko",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "February 2, 1999",
+        "LIEU_NAISSANCE": "Kawaguchi",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jesse-parahi-883290",
+        "NOM": "Jesse Parahi",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "July 29, 1989",
+        "LIEU_NAISSANCE": "Sydney",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/ben-pinkelman-1177306",
+        "NOM": "Ben Pinkelman",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "June 13, 1994",
+        "LIEU_NAISSANCE": "Omaha, NE",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/john-porch-1473324",
+        "NOM": "John Porch",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "March 4, 1994",
+        "LIEU_NAISSANCE": "Orange",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/risealeaana-pouri-lane-1788208",
+        "NOM": "Risealeaana Pouri-Lane",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "May 28, 2000",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/celia-quansah-1925674",
+        "NOM": "Celia Quansah",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 25, 1995",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/joseva-ravouvou-1647143",
+        "NOM": "Joseva Ravouvou",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "March 21, 1991",
+        "LIEU_NAISSANCE": "Mount Maunganui",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/vatemo-ravouvou-1268523",
+        "NOM": "Vatemo Ravouvou",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "July 31, 1990",
+        "LIEU_NAISSANCE": "Nadi",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/gaston-revol-1185525",
+        "NOM": "Gaston Revol",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "November 26, 1986",
+        "LIEU_NAISSANCE": "C\u00f3rdoba",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1250163.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/franco-sabato-1250163",
+        "NOM": "Franco Sabato",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "January 13, 1990",
+        "LIEU_NAISSANCE": "Buenos Aires",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1626691.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alena-saili-1626691",
+        "NOM": "Alena Saili",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "December 13, 1998",
+        "LIEU_NAISSANCE": "Porirua",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185538.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sakai-katsuyuki-1185538",
+        "NOM": "Sakai Katsuyuki",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "September 7, 1988",
+        "LIEU_NAISSANCE": "Yokkaichi",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185487.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/asinate-savu-1185487",
+        "NOM": "Asinate Savu",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "April 15, 1993",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1733977.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/joe-schroeder-1733977",
+        "NOM": "Joe Schroeder",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "June 14, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177343.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/german-schulz-1177343",
+        "NOM": "German Schulz",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "February 5, 1994",
+        "LIEU_NAISSANCE": "C\u00f3rdoba",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1950661.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tokasa-seniyasi-1950661",
+        "NOM": "Tokasa Seniyasi",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "July 10, 1999",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1458673.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/bianca-silva-1458673",
+        "NOM": "Bianca Silva",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "July 22, 1998",
+        "LIEU_NAISSANCE": "Parais\u00f3polis",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/769099.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/philip-snyman-769099",
+        "NOM": "Philip Snyman",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "March 26, 1987",
+        "LIEU_NAISSANCE": "Bloemfontein",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1335711.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kameli-soejima-1335711",
+        "NOM": "Kameli Soejima",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "June 1, 1983",
+        "LIEU_NAISSANCE": "Fukuoka",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1733996.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/vasiti-solikoviti-1733996",
+        "NOM": "Vasiti Solikoviti",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "August 2, 1993",
+        "LIEU_NAISSANCE": "Lautoka",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1489455.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/siviwe-soyizwapi-1489455",
+        "NOM": "Siviwe Soyizwapi",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "December 7, 1992",
+        "LIEU_NAISSANCE": "Umtata",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1261139.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/rosko-specman-1261139",
+        "NOM": "Rosko Specman",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "April 28, 1989",
+        "LIEU_NAISSANCE": "Grahamstown",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1478060.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/naya-tapper-1478060",
+        "NOM": "Naya Tapper",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "August 3, 1994",
+        "LIEU_NAISSANCE": "Beaufort, SC",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1359167.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kristen-thomas-1359167",
+        "NOM": "Kristen Thomas",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 1, 1993",
+        "LIEU_NAISSANCE": "Philadelphia, PA",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185482.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/brett-thompson-1185482",
+        "NOM": "Brett Thompson",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "August 17, 1990",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1268517.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/stephen-tomasin-1268517",
+        "NOM": "Stephen Tomasin",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "September 25, 1994",
+        "LIEU_NAISSANCE": "Redding, CA",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936784.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/marcus-fasitupe-tupuola-1936784",
+        "NOM": "Marcus Fasitupe Tupuola",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "October 5, 1995",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185454.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lote-tuqiri-1185454",
+        "NOM": "Lote Tuqiri",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "November 12, 1987",
+        "LIEU_NAISSANCE": "Higashiosaka",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1262657.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jordan-turton-1262657",
+        "NOM": "Jordan Turton",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "June 7, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1322060.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jerry-tuwai-vunisa-1322060",
+        "NOM": "Jerry Tuwai Vunisa",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "March 23, 1989",
+        "LIEU_NAISSANCE": "Suva",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/987057.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/maka-unufe-987057",
+        "NOM": "Maka Unufe",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "September 28, 1991",
+        "LIEU_NAISSANCE": "Chula Vista, CA",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936777.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/impi-brecher-visser-1936777",
+        "NOM": "Impi Brecher Visser",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "May 30, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1458659.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/regan-ware-1458659",
+        "NOM": "Regan Ware",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "August 7, 1994",
+        "LIEU_NAISSANCE": "Hamilton",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177472.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/joe-webber-1177472",
+        "NOM": "Joe Webber",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "August 27, 1993",
+        "LIEU_NAISSANCE": "Tokoroa",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1563015.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/anthony-welmers-1563015",
+        "NOM": "Anthony Welmers",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "September 20, 1992",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1303543.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/charity-williams-1303543",
+        "NOM": "Charity Williams",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "October 20, 1996",
+        "LIEU_NAISSANCE": "2016, 2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1563032.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kevon-williams-1563032",
+        "NOM": "Kevon Williams",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "June 7, 1991",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1269195.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/amy-wilson-hardy-1269195",
+        "NOM": "Amy Wilson-Hardy",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "September 13, 1991",
+        "LIEU_NAISSANCE": "Poole",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1262015.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/adam-zaruba-1262015",
+        "NOM": "Adam Zaruba",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 31, 1991",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/raichielmiyo-bativakalolo-1478062",
+        "NOM": "Raichielmiyo Bativakalolo",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "September 18, 1997",
+        "LIEU_NAISSANCE": "Tokyo",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/lautaro-bazan-velez-1270253",
+        "NOM": "Lautaro Bazan Velez",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "February 24, 1996",
+        "LIEU_NAISSANCE": "C\u00f3rdoba",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/brittany-benn-1295288",
+        "NOM": "Brittany Benn",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 23, 1989",
+        "LIEU_NAISSANCE": "Belleville",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/philip-berna-1473329",
+        "NOM": "Philip Berna",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 7, 1996",
+        "LIEU_NAISSANCE": "Vancouver",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/coralie-bertrand-1733971",
+        "NOM": "Coralie Bertrand",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "April 10, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/michaela-blyde-1269284",
+        "NOM": "Michaela Blyde",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "December 29, 1995",
+        "LIEU_NAISSANCE": "New Plymouth",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/napolioni-bolaca-1966846",
+        "NOM": "Napolioni Bolaca",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "November 20, 1996",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/colin-bourke-582250",
+        "NOM": "Colin Bourke",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "October 15, 1984",
+        "LIEU_NAISSANCE": "Tokyo",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/gayle-broughton-1269225",
+        "NOM": "Gayle Broughton",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "June 5, 1996",
+        "LIEU_NAISSANCE": "Taranaki",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/abigail-brown-1478051",
+        "NOM": "Abigail Brown",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "April 10, 1996",
+        "LIEU_NAISSANCE": "Exeter",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/pamphinette-buisa-1304185",
+        "NOM": "Pamphinette Buisa",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "December 28, 1996",
+        "LIEU_NAISSANCE": "Ottawa",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/abigail-burton-1925679",
+        "NOM": "Abigail Burton",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "March 9, 2000",
+        "LIEU_NAISSANCE": "Leeds",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/charlotte-caslick-1185507",
+        "NOM": "Charlotte Caslick",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "March 9, 1995",
+        "LIEU_NAISSANCE": "Brisbane",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/lavena-cavuru-1669505",
+        "NOM": "Lavena Cavuru",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "June 28, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/chang-yong-heung-1500359",
+        "NOM": "Chang Yong-Heung",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "November 12, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/chen-keyi-1185510",
+        "NOM": "Chen Keyi",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "July 23, 1995",
+        "LIEU_NAISSANCE": "Sichuan",
+        "TAILLE": "Sichuan"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/choi-seong-deok-2205114",
+        "NOM": "Choi Seong-Deok",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "May 31, 1999",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/lucio-cinti-luna-1921782",
+        "NOM": "Lucio Cinti Luna",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "February 23, 2000",
+        "LIEU_NAISSANCE": "La Plata",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/anne-cecile-ciofani-1733966",
+        "NOM": "Anne-Cecile Ciofani",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "December 14, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jordan-conroy-1800836",
+        "NOM": "Jordan Conroy",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "March 10, 1994",
+        "LIEU_NAISSANCE": "Dublin",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1397772.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alec-coombes-1397772",
+        "NOM": "Alec Coombes",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "November 26, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1647133.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/andre-jin-coquillard-1647133",
+        "NOM": "Andre Jin Coquillard",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "January 15, 1991",
+        "LIEU_NAISSANCE": "Seoul",
+        "TAILLE": "6'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1948601.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/josh-coward-1948601",
+        "NOM": "Josh Coward",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "June 8, 1997",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1794015.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/iana-danilova-1794015",
+        "NOM": "Iana Danilova",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "May 7, 1996",
+        "LIEU_NAISSANCE": "Tayga",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1270359.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/william-dardis-1270359",
+        "NOM": "William Dardis",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "January 31, 1995",
+        "LIEU_NAISSANCE": "Dublin",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1964248.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/angelo-davids-1964248",
+        "NOM": "Angelo Davids",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "June 1, 1999",
+        "LIEU_NAISSANCE": "Cape Town",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1322051.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alex-davis-1322051",
+        "NOM": "Alex Davis",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 3, 1992",
+        "LIEU_NAISSANCE": "Gloucester",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1789140.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/rafaela-zanellato-1789140",
+        "NOM": "Rafaela Zanellato",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "November 25, 1999",
+        "LIEU_NAISSANCE": "Curitiba",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205133.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sesenieli-donu-2205133",
+        "NOM": "Sesenieli Donu",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "March 3, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1651537.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/caroline-drouin-1651537",
+        "NOM": "Caroline Drouin",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "July 7, 1996",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1303758.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dominique-du-toit-1303758",
+        "NOM": "Dominique Du Toit",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "May 19, 1997",
+        "LIEU_NAISSANCE": "Marondera",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177507.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/robbie-fergusson-1177507",
+        "NOM": "Robbie Fergusson",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "August 30, 1993",
+        "LIEU_NAISSANCE": "Ayr",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205159.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/marina-fioravanti-costa-2205159",
+        "NOM": "Marina Fioravanti Costa",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "October 6, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1270213.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ian-fitzpatrick-1270213",
+        "NOM": "Ian Fitzpatrick",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "August 25, 1994",
+        "LIEU_NAISSANCE": "Dublin",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1489459.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/theresa-fitzpatrick-1489459",
+        "NOM": "Theresa Fitzpatrick",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "February 25, 1995",
+        "LIEU_NAISSANCE": "Mount Maunganui",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1176098.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mike-fuailefau-1176098",
+        "NOM": "Mike Fuailefau",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 20, 1992",
+        "LIEU_NAISSANCE": "Victoria",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1480921.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/harry-glover-1480921",
+        "NOM": "Harry Glover",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "December 31, 1995",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185646.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/luiza-campos-1185646",
+        "NOM": "Luiza Campos",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "July 30, 1990",
+        "LIEU_NAISSANCE": "Porto Alegre",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1624728.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/luciano-gonzalez-rizzoni-1624728",
+        "NOM": "Luciano Gonzalez Rizzoni",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "April 10, 1997",
+        "LIEU_NAISSANCE": "La Rioja",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185488.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/camille-grassineau-1185488",
+        "NOM": "Camille Grassineau",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "September 10, 1990",
+        "LIEU_NAISSANCE": "Bordeaux",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500944.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/gu-yaoyao-1500944",
+        "NOM": "Gu Yaoyao",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "November 22, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1269266.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lina-guerin-1269266",
+        "NOM": "Lina Guerin",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "April 16, 1991",
+        "LIEU_NAISSANCE": "Paris",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185596.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lucas-hammond-1185596",
+        "NOM": "Lucas Hammond",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "November 14, 1993",
+        "LIEU_NAISSANCE": "Cape Town",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/840039.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/han-kun-kyu-840039",
+        "NOM": "Han Kun-Kyu",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "January 22, 1987",
+        "LIEU_NAISSANCE": "Seoul",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2074577.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/hara-wakaba-2074577",
+        "NOM": "Hara Wakaba",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "January 6, 2000",
+        "LIEU_NAISSANCE": "Niigata",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1983010.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ben-harris-1983010",
+        "NOM": "Ben Harris",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "September 8, 1999",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1493819.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/demi-hayes-1493819",
+        "NOM": "Demi Hayes",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "May 25, 1998",
+        "LIEU_NAISSANCE": "Mount Isa",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1283007.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/hikosaka-masakatsu-1283007",
+        "NOM": "Hikosaka Masakatsu",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "January 18, 1991",
+        "LIEU_NAISSANCE": "2016, 2020",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205306.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tia-hinds-2205306",
+        "NOM": "Tia Hinds",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "May 11, 2002",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2213132.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/thalita-costa-2213132",
+        "NOM": "Thalita Costa",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "May 30, 1997",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sarah-hirini-1185681",
+        "NOM": "Sarah Hirini",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "December 9, 1992",
+        "LIEU_NAISSANCE": "Manawatu",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/hirotsu-haruka-2061255",
+        "NOM": "Hirotsu Haruka",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "October 29, 2000",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/foster-horan-1500951",
+        "NOM": "Foster Horan",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "November 3, 1992",
+        "LIEU_NAISSANCE": "Dublin",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/fanny-horta-769449",
+        "NOM": "Fanny Horta",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "January 22, 1986",
+        "LIEU_NAISSANCE": "2016, 2020",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/herman-francis-humwa-1733975",
+        "NOM": "Herman Francis Humwa",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "November 8, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/natasha-hunt-1185656",
+        "NOM": "Natasha Hunt",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "March 21, 1989",
+        "LIEU_NAISSANCE": "Gloucester",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/collins-injera-769022",
+        "NOM": "Collins Injera",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "October 18, 1986",
+        "LIEU_NAISSANCE": "Nairobi",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/rodrigo-isgro-1986533",
+        "NOM": "Rodrigo Isgro",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "March 24, 1999",
+        "LIEU_NAISSANCE": "Mendoza",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/ishida-kippei-1921793",
+        "NOM": "Ishida Kippei",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "April 28, 2000",
+        "LIEU_NAISSANCE": "Amagasaki",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/shannon-izar-1185674",
+        "NOM": "Shannon Izar",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "May 8, 1993",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/chloe-jacquet-2205167",
+        "NOM": "Chloe Jacquet",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "April 17, 2002",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jang-jeong-min-1505094",
+        "NOM": "Jang Jeong-Min",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "November 10, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jang-seong-min-1489450",
+        "NOM": "Jang Seong-Min",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "August 22, 1992",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jeong-yeon-sik-1316924",
+        "NOM": "Jeong Yeon-Sik",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "May 8, 1993",
+        "LIEU_NAISSANCE": "Incheon",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jasmine-joyce-1501255",
+        "NOM": "Jasmine Joyce",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 9, 1995",
+        "LIEU_NAISSANCE": "St Davids",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kajiki-marin-2205219",
+        "NOM": "Kajiki Marin",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "September 20, 1999",
+        "LIEU_NAISSANCE": "Fukuoka",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/shiray-kaka-1269311",
+        "NOM": "Shiray Kaka",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "March 26, 1995",
+        "LIEU_NAISSANCE": "Hamilton",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kano-ryota-1624733",
+        "NOM": "Kano Ryota",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "May 10, 1992",
+        "LIEU_NAISSANCE": "Katsushika",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/brackin-karauria-henry-872822",
+        "NOM": "Brackin Karauria-Henry",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "July 31, 1988",
+        "LIEU_NAISSANCE": "Auckland",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/patrick-kay-1262014",
+        "NOM": "Patrick Kay",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "September 19, 1993",
+        "LIEU_NAISSANCE": "Duncan",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1657477.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jack-kelly-1657477",
+        "NOM": "Jack Kelly",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "October 26, 1997",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500972.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/terry-kennedy-1500972",
+        "NOM": "Terry Kennedy",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "July 4, 1996",
+        "LIEU_NAISSANCE": "Dublin",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1400949.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/samu-kerevi-1400949",
+        "NOM": "Samu Kerevi",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "September 27, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185492.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/baizat-khamidova-1185492",
+        "NOM": "Baizat Khamidova",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "August 31, 1990",
+        "LIEU_NAISSANCE": "Ibragimotar",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/840036.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-hyun-soo-840036",
+        "NOM": "Kim Hyun-Soo",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "November 8, 1988",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1307728.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-na-muk-1307728",
+        "NOM": "Kim Na-Muk",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "February 5, 1990",
+        "LIEU_NAISSANCE": "Cheongju",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1626757.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/andrew-knewstubb-1626757",
+        "NOM": "Andrew Knewstubb",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "September 14, 1995",
+        "LIEU_NAISSANCE": "Wellington",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1269285.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/koide-mifuyu-1269285",
+        "NOM": "Koide Mifuyu",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "December 21, 1995",
+        "LIEU_NAISSANCE": "Yokohama",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1269277.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/marina-kukina-1269277",
+        "NOM": "Marina Kukina",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "August 22, 1993",
+        "LIEU_NAISSANCE": "Lipetsk",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1802010.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/adam-leavy-1802010",
+        "NOM": "Adam Leavy",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "September 21, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "Dublin"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1786714.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lee-jin-kyu-1786714",
+        "NOM": "Lee Jin-Kyu",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "July 4, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1489454.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lee-seong-bae-1489454",
+        "NOM": "Lee Seong-Bae",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "April 7, 1990",
+        "LIEU_NAISSANCE": "Seoul",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1983011.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/hugo-lennox-1983011",
+        "NOM": "Hugo Lennox",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "March 6, 1999",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205304.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/maddison-levi-2205304",
+        "NOM": "Maddison Levi",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "April 27, 2002",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205187.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/laisana-likuceva-2205187",
+        "NOM": "Laisana Likuceva",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "February 3, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936668.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/christabel-lindo-1936668",
+        "NOM": "Christabel Lindo",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "September 22, 1999",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/820920.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ollie-lindsay-hague-820920",
+        "NOM": "Ollie Lindsay-Hague",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 8, 1990",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1304373.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/liu-xiaoqian-1304373",
+        "NOM": "Liu Xiaoqian",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "February 16, 1996",
+        "LIEU_NAISSANCE": "Shanghai",
+        "TAILLE": "Shaoxing"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1733981.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/maurice-longbottom-1733981",
+        "NOM": "Maurice Longbottom",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "January 30, 1995",
+        "LIEU_NAISSANCE": "Sydney",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1381570.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/daria-lushina-1381570",
+        "NOM": "Daria Lushina",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "November 1, 1996",
+        "LIEU_NAISSANCE": "Lyudinovo",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1957650.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sakoyisa-makata-1957650",
+        "NOM": "Sakoyisa Makata",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "September 10, 1998",
+        "LIEU_NAISSANCE": "East London",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1503308.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/santiago-mare-1503308",
+        "NOM": "Santiago Mare",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "October 21, 1996",
+        "LIEU_NAISSANCE": "Buenos Aires",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1963720.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/matsuda-rinka-1963720",
+        "NOM": "Matsuda Rinka",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "December 5, 2001",
+        "LIEU_NAISSANCE": "Fuchu",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1360365.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/matsui-chihito-1360365",
+        "NOM": "Matsui Chihito",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "November 11, 1994",
+        "LIEU_NAISSANCE": "Osaka",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1295270.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alex-matthews-1295270",
+        "NOM": "Alex Matthews",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "August 3, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1657550.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ross-mccann-1657550",
+        "NOM": "Ross McCann",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 30, 1997",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177458.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/max-mcfarland-1177458",
+        "NOM": "Max McFarland",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "July 13, 1993",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1777160.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ngarohi-mcgarvey-1777160",
+        "NOM": "Ngarohi McGarvey",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "May 20, 1996",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500955.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/harry-mcnulty-1500955",
+        "NOM": "Harry McNulty",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "March 5, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1983007.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lachlan-miller-1983007",
+        "NOM": "Lachlan Miller",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "August 14, 1994",
+        "LIEU_NAISSANCE": "Sydney",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kayla-moleschi-1185571",
+        "NOM": "Kayla Moleschi",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "October 25, 1990",
+        "LIEU_NAISSANCE": "Williams Lake",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/marcos-moneta-1921784",
+        "NOM": "Marcos Moneta",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "March 7, 2000",
+        "LIEU_NAISSANCE": "Buenos Aires",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/motomura-naoki-1634070",
+        "NOM": "Motomura Naoki",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "April 11, 1992",
+        "LIEU_NAISSANCE": "Hachinohe",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/gavin-mullin-1657459",
+        "NOM": "Gavin Mullin",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "November 29, 1997",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/matthew-mullins-1418224",
+        "NOM": "Matthew Mullins",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "July 28, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/rusila-nagasau-1185665",
+        "NOM": "Rusila Nagasau",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "August 4, 1987",
+        "LIEU_NAISSANCE": "Nausori",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/viniana-riwai-1185670",
+        "NOM": "Viniana Riwai",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "June 6, 1991",
+        "LIEU_NAISSANCE": "Labasa",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/aloesi-nakoci-1634074",
+        "NOM": "Aloesi Nakoci",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "August 18, 1991",
+        "LIEU_NAISSANCE": "Suva",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/faith-nathan-2061253",
+        "NOM": "Faith Nathan",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "July 27, 2000",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sarah-ndunde-1936675",
+        "NOM": "Sarah Ndunde",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "February 13, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/carla-neisen-1501013",
+        "NOM": "Carla Neisen",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "March 8, 1996",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/stella-nelima-1936678",
+        "NOM": "Stella Nelima",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "July 7, 1998",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tone-ng-shiu-1639108",
+        "NOM": "Tone Ng Shiu",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "May 26, 1994",
+        "LIEU_NAISSANCE": "Napier",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/breanne-nicholas-1478053",
+        "NOM": "Breanne Nicholas",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "February 20, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/mariana-nicolau-1493821",
+        "NOM": "Mariana Nicolau",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "November 16, 1997",
+        "LIEU_NAISSANCE": "S\u00e3o Jos\u00e9 dos Campos",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/daria-noritsina-1501243",
+        "NOM": "Daria Noritsina",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "July 20, 1996",
+        "LIEU_NAISSANCE": "Perm",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/dan-norton-870985",
+        "NOM": "Dan Norton",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "March 22, 1988",
+        "LIEU_NAISSANCE": "Gloucester",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/gregory-oshea-1500954",
+        "NOM": "Gregory O''Shea",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "March 23, 1995",
+        "LIEU_NAISSANCE": "Limerick",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/billy-odhiambo-1244104",
+        "NOM": "Billy Odhiambo",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "November 7, 1993",
+        "LIEU_NAISSANCE": "Kisumu",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/seraphine-okemba-1501064",
+        "NOM": "Seraphine Okemba",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "December 3, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1784337.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/judith-okumu-1784337",
+        "NOM": "Judith Okumu",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "July 12, 1998",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1963725.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/vivian-okwach-1963725",
+        "NOM": "Vivian Okwach",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "February 9, 1999",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936780.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/johnstone-olindi-1936780",
+        "NOM": "Johnstone Olindi",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "November 4, 1999",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1458652.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jeffrey-oluoch-1458652",
+        "NOM": "Jeffrey Oluoch",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "April 2, 1995",
+        "LIEU_NAISSANCE": "Nairobi",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1500900.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sinaida-michelle-omondi-1500900",
+        "NOM": "Sinaida Michelle Omondi",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "May 10, 1991",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1938968.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/vincent-onyala-1938968",
+        "NOM": "Vincent Onyala",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "December 10, 1996",
+        "LIEU_NAISSANCE": "Nairobi",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1503267.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/matias-osadczuk-1503267",
+        "NOM": "Mat\u00edas Osadczuk",
+        "SPORT": "Rugby",
+        "PAYS": "ARG",
+        "DATE_NAISSANCE": "April 22, 1997",
+        "LIEU_NAISSANCE": "Buenos Aires",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205129.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/otani-mei-2205129",
+        "NOM": "Otani Mei",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "May 28, 2000",
+        "LIEU_NAISSANCE": "Kyoto",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1489441.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alvin-ochieng-otieno-1489441",
+        "NOM": "Alvin Ochieng Otieno",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "April 19, 1994",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1458655.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nelson-oyoo-1458655",
+        "NOM": "Nelson Oyoo",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "June 26, 1994",
+        "LIEU_NAISSANCE": "Nakuru",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1936676.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sariah-paki-1936676",
+        "NOM": "Sariah Paki",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "October 12, 2001",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185570.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/karen-paquin-1185570",
+        "NOM": "Karen Paquin",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "August 3, 1987",
+        "LIEU_NAISSANCE": "Quebec",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/840041.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/park-wan-yong-840041",
+        "NOM": "Park Wan-Yong",
+        "SPORT": "Rugby",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "June 2, 1984",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1125479.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/shannon-parry-1125479",
+        "NOM": "Shannon Parry",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "October 27, 1989",
+        "LIEU_NAISSANCE": "Brisbane",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205293.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/henry-paterson-2205293",
+        "NOM": "Henry Paterson",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "February 26, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1328462.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/evania-pelite-1328462",
+        "NOM": "Evania Pelite",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "July 12, 1995",
+        "LIEU_NAISSANCE": "Brisbane",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1185515.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/chloe-pelle-1185515",
+        "NOM": "Chloe Pelle",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "November 14, 1989",
+        "LIEU_NAISSANCE": "Paris",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1563023.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dylan-pietsch-1563023",
+        "NOM": "Dylan Pietsch",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "April 23, 1998",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1800835.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/joeseph-pincus-1800835",
+        "NOM": "Joeseph Pincus",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "July 24, 1996",
+        "LIEU_NAISSANCE": "Sydney",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205204.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mariia-pogrebniak-2205204",
+        "NOM": "Mariia Pogrebniak",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "July 1, 1996",
+        "LIEU_NAISSANCE": "Gatchina",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1948599.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/johannes-pretorius-1948599",
+        "NOM": "Johannes Pretorius",
+        "SPORT": "Rugby",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "January 29, 1998",
+        "LIEU_NAISSANCE": "Secunda",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1359170.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/roela-radinyavuni-1359170",
+        "NOM": "Roela Radinyavuni",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "April 7, 1990",
+        "LIEU_NAISSANCE": "Suva",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1224872.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/semi-radradra-1224872",
+        "NOM": "Semi Radradra",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "June 13, 1992",
+        "LIEU_NAISSANCE": "Suva",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2007044.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ariana-ramsey-2007044",
+        "NOM": "Ariana Ramsey",
+        "SPORT": "Rugby",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "March 25, 2000",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "Philadelphia, PA"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1662667.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/aline-ribeiro-furtado-1662667",
+        "NOM": "Aline Ribeiro Furtado",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "October 2, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2205291.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dietrich-peter-roache-2205291",
+        "NOM": "Dietrich Peter Roache",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "July 6, 2001",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1177452.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mark-roche-1177452",
+        "NOM": "Mark Roche",
+        "SPORT": "Rugby",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "January 25, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1925675.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/helena-rowland-1925675",
+        "NOM": "Helena Rowland",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "September 19, 1999",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1650030.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ruan-hongting-1650030",
+        "NOM": "Ruan Hongting",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "October 6, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1501100.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/theo-sauder-1501100",
+        "NOM": "Theo Sauder",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 2, 1996",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/haline-scatrut-1418208",
+        "NOM": "Haline Scatrut",
+        "SPORT": "Rugby",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "August 9, 1992",
+        "LIEU_NAISSANCE": "S\u00e3o Paulo",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kristina-seredina-1269258",
+        "NOM": "Kristina Seredina",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "December 24, 1994",
+        "LIEU_NAISSANCE": "Taraz",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jose-coyikal-seru-1789166",
+        "NOM": "Jose Coyikal Seru",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "February 9, 1991",
+        "LIEU_NAISSANCE": "Higashiosaka",
+        "TAILLE": "6'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/daria-shestakova-1478054",
+        "NOM": "Daria Shestakova",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "February 6, 1996",
+        "LIEU_NAISSANCE": "Uzhhorod",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/shimizu-mayu-1501055",
+        "NOM": "Shimizu Mayu",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "January 19, 1998",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/shirako-miyu-2205094",
+        "NOM": "Shirako Miyu",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "July 22, 1995",
+        "LIEU_NAISSANCE": "Tokyo",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/hannah-smith-1963699",
+        "NOM": "Hannah Smith",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 30, 1992",
+        "LIEU_NAISSANCE": "Falkirk",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/nadezhda-sozonova-1185690",
+        "NOM": "Nadezhda Sozonova",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "August 14, 1991",
+        "LIEU_NAISSANCE": "Aksay",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/daniel-taabu-1936776",
+        "NOM": "Daniel Taabu",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "January 19, 1996",
+        "LIEU_NAISSANCE": "Nairobi",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tang-minglin-1650047",
+        "NOM": "Tang Minglin",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "February 3, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jake-thiel-1765599",
+        "NOM": "Jake Thiel",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "June 2, 1997",
+        "LIEU_NAISSANCE": "Abbotsford",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/alena-tiron-1269189",
+        "NOM": "Alena Tiron",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "December 8, 1993",
+        "LIEU_NAISSANCE": "Novosibirsk",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/emma-tonegato-1269221",
+        "NOM": "Emma Tonegato",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "March 20, 1995",
+        "LIEU_NAISSANCE": "Wollongong",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/conor-trainor-874600",
+        "NOM": "Conor Trainor",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "December 5, 1989",
+        "LIEU_NAISSANCE": "Vancouver",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tsutsumi-honoka-1501030",
+        "NOM": "Tsutsumi Honoka",
+        "SPORT": "Rugby",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "June 19, 1997",
+        "LIEU_NAISSANCE": "Ureshino",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/ruby-tui-1328459",
+        "NOM": "Ruby Tui",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "December 13, 1991",
+        "LIEU_NAISSANCE": "Wellington",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/aminiasi-tuimaba-1936772",
+        "NOM": "Aminiasi Tuimaba",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "March 26, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/asaeli-tuivuaka-1958685",
+        "NOM": "Asaeli Tuivuaka",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "December 22, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/josh-turner-2061247",
+        "NOM": "Josh Turner",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "September 23, 1995",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/reapi-ulunisau-2205206",
+        "NOM": "Reapi Ulunisau",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "November 2, 1994",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jade-ulutule-1185575",
+        "NOM": "Jade Ulutule",
+        "SPORT": "Rugby",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "October 12, 1992",
+        "LIEU_NAISSANCE": "F\u00e9camp",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/emma-uren-1925678",
+        "NOM": "Emma Uren",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 1, 1997",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/josua-vakurunabili-1659825",
+        "NOM": "Josua Vakurunabili",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "April 12, 1994",
+        "LIEU_NAISSANCE": "Singatoka",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/ethan-waddleton-1473321",
+        "NOM": "Ethan Waddleton",
+        "SPORT": "Rugby",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "November 23, 1996",
+        "LIEU_NAISSANCE": "Ipswich",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jiuta-wainiqolo-2205057",
+        "NOM": "Jiuta Wainiqolo",
+        "SPORT": "Rugby",
+        "PAYS": "FIJ",
+        "DATE_NAISSANCE": "March 10, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/leah-wambui-2205105",
+        "NOM": "Leah Wambui",
+        "SPORT": "Rugby",
+        "PAYS": "KEN",
+        "DATE_NAISSANCE": "May 21, 1989",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/wang-wanyu-1788816",
+        "NOM": "Wang Wanyu",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "February 14, 1997",
+        "LIEU_NAISSANCE": "Xuzhou",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/keyara-wardley-1921816",
+        "NOM": "Keyara Wardley",
+        "SPORT": "Rugby",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "January 27, 2000",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sharni-williams-1125480",
+        "NOM": "Sharni Williams",
+        "SPORT": "Rugby",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "February 3, 1988",
+        "LIEU_NAISSANCE": "Batlow",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/portia-woodman-1185680",
+        "NOM": "Portia Woodman",
+        "SPORT": "Rugby",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "July 12, 1991",
+        "LIEU_NAISSANCE": "Kawakawa",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/wu-juan-2205212",
+        "NOM": "Wu Juan",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "January 1, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "2020"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/xu-xiaoyan-1650060",
+        "NOM": "Xu Xiaoyan",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "January 29, 1998",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yan-meiling-1304180",
+        "NOM": "Yan Meiling",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "January 14, 1997",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yang-feifei-1303763",
+        "NOM": "Yang Feifei",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "October 5, 1997",
+        "LIEU_NAISSANCE": "Jinan",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yang-min-1269327",
+        "NOM": "Yang Min",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "November 4, 1994",
+        "LIEU_NAISSANCE": "Taizhou",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yu-liping-1283746",
+        "NOM": "Yu Liping",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "December 22, 1993",
+        "LIEU_NAISSANCE": "2020",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yu-xiaoming-1269328",
+        "NOM": "Yu Xiaoming",
+        "SPORT": "Rugby",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "November 8, 1993",
+        "LIEU_NAISSANCE": "Weifang",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/elena-zdrokova-1478055",
+        "NOM": "Elena Zdrokova",
+        "SPORT": "Rugby",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "December 26, 1996",
+        "LIEU_NAISSANCE": "Novosibirsk",
+        "TAILLE": "5'' 8\""
+    }
+]

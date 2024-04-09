@@ -1,0 +1,1362 @@
+[
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/827441.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/cheryl-bernard-827441",
+        "NOM": "Cheryl Bernard",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "June 30, 1966",
+        "LIEU_NAISSANCE": "Grande Prairie",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721917.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/vicki-chalmers-721917",
+        "NOM": "Vicki Chalmers",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "November 16, 1989",
+        "LIEU_NAISSANCE": "Edinburgh",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022638.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/cory-christensen-1022638",
+        "NOM": "Cory Christensen",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "December 1, 1994",
+        "LIEU_NAISSANCE": "Duluth, MN",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1429274.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/joanne-courtney-1429274",
+        "NOM": "Joanne Courtney",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 7, 1989",
+        "LIEU_NAISSANCE": "Edmonton",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842291.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/peter-de-cruz-842291",
+        "NOM": "Peter De Cruz",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "January 4, 1990",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/706865.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/niklas-edin-706865",
+        "NOM": "Niklas Edin",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "July 6, 1985",
+        "LIEU_NAISSANCE": "\u00d6rnsk\u00f6ldsvik",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721971.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/oskar-eriksson-721971",
+        "NOM": "Oskar Eriksson",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "May 29, 1991",
+        "LIEU_NAISSANCE": "Karlstad",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1158300.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/aileen-geving-1158300",
+        "NOM": "Aileen Geving",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "February 13, 1987",
+        "LIEU_NAISSANCE": "Duluth, MN",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842723.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lauren-gray-842723",
+        "NOM": "Lauren Gray",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "November 3, 1991",
+        "LIEU_NAISSANCE": "Glasgow",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721969.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/matt-hamilton-721969",
+        "NOM": "Matt Hamilton",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "February 19, 1989",
+        "LIEU_NAISSANCE": "McFarland, WI",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721952.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/becca-hamilton-721952",
+        "NOM": "Becca Hamilton",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 12, 1990",
+        "LIEU_NAISSANCE": "McFarland, WI",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771137.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/anna-hasselborg-771137",
+        "NOM": "Anna Hasselborg",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "May 5, 1989",
+        "LIEU_NAISSANCE": "Stockholm",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/723802.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ben-hebert-723802",
+        "NOM": "Ben Hebert",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 16, 1983",
+        "LIEU_NAISSANCE": "Regina",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842605.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/rachel-homan-842605",
+        "NOM": "Rachel Homan",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 5, 1989",
+        "LIEU_NAISSANCE": "Ottawa",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/723800.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/marc-kennedy-723800",
+        "NOM": "Marc Kennedy",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "February 5, 1982",
+        "LIEU_NAISSANCE": "St. Albert",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771138.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/agnes-knochenhauer-771138",
+        "NOM": "Agnes Knochenhauer",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "May 5, 1989",
+        "LIEU_NAISSANCE": "Stockholm",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/338031.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kevin-koe-338031",
+        "NOM": "Kevin Koe",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "January 11, 1975",
+        "LIEU_NAISSANCE": "Edmonton",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/663194.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/brent-laing-663194",
+        "NOM": "Brent Laing",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "December 10, 1978",
+        "LIEU_NAISSANCE": "Meaford",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/931762.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/john-landsteiner-931762",
+        "NOM": "John Landsteiner",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "May 19, 1990",
+        "LIEU_NAISSANCE": "Mankato, MN",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721928.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kaitlyn-lawes-721928",
+        "NOM": "Kaitlyn Lawes",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "December 16, 1988",
+        "LIEU_NAISSANCE": "Winnipeg",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771101.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/henrik-leek-771101",
+        "NOM": "Henrik Leek",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "March 15, 1990",
+        "LIEU_NAISSANCE": "H\u00e4rn\u00f6sand",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/931792.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sofia-mabergs-931792",
+        "NOM": "Sofia Mabergs",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "April 9, 1993",
+        "LIEU_NAISSANCE": "Malung",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771141.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sara-mcmanus-771141",
+        "NOM": "Sara McManus",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "December 13, 1991",
+        "LIEU_NAISSANCE": "Gothenburg",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842606.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/emma-miskew-842606",
+        "NOM": "Emma Miskew",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "February 14, 1989",
+        "LIEU_NAISSANCE": "Ottawa",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/338028.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/john-morris-338028",
+        "NOM": "John Morris",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "December 16, 1978",
+        "LIEU_NAISSANCE": "Winnipeg",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721915.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/eve-muirhead-721915",
+        "NOM": "Eve Muirhead",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "April 22, 1990",
+        "LIEU_NAISSANCE": "Perth",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721916.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/glen-muirhead-721916",
+        "NOM": "Glen Muirhead",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "April 10, 1989",
+        "LIEU_NAISSANCE": "Perth",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022671.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/thomas-muirhead-1022671",
+        "NOM": "Thomas Muirhead",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "April 11, 1995",
+        "LIEU_NAISSANCE": "Perth",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842311.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dominik-maerki-842311",
+        "NOM": "Dominik Maerki",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "October 9, 1990",
+        "LIEU_NAISSANCE": "Fayetteville, AR",
+        "TAILLE": "6'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1149959.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jenny-perret-1149959",
+        "NOM": "Jenny Perret",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "December 23, 1991",
+        "LIEU_NAISSANCE": "Bern",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771147.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tabitha-peterson-771147",
+        "NOM": "Tabitha Peterson",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "March 6, 1989",
+        "LIEU_NAISSANCE": "Burnsville, MN",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771148.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tara-peterson-771148",
+        "NOM": "Tara Peterson",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "May 28, 1991",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/350004.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/scott-pfeifer-350004",
+        "NOM": "Scott Pfeifer",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "January 5, 1977",
+        "LIEU_NAISSANCE": "St. Albert",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721966.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/chris-plys-721966",
+        "NOM": "Chris Plys",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "August 13, 1987",
+        "LIEU_NAISSANCE": "Duluth, MN",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/594006.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/joe-polo-594006",
+        "NOM": "Joe Polo",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "December 10, 1982",
+        "LIEU_NAISSANCE": "Duluth, MN",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721988.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/claudio-paetz-721988",
+        "NOM": "Claudio Paetz",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "July 1, 1987",
+        "LIEU_NAISSANCE": "Ober Urdorf",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/760837.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/martin-rios-760837",
+        "NOM": "Martin Rios",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "May 24, 1981",
+        "LIEU_NAISSANCE": "Glarus",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1634789.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nina-roth-1634789",
+        "NOM": "Nina Roth",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 21, 1988",
+        "LIEU_NAISSANCE": "McFarland, WI",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1553263.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kelly-schafer-1553263",
+        "NOM": "Kelly Schafer",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "April 8, 1981",
+        "LIEU_NAISSANCE": "Dundee",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842302.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/benoit-schwarz-842302",
+        "NOM": "Benoit Schwarz",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "August 19, 1991",
+        "LIEU_NAISSANCE": "Geneva",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/458196.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/john-shuster-458196",
+        "NOM": "John Shuster",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "November 3, 1982",
+        "LIEU_NAISSANCE": "Chisholm, MN",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771136.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/anna-sloan-771136",
+        "NOM": "Anna Sloan",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "February 5, 1991",
+        "LIEU_NAISSANCE": "Lockerbie",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1149938.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/cameron-smith-1149938",
+        "NOM": "Cameron Smith",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "December 11, 1993",
+        "LIEU_NAISSANCE": "Perth",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022658.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kyle-smith-1022658",
+        "NOM": "Kyle Smith",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "July 9, 1992",
+        "LIEU_NAISSANCE": "Perth",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771099.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/christoffer-sundgren-771099",
+        "NOM": "Christoffer Sundgren",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "July 31, 1989",
+        "LIEU_NAISSANCE": "Sveg",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842309.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/valentin-tanner-842309",
+        "NOM": "Valentin Tanner",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "October 2, 1992",
+        "LIEU_NAISSANCE": "Geneva",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022659.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kyle-waddell-1022659",
+        "NOM": "Kyle Waddell",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "December 15, 1993",
+        "LIEU_NAISSANCE": "Bellshill",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1159916.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lisa-weagle-1159916",
+        "NOM": "Lisa Weagle",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 24, 1985",
+        "LIEU_NAISSANCE": "Ottawa",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1025620.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/rasmus-wrana-1025620",
+        "NOM": "Rasmus Wrana",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "November 15, 1994",
+        "LIEU_NAISSANCE": "Stockholm",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1245686.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jennie-wahlin-1245686",
+        "NOM": "Jennie Wahlin",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "November 26, 1997",
+        "LIEU_NAISSANCE": "Stockholm",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2272511.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/fan-suyuan-2272511",
+        "NOM": "Fan Suyuan",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "August 1, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022667.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sebastiano-arman-1022667",
+        "NOM": "Sebastiano Arman",
+        "SPORT": "Curling",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "January 17, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/771133.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/galina-arsenkina-771133",
+        "NOM": "Galina Arsenkina",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "June 6, 1991",
+        "LIEU_NAISSANCE": "Zelenogorsk",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022678.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/melanie-barbezat-1022678",
+        "NOM": "Melanie Barbezat",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "August 10, 1991",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1475582.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/stefania-constantini-1475582",
+        "NOM": "Stefania Constantini",
+        "SPORT": "Curling",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "April 15, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1149957.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jennifer-dodds-1149957",
+        "NOM": "Jennifer Dodds",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 1, 1991",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1721083.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dong-ziqi-1721083",
+        "NOM": "Dong Ziqi",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "April 3, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1776691.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/hailey-duff-1776691",
+        "NOM": "Hailey Duff",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "January 24, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/455596.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/denise-dupont-455596",
+        "NOM": "Denise Dupont",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "May 24, 1984",
+        "LIEU_NAISSANCE": "Glostrup",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/455597.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/madeleine-dupont-455597",
+        "NOM": "Madeleine Dupont",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "May 26, 1987",
+        "LIEU_NAISSANCE": "Glostrup",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/satsuki-fujisawa-721946",
+        "NOM": "Satsuki Fujisawa",
+        "SPORT": "Curling",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "May 24, 1991",
+        "LIEU_NAISSANCE": "Kitami",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/brett-gallant-771068",
+        "NOM": "Brett Gallant",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "February 18, 1990",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tahli-gill-1929264",
+        "NOM": "Tahli Gill",
+        "SPORT": "Curling",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "September 8, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/mattia-giovanella-1954347",
+        "NOM": "Mattia Giovanella",
+        "SPORT": "Curling",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "October 17, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sergey-glukhov-1149969",
+        "NOM": "Sergey Glukhov",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "January 7, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/simone-gonin-1158337",
+        "NOM": "Simone Gonin",
+        "SPORT": "Curling",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "August 23, 1989",
+        "LIEU_NAISSANCE": "Savigliano",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/daniil-goryachev-1482294",
+        "NOM": "Daniil Goryachev",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "January 12, 1995",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/brad-gushue-337982",
+        "NOM": "Brad Gushue",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "June 16, 1980",
+        "LIEU_NAISSANCE": "St. John's",
+        "TAILLE": "St. John''s"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/mathilde-halse-1570508",
+        "NOM": "Mathilde Halse",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "May 2, 1999",
+        "LIEU_NAISSANCE": "Nuuk",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/han-yu-1475586",
+        "NOM": "Han Yu",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "October 6, 2000",
+        "LIEU_NAISSANCE": "Beijing",
+        "TAILLE": "Huairou"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1716751.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/grant-hardie-1716751",
+        "NOM": "Grant Hardie",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "March 27, 1992",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1025602.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/johanna-heldin-1025602",
+        "NOM": "Johanna Heldin",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "August 29, 1994",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1323453.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dean-hewitt-1323453",
+        "NOM": "Dean Hewitt",
+        "SPORT": "Curling",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "November 9, 1994",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2032356.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/henrik-holtermann-2032356",
+        "NOM": "Henrik Holtermann",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "March 23, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1246289.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/carole-howald-1246289",
+        "NOM": "Carole Howald",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "March 29, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1221219.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/colin-hufman-1221219",
+        "NOM": "Colin Hufman",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "May 15, 1984",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721985.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/markus-hoeiberg-721985",
+        "NOM": "Markus Hoeiberg",
+        "SPORT": "Curling",
+        "PAYS": "NOR",
+        "DATE_NAISSANCE": "June 6, 1991",
+        "LIEU_NAISSANCE": "Oppdal",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/340094.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kotomi-ishizaki-340094",
+        "NOM": "Kotomi Ishizaki",
+        "SPORT": "Curling",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "January 4, 1979",
+        "LIEU_NAISSANCE": "2002, 2010",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/841707.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tobias-thune-jacobsen-841707",
+        "NOM": "Tobias Thune Jacobsen",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "October 7, 1994",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022642.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jiang-dongxu-1022642",
+        "NOM": "Jiang Dongxu",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "March 3, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1721079.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jiang-xindi-1721079",
+        "NOM": "Jiang Xindi",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "January 26, 1997",
+        "LIEU_NAISSANCE": "Harbin",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/594027.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jennifer-jones-594027",
+        "NOM": "Jennifer Jones",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "July 7, 1974",
+        "LIEU_NAISSANCE": "Winnipeg",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/910440.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/anton-kalalb-910440",
+        "NOM": "Anton Kalalb",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "March 16, 1988",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1550327.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-chohi-1550327",
+        "NOM": "Kim Chohi",
+        "SPORT": "Curling",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "September 7, 1996",
+        "LIEU_NAISSANCE": "Seoul",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1235627.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-eun-jung-1235627",
+        "NOM": "Kim Eun-Jung",
+        "SPORT": "Curling",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "November 29, 1990",
+        "LIEU_NAISSANCE": "Uiseong",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1235648.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-kyeong-ae-1235648",
+        "NOM": "Kim Kyeong-Ae",
+        "SPORT": "Curling",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "January 21, 1994",
+        "LIEU_NAISSANCE": "Uiseong",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1235698.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-seon-yeong-1235698",
+        "NOM": "Kim Seon-Yeong",
+        "SPORT": "Curling",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "May 18, 1993",
+        "LIEU_NAISSANCE": "Uiseong",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1235704.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-yeong-mi-1235704",
+        "NOM": "Kim Yeong-Mi",
+        "SPORT": "Curling",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "March 10, 1991",
+        "LIEU_NAISSANCE": "Uiseong",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1570482.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/evgeny-klimov-1570482",
+        "NOM": "Evgeny Klimov",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "November 22, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1482314.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/maria-komarova-1482314",
+        "NOM": "Maria Komarova",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "April 24, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1149935.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alina-kovaleva-1149935",
+        "NOM": "Alina Kovaleva",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "February 18, 1993",
+        "LIEU_NAISSANCE": "Slantsy",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/721999.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mikkel-krause-721999",
+        "NOM": "Mikkel Krause",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "October 2, 1988",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Hvidovre"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1366650.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ekaterina-kuzmina-1366650",
+        "NOM": "Ekaterina Kuzmina",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "January 5, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2189727.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/pablo-lachat-2189727",
+        "NOM": "Pablo Lachat",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "October 20, 2000",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1366640.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/bobby-lammie-1366640",
+        "NOM": "Bobby Lammie",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "February 10, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2032361.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jasmin-lander-2032361",
+        "NOM": "Jasmin Lander",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "February 4, 2000",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/2032386.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/my-larsen-2032386",
+        "NOM": "My Larsen",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "February 9, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1245715.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ling-zhi-1245715",
+        "NOM": "Ling Zhi",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "April 6, 1994",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/931795.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ma-xiuyue-931795",
+        "NOM": "Ma Xiuyue",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "May 21, 1991",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1245672.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/almida-de-val-1245672",
+        "NOM": "Almida de Val",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "September 12, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1776684.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/daniel-magnusson-1776684",
+        "NOM": "Daniel Magnusson",
+        "SPORT": "Curling",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "March 8, 2000",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/722543.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dawn-mcewen-722543",
+        "NOM": "Dawn McEwen",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "July 3, 1980",
+        "LIEU_NAISSANCE": "Ottawa",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022644.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/hammy-mcmillan-1022644",
+        "NOM": "Hammy McMillan",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "May 29, 1992",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/931633.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sven-michel-931633",
+        "NOM": "Sven Michel",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "March 30, 1988",
+        "LIEU_NAISSANCE": "Interlaken",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1149944.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dmitry-mironov-1149944",
+        "NOM": "Dmitry Mironov",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "October 22, 1992",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1022627.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/amos-mosaner-1022627",
+        "NOM": "Amos Mosaner",
+        "SPORT": "Curling",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "March 12, 1995",
+        "LIEU_NAISSANCE": "Trento",
+        "TAILLE": "6'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1366641.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/bruce-mouat-1366641",
+        "NOM": "Bruce Mouat",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "August 27, 1994",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/841718.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/magnus-nedregotten-841718",
+        "NOM": "Magnus Nedregotten",
+        "SPORT": "Curling",
+        "PAYS": "NOR",
+        "DATE_NAISSANCE": "October 24, 1990",
+        "LIEU_NAISSANCE": "Stavanger",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/338062.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/torger-nergaard-338062",
+        "NOM": "Torger Nergaard",
+        "SPORT": "Curling",
+        "PAYS": "NOR",
+        "DATE_NAISSANCE": "December 12, 1974",
+        "LIEU_NAISSANCE": "Trondheim",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/660102.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/esther-neuenschwander-660102",
+        "NOM": "Esther Neuenschwander",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "September 30, 1983",
+        "LIEU_NAISSANCE": "Zurich",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/mark-nichols-603636",
+        "NOM": "Mark Nichols",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "January 1, 1980",
+        "LIEU_NAISSANCE": "St. John's",
+        "TAILLE": "Labrador City"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/mads-noergaard-931773",
+        "NOM": "Mads Noergaard",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "October 30, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tomas-paul-1221476",
+        "NOM": "Tomas Paul",
+        "SPORT": "Curling",
+        "PAYS": "CZE",
+        "DATE_NAISSANCE": "April 3, 1988",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/zuzana-paulova-1967586",
+        "NOM": "Zuzana Paulova",
+        "SPORT": "Curling",
+        "PAYS": "CZE",
+        "DATE_NAISSANCE": "January 28, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/vicky-persinger-1149977",
+        "NOM": "Vicky Persinger",
+        "SPORT": "Curling",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "June 1, 1992",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jocelyn-peterman-1022654",
+        "NOM": "Jocelyn Peterman",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "September 23, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yulia-portunova-1149971",
+        "NOM": "Yulia Portunova",
+        "SPORT": "Curling",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "May 4, 1994",
+        "LIEU_NAISSANCE": "Kaliningrad",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/alina-paetz-931746",
+        "NOM": "Alina Paetz",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "March 8, 1990",
+        "LIEU_NAISSANCE": "Ober Urdorf",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/joel-retornaz-428699",
+        "NOM": "Joel Retornaz",
+        "SPORT": "Curling",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "September 20, 1983",
+        "LIEU_NAISSANCE": "Geneva",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kristin-skaslien-706818",
+        "NOM": "Kristin Skaslien",
+        "SPORT": "Curling",
+        "PAYS": "NOR",
+        "DATE_NAISSANCE": "January 18, 1986",
+        "LIEU_NAISSANCE": "Trondheim",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/mili-smith-1475577",
+        "NOM": "Mili Smith",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "March 1, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yumi-suzuki-1453423",
+        "NOM": "Yumi Suzuki",
+        "SPORT": "Curling",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "December 2, 1991",
+        "LIEU_NAISSANCE": "Kitami",
+        "TAILLE": "4'' 9\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/silvana-tirinzoni-660100",
+        "NOM": "Silvana Tirinzoni",
+        "SPORT": "Curling",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "June 25, 1979",
+        "LIEU_NAISSANCE": "Zurich",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/magnus-trulsen-vaagberg-1637023",
+        "NOM": "Magnus Trulsen Vaagberg",
+        "SPORT": "Curling",
+        "PAYS": "NOR",
+        "DATE_NAISSANCE": "December 23, 1995",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/geoff-walker-1158314",
+        "NOM": "Geoff Walker",
+        "SPORT": "Curling",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "November 28, 1985",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/steffen-walstad-721983",
+        "NOM": "Steffen Walstad",
+        "SPORT": "Curling",
+        "PAYS": "NOR",
+        "DATE_NAISSANCE": "February 10, 1989",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/wang-rui-1221195",
+        "NOM": "Wang Rui",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "February 9, 1995",
+        "LIEU_NAISSANCE": "Harbin",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/wang-zhiyu-1221197",
+        "NOM": "Wang Zhiyu",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "August 24, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/ross-whyte-1475594",
+        "NOM": "Ross Whyte",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "August 31, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kasper-wiksten-1629089",
+        "NOM": "Kasper Wiksten",
+        "SPORT": "Curling",
+        "PAYS": "DEN",
+        "DATE_NAISSANCE": "June 9, 1980",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/vicky-wright-1149972",
+        "NOM": "Vicky Wright",
+        "SPORT": "Curling",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "August 15, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/xu-jingtao-1149950",
+        "NOM": "Xu Jingtao",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "August 5, 1993",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/chinami-yoshida-1221183",
+        "NOM": "Chinami Yoshida",
+        "SPORT": "Curling",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "July 26, 1991",
+        "LIEU_NAISSANCE": "Kitami",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yurika-yoshida-1453422",
+        "NOM": "Yurika Yoshida",
+        "SPORT": "Curling",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "July 7, 1993",
+        "LIEU_NAISSANCE": "Kitami",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/zhang-lijun-1949354",
+        "NOM": "Zhang Lijun",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "September 12, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/zou-qiang-1326608",
+        "NOM": "Zou Qiang",
+        "SPORT": "Curling",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "August 13, 1991",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    }
+]

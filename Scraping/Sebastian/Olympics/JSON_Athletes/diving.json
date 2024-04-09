@@ -1,0 +1,1502 @@
+[
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1244185.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/maha-abdelsalam-1244185",
+        "NOM": "Maha Abdelsalam",
+        "SPORT": "Diving",
+        "PAYS": "EGY",
+        "DATE_NAISSANCE": "June 8, 1998",
+        "LIEU_NAISSANCE": "Alexandria",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/608412.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jennifer-abel-608412",
+        "NOM": "Jennifer Abel",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "August 23, 1991",
+        "LIEU_NAISSANCE": "Montreal",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1142562.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/gabriela-agundez-1142562",
+        "NOM": "Gabriela Agundez",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "August 4, 2000",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1477523.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/arai-matsuri-1477523",
+        "NOM": "Arai Matsuri",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "January 18, 2001",
+        "LIEU_NAISSANCE": "Itami",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1314619.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/oscar-ariza-1314619",
+        "NOM": "Oscar Ariza",
+        "SPORT": "Diving",
+        "PAYS": "VEN",
+        "DATE_NAISSANCE": "September 25, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1189365.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alberto-arevalo-1189365",
+        "NOM": "Alberto Arevalo",
+        "SPORT": "Diving",
+        "PAYS": "ESP",
+        "DATE_NAISSANCE": "February 8, 1995",
+        "LIEU_NAISSANCE": "Madrid",
+        "TAILLE": "Madrid"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1015255.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/benjamin-auffret-1015255",
+        "NOM": "Benjamin Auffret",
+        "SPORT": "Diving",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "March 15, 1995",
+        "LIEU_NAISSANCE": "Melun",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1157106.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sarah-bacon-1157106",
+        "NOM": "Sarah Bacon",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "September 20, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101730.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/diego-balleza-isaias-1101730",
+        "NOM": "Diego Balleza Isaias",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "November 27, 1994",
+        "LIEU_NAISSANCE": "Monterrey",
+        "TAILLE": "Jalisco"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101811.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/timo-barthel-1101811",
+        "NOM": "Timo Barthel",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "April 3, 1996",
+        "LIEU_NAISSANCE": "Wiesbaden",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/557117.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/noemi-batki-557117",
+        "NOM": "Noemi Batki",
+        "SPORT": "Diving",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "October 12, 1987",
+        "LIEU_NAISSANCE": "Budapest",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/585912.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/meaghan-benfeito-585912",
+        "NOM": "Meaghan Benfeito",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 2, 1989",
+        "LIEU_NAISSANCE": "Montreal",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1562377.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kevin-berlin-1562377",
+        "NOM": "Kevin Berlin",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "April 25, 2001",
+        "LIEU_NAISSANCE": "Guadalajara",
+        "TAILLE": "Veracruz"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/857223.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/elena-bertocchi-857223",
+        "NOM": "Elena Bertocchi",
+        "SPORT": "Diving",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "September 19, 1994",
+        "LIEU_NAISSANCE": "Milan",
+        "TAILLE": "Milan"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/678656.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/aleksandr-bondar-678656",
+        "NOM": "Aleksandr Bondar",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "October 25, 1993",
+        "LIEU_NAISSANCE": "Luhansk",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101787.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/micaela-bouter-1101787",
+        "NOM": "Micaela Bouter",
+        "SPORT": "Diving",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "October 27, 1995",
+        "LIEU_NAISSANCE": "Johannesburg",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/766647.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/cao-yuan-766647",
+        "NOM": "Cao Yuan",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "February 7, 1995",
+        "LIEU_NAISSANCE": "Changsha",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1314582.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/andrew-capobianco-1314582",
+        "NOM": "Andrew Capobianco",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "October 13, 1999",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/458078.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/yahel-castillo-458078",
+        "NOM": "Yahel Castillo",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "June 6, 1987",
+        "LIEU_NAISSANCE": "Mexico City",
+        "TAILLE": "Mexico City"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101760.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/juan-celaya-1101760",
+        "NOM": "Juan Celaya",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "September 1, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1997509.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/chen-yuxi-1997509",
+        "NOM": "Chen Yuxi",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "September 11, 2005",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/552686.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/cheong-jun-hoong-552686",
+        "NOM": "Cheong Jun Hoong",
+        "SPORT": "Diving",
+        "PAYS": "MAS",
+        "DATE_NAISSANCE": "April 16, 1990",
+        "LIEU_NAISSANCE": "Ipoh",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/678680.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tom-daley-678680",
+        "NOM": "Tom Daley",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "May 21, 1994",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "Plymouth"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/607196.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/patrick-hausding-607196",
+        "NOM": "Patrick Hausding",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "March 9, 1989",
+        "LIEU_NAISSANCE": "Berlin",
+        "TAILLE": "5'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842965.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/inge-jansen-842965",
+        "NOM": "Inge Jansen",
+        "SPORT": "Diving",
+        "PAYS": "NED",
+        "DATE_NAISSANCE": "June 2, 1994",
+        "LIEU_NAISSANCE": "Veldhoven",
+        "TAILLE": "Roermond"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/887641.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/maddison-keeney-887641",
+        "NOM": "Maddison Keeney",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "May 23, 1996",
+        "LIEU_NAISSANCE": "Auckland",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1446545.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-mi-rae-1446545",
+        "NOM": "Kim Mi-Rae",
+        "SPORT": "Diving",
+        "PAYS": "PRK",
+        "DATE_NAISSANCE": "April 7, 2001",
+        "LIEU_NAISSANCE": "2016",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/748707.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/evgeniy-kuznetsov-748707",
+        "NOM": "Evgeniy Kuznetsov",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "April 12, 1990",
+        "LIEU_NAISSANCE": "Stavropol",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842996.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jack-laugher-842996",
+        "NOM": "Jack Laugher",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "January 30, 1995",
+        "LIEU_NAISSANCE": "Harrogate",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1378984.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/brandon-loschiavo-1378984",
+        "NOM": "Brandon Loschiavo",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "May 31, 1997",
+        "LIEU_NAISSANCE": "Huntington Beach, CA",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/347518.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/rommel-pacheco-347518",
+        "NOM": "Rommel Pacheco",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "July 12, 1986",
+        "LIEU_NAISSANCE": "M\u00e9rida",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/798299.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/esther-qin-798299",
+        "NOM": "Esther Qin",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "November 18, 1991",
+        "LIEU_NAISSANCE": "Liuzhou",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/929992.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/rafael-quintero-929992",
+        "NOM": "Rafael Quintero",
+        "SPORT": "Diving",
+        "PAYS": "PUR",
+        "DATE_NAISSANCE": "July 24, 1994",
+        "LIEU_NAISSANCE": "Canovanas",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/843458.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/grace-reid-843458",
+        "NOM": "Grace Reid",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "May 9, 1996",
+        "LIEU_NAISSANCE": "Edinburgh",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1243936.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ren-qian-1243936",
+        "NOM": "Ren Qian",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "February 20, 2001",
+        "LIEU_NAISSANCE": "Dujiangyan",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/720559.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/pandelela-rinong-720559",
+        "NOM": "Pandelela Rinong",
+        "SPORT": "Diving",
+        "PAYS": "MAS",
+        "DATE_NAISSANCE": "March 2, 1993",
+        "LIEU_NAISSANCE": "Kuching",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101727.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/delaney-schnell-1101727",
+        "NOM": "Delaney Schnell",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "December 21, 1998",
+        "LIEU_NAISSANCE": "Tucson, AZ",
+        "TAILLE": "Iron Mountain, MI"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/843457.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/shi-tingmao-843457",
+        "NOM": "Shi Tingmao",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "August 31, 1991",
+        "LIEU_NAISSANCE": "Chongqing",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1015259.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nikita-shleikher-1015259",
+        "NOM": "Nikita Shleikher",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "June 10, 1998",
+        "LIEU_NAISSANCE": "Stavropol",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/863417.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/celina-toth-863417",
+        "NOM": "Celina Toth",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "March 20, 1992",
+        "LIEU_NAISSANCE": "St. Thomas",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/607357.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/wang-han-607357",
+        "NOM": "Wang Han",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "January 24, 1991",
+        "LIEU_NAISSANCE": "Baoding",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/748702.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/pamela-ware-748702",
+        "NOM": "Pamela Ware",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "February 12, 1993",
+        "LIEU_NAISSANCE": "Greenfield Park",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1562386.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/randal-willars-valdez-1562386",
+        "NOM": "Randal Willars Valdez",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "April 30, 2002",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1186066.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/woo-ha-ram-1186066",
+        "NOM": "Woo Ha-Ram",
+        "SPORT": "Diving",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "March 21, 1998",
+        "LIEU_NAISSANCE": "2016",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/606347.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/melissa-wu-606347",
+        "NOM": "Melissa Wu",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "May 3, 1992",
+        "LIEU_NAISSANCE": "Sydney",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1015258.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/xie-siyi-1015258",
+        "NOM": "Xie Siyi",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "March 28, 1996",
+        "LIEU_NAISSANCE": "Beijing",
+        "TAILLE": "Shantou"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101819.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/yang-hao-1101819",
+        "NOM": "Yang Hao",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "February 3, 1998",
+        "LIEU_NAISSANCE": "Beijing",
+        "TAILLE": "Xian"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/768641.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/yang-jian-768641",
+        "NOM": "Yang Jian",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "June 10, 1994",
+        "LIEU_NAISSANCE": "Sichuan",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1173845.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/katrina-young-1173845",
+        "NOM": "Katrina Young",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "January 10, 1992",
+        "LIEU_NAISSANCE": "Tallahassee, FL",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/720695.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ilya-zakharov-720695",
+        "NOM": "Ilya Zakharov",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "May 2, 1991",
+        "LIEU_NAISSANCE": "Leningrad",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1247365.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jonathan-chan-1247365",
+        "NOM": "Jonathan Chan",
+        "SPORT": "Diving",
+        "PAYS": "SGP",
+        "DATE_NAISSANCE": "May 10, 1997",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/842955.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/chen-aisen-842955",
+        "NOM": "Chen Aisen",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "October 22, 1995",
+        "LIEU_NAISSANCE": "Guangzhou",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1724160.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/eden-cheng-1724160",
+        "NOM": "Eden Cheng",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "December 2, 2002",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/583219.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/arantxa-chavez-583219",
+        "NOM": "Arantxa Chavez",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "January 30, 1991",
+        "LIEU_NAISSANCE": "Mexico City",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101786.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/melissa-citrini-beaulieu-1101786",
+        "NOM": "Melissa Citrini-Beaulieu",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "June 12, 1995",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/796393.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/oliver-dingley-796393",
+        "NOM": "Oliver Dingley",
+        "SPORT": "Diving",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "November 24, 1992",
+        "LIEU_NAISSANCE": "Harrogate",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1314584.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/anton-down-jenkins-1314584",
+        "NOM": "Anton Down-Jenkins",
+        "SPORT": "Diving",
+        "PAYS": "NZL",
+        "DATE_NAISSANCE": "September 6, 1999",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "6'' 0\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1828518.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/tyler-downs-1828518",
+        "NOM": "Tyler Downs",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 19, 2003",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1992854.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jaden-eikermann-1992854",
+        "NOM": "Jaden Eikermann",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "February 14, 2005",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Monheim"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101747.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/enomoto-haruka-1101747",
+        "NOM": "Enomoto Haruka",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "September 14, 1996",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/cedric-fofana-1965045",
+        "NOM": "Cedric Fofana",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "September 15, 2003",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sam-fricker-1663575",
+        "NOM": "Sam Fricker",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "May 4, 2002",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/ivan-garcia-728514",
+        "NOM": "Ivan Garcia",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "October 25, 1993",
+        "LIEU_NAISSANCE": "Guadalajara",
+        "TAILLE": "Guadalajara"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/nicolas-garcia-1039267",
+        "NOM": "Nicolas Garcia",
+        "SPORT": "Diving",
+        "PAYS": "ESP",
+        "DATE_NAISSANCE": "June 20, 1995",
+        "LIEU_NAISSANCE": "Madrid",
+        "TAILLE": "Las Palmas de Gran Canaria"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/alison-gibson-1498605",
+        "NOM": "Alison Gibson",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "July 9, 1999",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/daniel-goodfellow-1101724",
+        "NOM": "Daniel Goodfellow",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 19, 1996",
+        "LIEU_NAISSANCE": "Cambridge",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/emma-gullstrand-1498622",
+        "NOM": "Emma Gullstrand",
+        "SPORT": "Diving",
+        "PAYS": "SWE",
+        "DATE_NAISSANCE": "September 13, 2000",
+        "LIEU_NAISSANCE": "J\u00f6nk\u00f6ping",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/nikita-hains-1337615",
+        "NOM": "Nikita Hains",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "November 2, 2000",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Adelaide"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/james-heatly-1187350",
+        "NOM": "James Heatly",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "May 20, 1997",
+        "LIEU_NAISSANCE": "Edinburgh",
+        "TAILLE": "Edinburgh"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/michelle-heimberg-1314635",
+        "NOM": "Michelle Heimberg",
+        "SPORT": "Diving",
+        "PAYS": "SUI",
+        "DATE_NAISSANCE": "June 2, 2000",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Fislisbach"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1498608.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lena-hentschel-1498608",
+        "NOM": "Lena Hentschel",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "June 17, 2001",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1662480.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/hailey-hernandez-1662480",
+        "NOM": "Hailey Hernandez",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "March 23, 2003",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1019529.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/dolores-hernandez-1019529",
+        "NOM": "Dolores Hernandez",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "May 21, 1997",
+        "LIEU_NAISSANCE": "Veracruz",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1244855.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mohab-ishak-1244855",
+        "NOM": "Mohab Ishak",
+        "SPORT": "Diving",
+        "PAYS": "EGY",
+        "DATE_NAISSANCE": "March 21, 1997",
+        "LIEU_NAISSANCE": "Giza",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1271424.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/itahashi-minami-1271424",
+        "NOM": "Itahashi Minami",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "January 28, 2000",
+        "LIEU_NAISSANCE": "Takarazuka",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1562365.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ito-hiroki-1562365",
+        "NOM": "Ito Hiroki",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "October 26, 1999",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1247361.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alexis-jandard-1247361",
+        "NOM": "Alexis Jandard",
+        "SPORT": "Diving",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "April 23, 1997",
+        "LIEU_NAISSANCE": "Lyon",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1776913.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sarah-jodoin-di-maria-1776913",
+        "NOM": "Sarah Jodoin Di Maria",
+        "SPORT": "Diving",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "January 3, 2000",
+        "LIEU_NAISSANCE": "Rome",
+        "TAILLE": "Montreal"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1247360.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alais-kalonji-1247360",
+        "NOM": "Alais Kalonji",
+        "SPORT": "Diving",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "December 11, 1997",
+        "LIEU_NAISSANCE": "Paris",
+        "TAILLE": "Rennes"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/903617.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/viktoriya-kesar-903617",
+        "NOM": "Viktoriya Kesar",
+        "SPORT": "Diving",
+        "PAYS": "UKR",
+        "DATE_NAISSANCE": "August 11, 1993",
+        "LIEU_NAISSANCE": "Zaporozhye",
+        "TAILLE": "Zaporozhye"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1015993.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-su-ji-1015993",
+        "NOM": "Kim Su-Ji",
+        "SPORT": "Diving",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "February 16, 1998",
+        "LIEU_NAISSANCE": "Ulsan",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/631185.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-yeong-nam-631185",
+        "NOM": "Kim Yeong-Nam",
+        "SPORT": "Diving",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "January 29, 1996",
+        "LIEU_NAISSANCE": "Seoul",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1987635.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kim-yeong-taek-1987635",
+        "NOM": "Kim Yeong-Taek",
+        "SPORT": "Diving",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "August 24, 2001",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101822.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/yona-knight-wisdom-1101822",
+        "NOM": "Yona Knight-Wisdom",
+        "SPORT": "Diving",
+        "PAYS": "JAM",
+        "DATE_NAISSANCE": "May 12, 1995",
+        "LIEU_NAISSANCE": "Leeds",
+        "TAILLE": "6'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/903607.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/oleg-kolodiy-903607",
+        "NOM": "Oleg Kolodiy",
+        "SPORT": "Diving",
+        "PAYS": "UKR",
+        "DATE_NAISSANCE": "March 16, 1993",
+        "LIEU_NAISSANCE": "Mykolayiv",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1992820.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/anna-konanykhina-1992820",
+        "NOM": "Anna Konanykhina",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "September 10, 2004",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "St. Petersburg"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1809255.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/kwon-ha-lim-1809255",
+        "NOM": "Kwon Ha-Lim",
+        "SPORT": "Diving",
+        "PAYS": "KOR",
+        "DATE_NAISSANCE": "March 2, 1999",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Seoul"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1247866.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/matthew-lee-1247866",
+        "NOM": "Matthew Lee",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "March 5, 1998",
+        "LIEU_NAISSANCE": "Leeds",
+        "TAILLE": "5'' 9\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/295424.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/leong-mun-yee-295424",
+        "NOM": "Leong Mun Yee",
+        "SPORT": "Diving",
+        "PAYS": "MAS",
+        "DATE_NAISSANCE": "December 4, 1984",
+        "LIEU_NAISSANCE": "Ipoh",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/648249.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/li-shixin-648249",
+        "NOM": "Li Shixin",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "February 12, 1988",
+        "LIEU_NAISSANCE": "Yulin",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1380383.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/freida-lim-1380383",
+        "NOM": "Freida Lim",
+        "SPORT": "Diving",
+        "PAYS": "SGP",
+        "DATE_NAISSANCE": "February 7, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101780.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/luana-lira-1101780",
+        "NOM": "Luana Lira",
+        "SPORT": "Diving",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "March 5, 1996",
+        "LIEU_NAISSANCE": "Bras\u00edlia",
+        "TAILLE": "Jo\u00e3o Pessoa"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1512158.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sofiia-lyskun-1512158",
+        "NOM": "Sofiia Lyskun",
+        "SPORT": "Diving",
+        "PAYS": "UKR",
+        "DATE_NAISSANCE": "February 7, 2002",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Kiev"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1187846.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/lorenzo-marsaglia-1187846",
+        "NOM": "Lorenzo Marsaglia",
+        "SPORT": "Diving",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "November 16, 1996",
+        "LIEU_NAISSANCE": "Rome",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1264127.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/caeli-mckay-1264127",
+        "NOM": "Caeli McKay",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "June 25, 1999",
+        "LIEU_NAISSANCE": "Calgary",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/920665.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/carolina-mendoza-920665",
+        "NOM": "Carolina Mendoza",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "April 25, 1997",
+        "LIEU_NAISSANCE": "Mexico City",
+        "TAILLE": "Mexico City"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1562401.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/scarlett-mew-jensen-1562401",
+        "NOM": "Scarlett Mew Jensen",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "December 31, 2001",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "London"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1314659.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/mikami-sayaka-1314659",
+        "NOM": "Mikami Sayaka",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "December 8, 2000",
+        "LIEU_NAISSANCE": "Yonago",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/583193.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/viktor-minibaev-583193",
+        "NOM": "Viktor Minibaev",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "July 18, 1991",
+        "LIEU_NAISSANCE": "Elektrostal",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1314627.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/miyamoto-hazuki-1314627",
+        "NOM": "Miyamoto Hazuki",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "December 25, 2000",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "4'' 11\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1042162.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/sebastian-morales-1042162",
+        "NOM": "Sebastian Morales",
+        "SPORT": "Diving",
+        "PAYS": "COL",
+        "DATE_NAISSANCE": "August 22, 1994",
+        "LIEU_NAISSANCE": "Medell\u00edn",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/647602.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/murakami-kazuki-647602",
+        "NOM": "Murakami Kazuki",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "May 19, 1989",
+        "LIEU_NAISSANCE": "Tomioka",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/723522.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ng-yan-yee-723522",
+        "NOM": "Ng Yan Yee",
+        "SPORT": "Diving",
+        "PAYS": "MAS",
+        "DATE_NAISSANCE": "July 11, 1993",
+        "LIEU_NAISSANCE": "Kuala Lumpur",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1314621.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/nishida-reo-1314621",
+        "NOM": "Nishida Reo",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "July 16, 2000",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1101751.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/ingrid-oliveira-1101751",
+        "NOM": "Ingrid Oliveira",
+        "SPORT": "Diving",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "May 7, 1996",
+        "LIEU_NAISSANCE": "Niter\u00f3i",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1646439.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/osmar-olvera-1646439",
+        "NOM": "Osmar Olvera",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "June 5, 2004",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/930000.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/alejandra-orozco-930000",
+        "NOM": "Alejandra Orozco",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "April 19, 1997",
+        "LIEU_NAISSANCE": "Zapopan",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1498607.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/krysta-palmer-1498607",
+        "NOM": "Krysta Palmer",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "June 13, 1992",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/850701.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/jessica-parratto-850701",
+        "NOM": "Jessica Parratto",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "June 26, 1994",
+        "LIEU_NAISSANCE": "Dover, NH",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "//images.nbcolympics.com/athlete-images/1512129.png",
+        "LIEN": "https://www.nbcolympics.com/athletes/chiara-pellacani-1512129",
+        "NOM": "Chiara Pellacani",
+        "SPORT": "Diving",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "September 12, 2002",
+        "LIEU_NAISSANCE": "Rome",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/kawan-pereira-1828499",
+        "NOM": "Kawan Pereira",
+        "SPORT": "Diving",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "June 17, 2002",
+        "LIEU_NAISSANCE": "Bras\u00edlia",
+        "TAILLE": "Parna\u00edba"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/mariia-poliakova-1015996",
+        "NOM": "Mariia Poliakova",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "May 8, 1997",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Moscow"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tina-punzel-934843",
+        "NOM": "Tina Punzel",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "August 1, 1995",
+        "LIEU_NAISSANCE": "Dresden",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/anna-pysmenska-659678",
+        "NOM": "Anna Pysmenska",
+        "SPORT": "Diving",
+        "PAYS": "UKR",
+        "DATE_NAISSANCE": "March 12, 1991",
+        "LIEU_NAISSANCE": "Vinnytsia",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/quan-hongchan-2140954",
+        "NOM": "Quan Hongchan",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "March 28, 2007",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/daniel-restrepo-1314622",
+        "NOM": "Daniel Restrepo",
+        "SPORT": "Diving",
+        "PAYS": "COL",
+        "DATE_NAISSANCE": "March 24, 2000",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Medell\u00edn"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/vincent-riendeau-1101814",
+        "NOM": "Vincent Riendeau",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "December 13, 1996",
+        "LIEU_NAISSANCE": "Montreal",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/matthieu-rosset-692099",
+        "NOM": "Matthieu Rosset",
+        "SPORT": "Diving",
+        "PAYS": "FRA",
+        "DATE_NAISSANCE": "May 26, 1990",
+        "LIEU_NAISSANCE": "Lyon",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/cassiel-rousseau-1942857",
+        "NOM": "Cassiel Rousseau",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "February 4, 2001",
+        "LIEU_NAISSANCE": "Ormiston",
+        "TAILLE": "Brisbane"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jonathan-ruvalcaba-778358",
+        "NOM": "Jonathan Ruvalcaba",
+        "SPORT": "Diving",
+        "PAYS": "DOM",
+        "DATE_NAISSANCE": "March 1, 1991",
+        "LIEU_NAISSANCE": "Mexico City",
+        "TAILLE": "5'' 2\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/lars-rudiger-1280812",
+        "NOM": "Lars Rudiger",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "April 17, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/nur-dhabitah-sabri-1173841",
+        "NOM": "Nur Dhabitah Sabri",
+        "SPORT": "Diving",
+        "PAYS": "MAS",
+        "DATE_NAISSANCE": "July 12, 1999",
+        "LIEU_NAISSANCE": "Kuala Lumpur",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sakai-sho-723440",
+        "NOM": "Sakai Sho",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "August 22, 1992",
+        "LIEU_NAISSANCE": "Sagamihara",
+        "TAILLE": "5'' 7\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/oleh-serbin-1724159",
+        "NOM": "Oleh Serbin",
+        "SPORT": "Diving",
+        "PAYS": "UKR",
+        "DATE_NAISSANCE": "August 11, 2001",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/oleksii-sereda-1776848",
+        "NOM": "Oleksii Sereda",
+        "SPORT": "Diving",
+        "PAYS": "UKR",
+        "DATE_NAISSANCE": "December 25, 2005",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "Kiev"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/anabelle-smith-703718",
+        "NOM": "Anabelle Smith",
+        "SPORT": "Diving",
+        "PAYS": "AUS",
+        "DATE_NAISSANCE": "February 3, 1993",
+        "LIEU_NAISSANCE": "Melbourne",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/isaac-souza-filho-1314642",
+        "NOM": "Isaac Souza Filho",
+        "SPORT": "Diving",
+        "PAYS": "BRA",
+        "DATE_NAISSANCE": "June 23, 1999",
+        "LIEU_NAISSANCE": "Rio de Janeiro",
+        "TAILLE": "Rio de Janeiro"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/andrea-spendolini-sirieix-1992823",
+        "NOM": "Andrea Spendolini-Sirieix",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "September 11, 2004",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "London"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tamai-rikuto-1987647",
+        "NOM": "Tamai Rikuto",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "September 11, 2006",
+        "LIEU_NAISSANCE": "Takarazuka",
+        "TAILLE": "5'' 1\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/terauchi-ken-261214",
+        "NOM": "Terauchi Ken",
+        "SPORT": "Diving",
+        "PAYS": "JPN",
+        "DATE_NAISSANCE": "August 7, 1980",
+        "LIEU_NAISSANCE": "Takarazuka",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/yulia-timoshinina-1015262",
+        "NOM": "Yulia Timoshinina",
+        "SPORT": "Diving",
+        "PAYS": "ROC",
+        "DATE_NAISSANCE": "January 23, 1998",
+        "LIEU_NAISSANCE": "Moscow",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/giovanni-tocci-857241",
+        "NOM": "Giovanni Tocci",
+        "SPORT": "Diving",
+        "PAYS": "ITA",
+        "DATE_NAISSANCE": "August 31, 1994",
+        "LIEU_NAISSANCE": "Cosenza",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/katherine-torrance-1261879",
+        "NOM": "Katherine Torrance",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "October 10, 1998",
+        "LIEU_NAISSANCE": "Croydon",
+        "TAILLE": "5'' 5\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/lois-toulson-1261615",
+        "NOM": "Lois Toulson",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "September 26, 1999",
+        "LIEU_NAISSANCE": "Huddersfield",
+        "TAILLE": "5'' 3\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/anne-tuxen-1188328",
+        "NOM": "Anne Tuxen",
+        "SPORT": "Diving",
+        "PAYS": "NOR",
+        "DATE_NAISSANCE": "February 27, 1998",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/sebastian-villa-728949",
+        "NOM": "Sebastian Villa",
+        "SPORT": "Diving",
+        "PAYS": "COL",
+        "DATE_NAISSANCE": "February 21, 1992",
+        "LIEU_NAISSANCE": "Medell\u00edn",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/andres-villarreal-1042165",
+        "NOM": "Andres Villarreal",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "October 22, 1996",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/julia-vincent-1101762",
+        "NOM": "Julia Vincent",
+        "SPORT": "Diving",
+        "PAYS": "RSA",
+        "DATE_NAISSANCE": "August 13, 1994",
+        "LIEU_NAISSANCE": "Johannesburg",
+        "TAILLE": "5'' 0\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/aranza-vazquez-1562354",
+        "NOM": "Aranza Vazquez",
+        "SPORT": "Diving",
+        "PAYS": "MEX",
+        "DATE_NAISSANCE": "August 21, 2002",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/wang-zongyuan-1794264",
+        "NOM": "Wang Zongyuan",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "October 24, 2001",
+        "LIEU_NAISSANCE": "Beijing",
+        "TAILLE": "Xiangyang"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/christina-wassen-1244191",
+        "NOM": "Christina Wassen",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "January 12, 1999",
+        "LIEU_NAISSANCE": "Berlin",
+        "TAILLE": "5'' 10\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/elena-wassen-1281860",
+        "NOM": "Elena Wassen",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "November 1, 2000",
+        "LIEU_NAISSANCE": "Eschweiler",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/tanya-watson-1808257",
+        "NOM": "Tanya Watson",
+        "SPORT": "Diving",
+        "PAYS": "IRL",
+        "DATE_NAISSANCE": "December 24, 2001",
+        "LIEU_NAISSANCE": "Southampton",
+        "TAILLE": "Southampton"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/rylan-wiens-1562387",
+        "NOM": "Rylan Wiens",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "January 2, 2002",
+        "LIEU_NAISSANCE": "None",
+        "TAILLE": "5'' 6\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/noah-williams-1314618",
+        "NOM": "Noah Williams",
+        "SPORT": "Diving",
+        "PAYS": "GBR",
+        "DATE_NAISSANCE": "May 15, 2000",
+        "LIEU_NAISSANCE": "London",
+        "TAILLE": "5'' 8\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/jordan-windle-1173844",
+        "NOM": "Jordan Windle",
+        "SPORT": "Diving",
+        "PAYS": "USA",
+        "DATE_NAISSANCE": "November 13, 1998",
+        "LIEU_NAISSANCE": "Sihanoukville",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/martin-wolfram-748711",
+        "NOM": "Martin Wolfram",
+        "SPORT": "Diving",
+        "PAYS": "GER",
+        "DATE_NAISSANCE": "January 29, 1992",
+        "LIEU_NAISSANCE": "Dresden",
+        "TAILLE": "5'' 4\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/zhang-jiaqi-1633661",
+        "NOM": "Zhang Jiaqi",
+        "SPORT": "Diving",
+        "PAYS": "CHN",
+        "DATE_NAISSANCE": "May 28, 2004",
+        "LIEU_NAISSANCE": "Beijing",
+        "TAILLE": "4'' 9\""
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/nathan-zsombor-murray-1675628",
+        "NOM": "Nathan Zsombor-Murray",
+        "SPORT": "Diving",
+        "PAYS": "CAN",
+        "DATE_NAISSANCE": "April 28, 2003",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "None"
+    },
+    {
+        "IMG": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "LIEN": "https://www.nbcolympics.com/athletes/celine-van-duijn-1050008",
+        "NOM": "Celine van Duijn",
+        "SPORT": "Diving",
+        "PAYS": "NED",
+        "DATE_NAISSANCE": "November 4, 1992",
+        "LIEU_NAISSANCE": "Amersfoort",
+        "TAILLE": "5'' 7\""
+    }
+]

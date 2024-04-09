@@ -1,0 +1,300 @@
+Hamideh Abbasali
+KARATE
+IRI
+Rafael Aghayev
+KARATE
+AZE
+Alizee Agier
+KARATE
+FRA
+Ugur Aktas
+KARATE
+TUR
+Ryutaro Araga
+KARATE
+JPN
+Gogita Arkania
+KARATE
+GEO
+Bahman Asgari Ghoncheh
+KARATE
+IRI
+Darkhan Assadilov
+KARATE
+KAZ
+Dorota Banaszczyk
+KARATE
+POL
+Viviana Bottaro
+KARATE
+ITA
+Luigi Busa
+KARATE
+ITA
+Mattia Busato
+KARATE
+ITA
+Eleni Chatziliadou
+KARATE
+GRE
+Valerii Chobotar
+KARATE
+UKR
+Merve Coban
+KARATE
+TUR
+Angelo Crescenzo
+KARATE
+ITA
+Steven Da Costa
+KARATE
+FRA
+Antonio Diaz
+KARATE
+VEN
+Maria Dimitrova
+KARATE
+DOM
+Ali Elsawy
+KARATE
+EGY
+Dilara Eltemur
+KARATE
+TUR
+Erman Eltemur
+KARATE
+TUR
+Alexandra Feracci
+KARATE
+FRA
+Vinicius Figueira
+KARATE
+BRA
+Mehdi Filali
+KARATE
+FRA
+Sajad Ganjzadeh
+KARATE
+IRI
+Gomyo Hiroto
+KARATE
+JPN
+Gong Li
+KARATE
+CHN
+Alexandra Grande
+KARATE
+PER
+Jonathan Horne
+KARATE
+GER
+Stanislav Horuna
+KARATE
+UKR
+Gabor Harspataki
+KARATE
+HUN
+Haya Jumaa
+KARATE
+UAE
+Taravat Khaksar
+KARATE
+IRI
+Ryo Kiyuna
+KARATE
+JPN
+Johanna Kneer
+KARATE
+GER
+Sakura Kokumai
+KARATE
+USA
+Valeria Kumizaki
+KARATE
+BRA
+Ivan Kvesic
+KARATE
+CRO
+Mo Sheung Grace Lau
+KARATE
+HKG
+Giana Lotfy
+KARATE
+EGY
+Jana Messerschmidt
+KARATE
+GER
+Miho Miyahara
+KARATE
+JPN
+Ken Nishimura
+KARATE
+JPN
+Serap Ozcelik
+KARATE
+TUR
+Gwendoline Philippe
+KARATE
+FRA
+Jovana Prekovic
+KARATE
+SRB
+Damian Hugo Quintero
+KARATE
+ESP
+Elena Quirici
+KARATE
+SUI
+Eray Samdan
+KARATE
+TUR
+Abdalla Mamduh Abdelaziz
+KARATE
+EGY
+Feryal Abdelaziz
+KARATE
+EGY
+Abdel Rahman Almasatfa
+KARATE
+JOR
+Sayed Mohammad Almosawi
+KARATE
+KUW
+Andrea Anacan
+KARATE
+NZL
+Nurkanat Azhikanov
+KARATE
+KAZ
+Sara Bahmanyar Estalkhbejari
+KARATE
+IRI
+Sofya Berultseva
+KARATE
+KAZ
+Noah Bitsch
+KARATE
+GER
+Dilara Bozan
+KARATE
+TUR
+Anna Chernysheva
+KARATE
+ROC
+Hamoon Derafshipour
+KARATE
+EOR
+Firdovsi Farzaliyev
+KARATE
+AZE
+Claudymar Garces
+KARATE
+VEN
+Daniel Gaysinsky
+KARATE
+CAN
+Ivet Goranova
+KARATE
+BUL
+Tareg Ali Hamedi
+KARATE
+KSA
+Leila Heurtault
+KARATE
+FRA
+Meltem Hocaoglu
+KARATE
+TUR
+Brian Irr
+KARATE
+USA
+Puleksenija Jovanoska
+KARATE
+MKD
+Jasmin Juttner
+KARATE
+GER
+Kalvis Kalnins
+KARATE
+LAT
+Andres Madera
+KARATE
+VEN
+Lamya Matoub
+KARATE
+ALG
+Park Heejun
+KARATE
+KOR
+Bettina Plank
+KARATE
+AUT
+Ibtissam Sadini
+KARATE
+MAR
+Sago Naoto
+KARATE
+JPN
+Radwa Sayed
+KARATE
+EGY
+Silvia Semeraro
+KARATE
+ITA
+Anita Serogina
+KARATE
+UKR
+Kiyou Shimizu
+KARATE
+JPN
+Wael Shueb
+KARATE
+EOR
+Ilja Smorguner
+KARATE
+GER
+Ali Sofuoglu
+KARATE
+TUR
+Mayumi Someya
+KARATE
+JPN
+Sandra Sanchez
+KARATE
+ESP
+Anzhelika Terliuga
+KARATE
+UKR
+Ariel Torres Gutierrez
+KARATE
+USA
+Ayumi Uekusa
+KARATE
+JPN
+Wang Yi-Ta
+KARATE
+TPE
+Wen Tzu-Yun
+KARATE
+TPE
+Dionysios Xenos
+KARATE
+GRE
+Tsuneari Yahiro
+KARATE
+AUS
+Yin Xiaoyan
+KARATE
+CHN
+Daniyar Yuldashev
+KARATE
+KAZ
+Ahmad Zigi Zaresta Yuda
+KARATE
+INA
+Irina Zaretska
+KARATE
+AZE
+Moldir Zhangbyrbay
+KARATE
+KAZ

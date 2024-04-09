@@ -1,0 +1,483 @@
+Nick Allen
+BASEBALL
+USA
+Eddy Alvarez
+BASEBALL
+USA
+Aoyagi Koyo
+BASEBALL
+JPN
+Asamura Hideto
+BASEBALL
+JPN
+Jairo Asencio
+BASEBALL
+DOM
+Tyler Austin
+BASEBALL
+USA
+Roldani Baldwin
+BASEBALL
+DOM
+Manuel Banuelos
+BASEBALL
+MEX
+Manuel Barreda
+BASEBALL
+MEX
+Gerson Bautista
+BASEBALL
+DOM
+Jose Bautista
+BASEBALL
+DOM
+Shane Baz
+BASEBALL
+USA
+Jeremy Bleich
+BASEBALL
+ISR
+Emilio Bonifacio
+BASEBALL
+DOM
+Scott Burcham
+BASEBALL
+ISR
+Carlos Bustamante
+BASEBALL
+MEX
+Melky Cabrera
+BASEBALL
+DOM
+Jose Cardona
+BASEBALL
+MEX
+Anthony Carter
+BASEBALL
+USA
+Triston Casas
+BASEBALL
+USA
+Luis Castillo
+BASEBALL
+DOM
+Cha Woo-Chan
+BASEBALL
+KOR
+Choi Hyoung-Woo
+BASEBALL
+KOR
+Luis Cruz
+BASEBALL
+MEX
+Takuya Kai
+BASEBALL
+JPN
+Kayama Shinya
+BASEBALL
+JPN
+Ty Kelly
+BASEBALL
+ISR
+Kim Tae-Kyun
+BASEBALL
+KOR
+Kishi Takayuki
+BASEBALL
+JPN
+Lee Dae-Ho
+BASEBALL
+KOR
+Lee Yong-Kyu
+BASEBALL
+KOR
+Lim Chang-Yong
+BASEBALL
+KOR
+Maru Yoshihiro
+BASEBALL
+JPN
+Matsuda Nobuhiro
+BASEBALL
+JPN
+Luis Mendoza
+BASEBALL
+MEX
+Seung-Hwan Oh
+BASEBALL
+KOR
+Ramiro Pena
+BASEBALL
+MEX
+Zach Phillips
+BASEBALL
+MEX
+Chris Roberson
+BASEBALL
+MEX
+Hayato Sakamoto
+BASEBALL
+JPN
+Ali Solis
+BASEBALL
+MEX
+Seiya Suzuki
+BASEBALL
+JPN
+Taguchi Kazuto
+BASEBALL
+JPN
+Danny Valencia
+BASEBALL
+ISR
+Tetsuto Yamada
+BASEBALL
+JPN
+Yamaguchi Shun
+BASEBALL
+JPN
+Yasuaki Yamasaki
+BASEBALL
+JPN
+Yang Eui-Ji
+BASEBALL
+KOR
+Yang Hyeon-Jong
+BASEBALL
+KOR
+Dario Alvarez
+BASEBALL
+DOM
+Cho Sang-Woo
+BASEBALL
+KOR
+Choi Joo-Hwan
+BASEBALL
+KOR
+Choi Won-Joon
+BASEBALL
+KOR
+Cristopher Crisostomo Mercedes
+BASEBALL
+DOM
+Jose Diaz Rodriguez
+BASEBALL
+DOM
+Brandon Dickson
+BASEBALL
+USA
+Daniel Duarte
+BASEBALL
+MEX
+Sebastian Elizalde
+BASEBALL
+MEX
+Tal Erel
+BASEBALL
+ISR
+Danny Espinosa
+BASEBALL
+MEX
+Tim Federowicz
+BASEBALL
+USA
+Eric Filia
+BASEBALL
+USA
+Jake Fishman
+BASEBALL
+ISR
+Juan Francisco
+BASEBALL
+DOM
+Todd Frazier
+BASEBALL
+USA
+Blake Gailen
+BASEBALL
+ISR
+Junior Garcia
+BASEBALL
+DOM
+Genda Sosuke
+BASEBALL
+JPN
+Mitch Glasser
+BASEBALL
+ISR
+Go Woo-Suk
+BASEBALL
+KOR
+Adrian Gonzalez
+BASEBALL
+MEX
+Diego Goris
+BASEBALL
+DOM
+Anthony Gose
+BASEBALL
+USA
+Jeison Guzman
+BASEBALL
+DOM
+Han Hyun-Hee
+BASEBALL
+KOR
+Samuel Hickey
+BASEBALL
+MEX
+Hur Kyoung-Min
+BASEBALL
+KOR
+Hwang Jae-Gyun
+BASEBALL
+KOR
+Itoh Hiromi
+BASEBALL
+JPN
+Iwazaki Suguru
+BASEBALL
+JPN
+Edwin Jackson
+BASEBALL
+USA
+Jonathan Jones
+BASEBALL
+MEX
+Kang Baek-Ho
+BASEBALL
+KOR
+Kang Min-Ho
+BASEBALL
+KOR
+Alex Katz
+BASEBALL
+ISR
+Scott Kazmir
+BASEBALL
+USA
+Kikuchi Ryosuke
+BASEBALL
+JPN
+Kim Hye-Seong
+BASEBALL
+KOR
+Kim Hyun-Soo
+BASEBALL
+KOR
+Kim Min-Woo
+BASEBALL
+KOR
+Ian Kinsler
+BASEBALL
+ISR
+Patrick Kivlehan
+BASEBALL
+USA
+Ko Young-Pyo
+BASEBALL
+KOR
+Mark Kolozsvary
+BASEBALL
+USA
+Kondo Kensuke
+BASEBALL
+JPN
+Kuribayashi Ryoji
+BASEBALL
+JPN
+Kurihara Ryoy
+BASEBALL
+JPN
+Brandon Laird
+BASEBALL
+MEX
+Jared Lakind
+BASEBALL
+ISR
+Jonathan de Marte
+BASEBALL
+ISR
+Ryan Lavarnway
+BASEBALL
+ISR
+Lee Eui-Lee
+BASEBALL
+KOR
+Lee Jung-hoo
+BASEBALL
+KOR
+Alon Leichman
+BASEBALL
+ISR
+Shlomo Lipetz
+BASEBALL
+ISR
+Jack Lopez
+BASEBALL
+USA
+Asaf Lowengart
+BASEBALL
+ISR
+Nick Martinez
+BASEBALL
+USA
+Jhan Mariñez
+BASEBALL
+DOM
+Scott McGough
+BASEBALL
+USA
+Erick Mejia
+BASEBALL
+DOM
+Joey Meneses
+BASEBALL
+MEX
+Johan Mieses
+BASEBALL
+DOM
+Morishita Masato
+BASEBALL
+JPN
+Jon Moscot
+BASEBALL
+ISR
+Murakami Munetaka
+BASEBALL
+JPN
+Efren Navarro
+BASEBALL
+MEX
+Gustavo Nuñez
+BASEBALL
+DOM
+Oh Jae-Il
+BASEBALL
+KOR
+Oh Ji-Hwan
+BASEBALL
+KOR
+Ono Yudai
+BASEBALL
+JPN
+Juan Pablo Oramas
+BASEBALL
+MEX
+Rob Paller
+BASEBALL
+ISR
+Park Hae-min
+BASEBALL
+KOR
+Park Kun-woo
+BASEBALL
+KOR
+Park Min-Woo
+BASEBALL
+KOR
+Park Se-Woong
+BASEBALL
+KOR
+Zach Penprase
+BASEBALL
+ISR
+Oliver Perez
+BASEBALL
+MEX
+Yefri Perez
+BASEBALL
+DOM
+Denyi Reyes
+BASEBALL
+DOM
+Nick Rickles
+BASEBALL
+ISR
+David Robertson
+BASEBALL
+USA
+Isaac Rodriguez
+BASEBALL
+MEX
+Julio Rodríguez
+BASEBALL
+DOM
+Joe Ryan
+BASEBALL
+USA
+Ryder Ryan
+BASEBALL
+USA
+Fernando Salas
+BASEBALL
+MEX
+Sasagi Sanchez
+BASEBALL
+MEX
+Senga Kodai
+BASEBALL
+JPN
+Teddy Stankiewicz
+BASEBALL
+MEX
+Bubba Starling
+BASEBALL
+USA
+Angel Sanchez
+BASEBALL
+DOM
+Taira Kaima
+BASEBALL
+JPN
+Masahiro Tanaka
+BASEBALL
+JPN
+Umeno Ryutaro
+BASEBALL
+JPN
+Raul Valdes
+BASEBALL
+DOM
+Charlie Valerio
+BASEBALL
+DOM
+Cesar Vargas
+BASEBALL
+MEX
+Hector Velazquez
+BASEBALL
+MEX
+Joey Wagman
+BASEBALL
+ISR
+Benjamin Wanger
+BASEBALL
+ISR
+Zack Weiss
+BASEBALL
+ISR
+Jamie Westbrook
+BASEBALL
+USA
+Alexis Wilson
+BASEBALL
+MEX
+Won Tae-In
+BASEBALL
+KOR
+Simeon Woods-Richardson
+BASEBALL
+USA
+Yamamoto Yoshinobu
+BASEBALL
+JPN
+Yanagita Yuki
+BASEBALL
+JPN
+Yoshida Masataka
+BASEBALL
+JPN
+Josh Zeid
+BASEBALL
+ISR

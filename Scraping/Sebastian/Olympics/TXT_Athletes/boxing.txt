@@ -1,0 +1,948 @@
+Liliya Aetbaeva
+BOXING
+ROC
+Alfonso Dominquez
+BOXING
+AZE
+Nadine Apetz
+BOXING
+GER
+Karriss Artingstall
+BOXING
+GBR
+Daniel Asenov
+BOXING
+BUL
+Maksim Babanin
+BOXING
+ROC
+Hovhannes Bachkov
+BOXING
+ARM
+Gleb Bakshi
+BOXING
+ROC
+Bobo Usmon Baturov
+BOXING
+UZB
+Billal Bennama
+BOXING
+FRA
+Jemyma Betrian
+BOXING
+NED
+Saken Bibossinov
+BOXING
+KAZ
+Lovlina Borgohain
+BOXING
+IND
+Buse Naz Cakiroglu
+BOXING
+TUR
+Angela Carini
+BOXING
+ITA
+Julio Castillo
+BOXING
+ECU
+Chen Nien-Chin
+BOXING
+TPE
+Cheavon Clarke
+BOXING
+GBR
+Frazer Clarke
+BOXING
+GBR
+Herbert Conceicao Sousa
+BOXING
+BRA
+Andy Cruz
+BOXING
+CUB
+Saadat Dalgatova
+BOXING
+ROC
+Keyshawn Davis
+BOXING
+USA
+Christina Desmond
+BOXING
+IRL
+Zeyad Eashash
+BOXING
+JOR
+Rashida Ellis
+BOXING
+USA
+Beatriz Ferreira
+BOXING
+BRA
+Nouchka Fontijn
+BOXING
+NED
+Virginia Fuchs
+BOXING
+USA
+Muslim Gadzhimagomedov
+BOXING
+ROC
+Naomi Graham
+BOXING
+USA
+Gu Hong
+BOXING
+CHN
+Kellie Harrington
+BOXING
+IRL
+Mary Kom
+BOXING
+IND
+Justis Huni
+BOXING
+AUS
+Hussein Iashaish
+BOXING
+JOR
+Karina Ibragimova
+BOXING
+KAZ
+Roniel Iglesias
+BOXING
+CUB
+Bakhodir Jalolov
+BOXING
+UZB
+Jerome Pampellone
+BOXING
+NZL
+Manish Kaushik
+BOXING
+IND
+Aleksandr Khyzhniak
+BOXING
+UKR
+Hyeong-Kyu Kim
+BOXING
+KOR
+Inkyu Kim
+BOXING
+KOR
+Tursynbay Kulakhmet
+BOXING
+KAZ
+Kamshybek Kunkabayev
+BOXING
+KAZ
+Georgia Kushitashvili
+BOXING
+ROC
+Julio Cesar La Cruz
+BOXING
+CUB
+Sonia Lather
+BOXING
+IND
+Wanderson Oliveira
+BOXING
+BRA
+Ammar Riad Abduljabbar
+BOXING
+GER
+Mahammad Abdullayev
+BOXING
+AZE
+Elnur Abduraimov
+BOXING
+UZB
+Marion Faustino Ah Tong
+BOXING
+SAM
+Vassiliy Levit
+BOXING
+KAZ
+Li Qian
+BOXING
+CHN
+Lin Yuting
+BOXING
+TPE
+Arlen Lopez
+BOXING
+CUB
+Mahammadrasul Majidov
+BOXING
+ROC
+Eumir Marcial
+BOXING
+PHI
+Khadija El-Mardi
+BOXING
+MAR
+Pat McCormack
+BOXING
+GBR
+Carlos Andres Mina
+BOXING
+ECU
+Seyidshahin Mousavi
+BOXING
+IRI
+Namiki Tsukimi
+BOXING
+JPN
+Thi Tam Nguyen
+BOXING
+VIE
+Bekzad Nurdauletov
+BOXING
+KAZ
+Aoife O'Rourke
+BOXING
+IRL
+Oh Yeon-Ji
+BOXING
+KOR
+Okazawa Sewon
+BOXING
+JPN
+Sofiane Oumiha
+BOXING
+FRA
+Carlo Paalam
+BOXING
+PHI
+Pang Chol Mi
+BOXING
+PRK
+Amit Panghal
+BOXING
+IND
+Radoslav Pantaleev
+BOXING
+BUL
+Nesthy Petecio
+BOXING
+PHI
+Rohan Polanco
+BOXING
+DOM
+Ilya Popov
+BOXING
+ROC
+Mira Potkonen
+BOXING
+FIN
+Lauren Price
+BOXING
+GBR
+Dilshodbek Ruzmetov
+BOXING
+UZB
+Erislandy Savon
+BOXING
+CUB
+Sudaporn Seesondee
+BOXING
+THA
+Kamran Shakhsuvarly
+BOXING
+AZE
+Zhaina Shekerbekova
+BOXING
+KAZ
+Busenaz Surmeneli
+BOXING
+TUR
+Nilawan Techasuep
+BOXING
+THA
+Tammara Thibeault
+BOXING
+CAN
+Nelvie Tiafack
+BOXING
+GER
+Richard Torrez
+BOXING
+USA
+Erdenebat Tsendbaatar
+BOXING
+MGL
+Yosvany Veitia
+BOXING
+CUB
+Liudmila Vorontzova
+BOXING
+ROC
+Ornella Wahner
+BOXING
+GER
+Wang Cong
+BOXING
+CHN
+Ben Whittaker
+BOXING
+GBR
+Elzbieta Wojcik
+BOXING
+POL
+Andrey Zamkovoy
+BOXING
+ROC
+Ablaikhan Zhussupov
+BOXING
+KAZ
+Shakhobidin Zoirov
+BOXING
+UZB
+Elizabeth Akinyi
+BOXING
+KEN
+Obada Al-Kasbeh
+BOXING
+JOR
+Mohammad Al-Wadi
+BOXING
+JOR
+Sakhil Alakhverdovi
+BOXING
+GEO
+Agnes Alexiusson
+BOXING
+SWE
+Odai Alhindawi
+BOXING
+JOR
+Ramla Said Ahmed Ali
+BOXING
+SOM
+Mourad Aliev
+BOXING
+FRA
+Tayfur Aliyev
+BOXING
+AZE
+Keevin Allicock
+BOXING
+GUY
+Abilkhan Amankul
+BOXING
+KAZ
+Paulo Aokuso
+BOXING
+AUS
+Yeni Arias
+BOXING
+COL
+Dzmitry Asanau
+BOXING
+BLR
+Mohamed Assaghair
+BOXING
+MAR
+Ceiber Avila
+BOXING
+COL
+Youness Baalla
+BOXING
+MAR
+Simranjit Kaur Baatth
+BOXING
+IND
+Vitali Bandarenka
+BOXING
+BLR
+Albert Batyrgaziev
+BOXING
+ROC
+Oumayma Belahbib
+BOXING
+MAR
+Abdelhafid Benchabla
+BOXING
+ALG
+Chouaib Bouloudinats
+BOXING
+ALG
+Emmet Brennan
+BOXING
+IRL
+Ricardo Brown
+BOXING
+JAM
+Mandy Bujold
+BOXING
+CAN
+Chatchai Butdee
+BOXING
+THA
+Mykola Butsenko
+BOXING
+UKR
+Musa Bwogi
+BOXING
+UGA
+Atheyna Bylon
+BOXING
+PAN
+Nikolina Cacic
+BOXING
+CRO
+Jean Caicedo
+BOXING
+ECU
+Irismar Del Valle Cardozo Rojas
+BOXING
+VEN
+Euri Cedeno Martinez
+BOXING
+DOM
+Ichrak Chaib
+BOXING
+ALG
+Javid Chalabiyev
+BOXING
+AZE
+Chang Yuan
+BOXING
+CHN
+Adam Chartoi
+BOXING
+SWE
+Rabab Cheddar
+BOXING
+MAR
+Chen Daxiang
+BOXING
+CHN
+Patrick Chinyemba
+BOXING
+ZAM
+Battarsukh Chinzorig
+BOXING
+MGL
+Batuhan Ciftci
+BOXING
+TUR
+Merven Clair
+BOXING
+MRI
+Richarno Colin
+BOXING
+MRI
+Alexis Miguel Cruz
+BOXING
+DOM
+Brianda Tamara Cruz Sandoval
+BOXING
+MEX
+Andrej Csemez
+BOXING
+SVK
+Mirko Cuello
+BOXING
+ARG
+Lazaro Alvarez
+BOXING
+CUB
+Myriam Da Silva
+BOXING
+CAN
+Arman Darchinyan
+BOXING
+ARM
+Charley Davison
+BOXING
+GBR
+Leonel De Los Santos Nuñez
+BOXING
+DOM
+Thabiso Dlamini
+BOXING
+SWZ
+Sandra Drabik
+BOXING
+POL
+Caroline Sara Dubois
+BOXING
+GBR
+Damian Durkacz
+BOXING
+POL
+Necat Ekinci
+BOXING
+TUR
+Gabriel Escobar
+BOXING
+ESP
+Esmeralda Falcon
+BOXING
+MEX
+Yoel Finol
+BOXING
+VEN
+Daniel Veron Francisco
+BOXING
+ARG
+Roland Galos
+BOXING
+HUN
+Harry Garside
+BOXING
+AUS
+Cosmin Girleanu
+BOXING
+ROU
+Rady Adosinda Gramane
+BOXING
+MOZ
+Maiva Hamadouche
+BOXING
+FRA
+Mohamed Hamout
+BOXING
+MAR
+Ornella Havyarimana
+BOXING
+BDI
+Miguelina Hernandez
+BOXING
+DOM
+Khouloud Hlimi
+BOXING
+TUN
+Mariem Homrani
+BOXING
+TUN
+Mohammed Houmri
+BOXING
+ALG
+Hu Jianguan
+BOXING
+CHN
+Huang Hsiaowen
+BOXING
+TPE
+Im Aeji
+BOXING
+KOR
+Irie Sena
+BOXING
+JPN
+Brendan Irvine
+BOXING
+IRL
+Troy Isley
+BOXING
+USA
+Gazi Jalidov
+BOXING
+ESP
+Grazieli Jesus De Sousa
+BOXING
+BRA
+Jutamas Jitpong
+BOXING
+THA
+Delante Johnson
+BOXING
+USA
+Junius Jonas
+BOXING
+NAM
+Oshae Jones
+BOXING
+USA
+Fanat Kakhramonov
+BOXING
+UZB
+Keamogetse Kenosi
+BOXING
+BOT
+Giorgi Kharabadze
+BOXING
+GEO
+Yaroslav Khartsyz
+BOXING
+UKR
+Imam Khataev
+BOXING
+ROC
+Imane Khelif
+BOXING
+ALG
+Samuel Kistohurry
+BOXING
+FRA
+Raykhona Kodirova
+BOXING
+UZB
+Nalek Rachid Korbaj
+BOXING
+VEN
+Karolina Koszewska
+BOXING
+POL
+Vikas Krishan
+BOXING
+IND
+Ashish Kumar
+BOXING
+IND
+Satish Kumar
+BOXING
+IND
+Mohamed Flissi
+BOXING
+ALG
+Enrico La Cruz
+BOXING
+NED
+Denis Latypov
+BOXING
+BRN
+Jose Maria Lucar Jaimes
+BOXING
+PER
+Anna Lysenko
+BOXING
+UKR
+Keno Machado
+BOXING
+BRA
+Eskerkhan Madiev
+BOXING
+GEO
+Gabriel Maestre
+BOXING
+VEN
+Irish Magno
+BOXING
+PHI
+Zenfira Magomedalieva
+BOXING
+ROC
+Otukile Mahommed
+BOXING
+BOT
+Bayram Malkan
+BOXING
+TUR
+Gabil Mamedov
+BOXING
+ROC
+Baison Manikon
+BOXING
+THA
+Rodrigo Marte
+BOXING
+DOM
+Yuberjen Martinez Rivas
+BOXING
+COL
+Fiston Mbaya Mulumba
+BOXING
+COD
+Luke McCormack
+BOXING
+GBR
+Peter McGrail
+BOXING
+GBR
+Albert Mengue Ayissi
+BOXING
+CMR
+Mirazizbek Mirzakhalilov
+BOXING
+UZB
+Moriwaki Yuito
+BOXING
+JPN
+Maria Moronta
+BOXING
+DOM
+Everisto Mulenga
+BOXING
+ZAM
+Myagmarjargal Munkhbat
+BOXING
+MGL
+Abdelhaq Nadir
+BOXING
+MAR
+Catherine Nanziri
+BOXING
+UGA
+Narimatsu Daisuke
+BOXING
+JPN
+Claudia Nechita
+BOXING
+ROU
+Shabbos Negmatulloev
+BOXING
+TJK
+Younes Nemouchi
+BOXING
+ALG
+Van Duong Nguyen
+BOXING
+VIE
+Rebecca Nicoli
+BOXING
+ITA
+Skye Nicolson
+BOXING
+AUS
+David Nyika
+BOXING
+NZL
+Elly Ochola
+BOXING
+KEN
+Nicholas Okongo Okoth
+BOXING
+KEN
+Christine Ongare
+BOXING
+KEN
+Erika Pachito
+BOXING
+ECU
+Maria Palacios
+BOXING
+ECU
+Alcinda Panguana
+BOXING
+MOZ
+Thitisan Panmod
+BOXING
+THA
+Caitlin Parker
+BOXING
+AUS
+Dainier Christian Pero Justiz
+BOXING
+CUB
+Stanimira Petrova
+BOXING
+BUL
+Stoyka Petrova
+BOXING
+BUL
+Leodan Pezo Saboya
+BOXING
+PER
+David Pina
+BOXING
+CPV
+Luka Plantic
+BOXING
+CRO
+Ato Plodzicki-Faoagali
+BOXING
+SAM
+Aaron Prince
+BOXING
+TTO
+Jose Quiles Brotons
+BOXING
+ESP
+Ramon Quiroga
+BOXING
+ARG
+Nina Radovanovic
+BOXING
+SRB
+Aliaksandr Radzionau
+BOXING
+BLR
+Duke Ragan
+BOXING
+USA
+Tursunoy Rakhimova
+BOXING
+UZB
+Yarisel Ramirez
+BOXING
+USA
+Pooja Rani
+BOXING
+IND
+Enmanuel Reyes Pla
+BOXING
+ESP
+Uosry Rezk
+BOXING
+EGY
+Yankiel Rivera Figueroa
+BOXING
+PUR
+Tsotne Rogava
+BOXING
+UKR
+Rogelio Romero
+BOXING
+MEX
+Jucielen Romeu
+BOXING
+BRA
+Boualam Roumaysa
+BOXING
+ALG
+Nadezhda Ryabets
+BOXING
+KAZ
+Alston Ryan
+BOXING
+ANT
+Donjeta Sadiku
+BOXING
+KOS
+Zakir Safiullin
+BOXING
+KAZ
+Matshu Marcela Sakobi
+BOXING
+COD
+Abdelrahman Salah Araby
+BOXING
+EGY
+Wessam Salamana
+BOXING
+EOR
+Cristian Salcedo Codazzi
+BOXING
+COL
+Shakul Samed
+BOXING
+GHA
+Dayana Erika Sanchez
+BOXING
+ARG
+Wyatt Sanford
+BOXING
+CAN
+Eldric Sella Rodriguez
+BOXING
+EOR
+Dieudonne Wilfried Seyi Ntsengue
+BOXING
+CMR
+Hamsat Shadalov
+BOXING
+GER
+Daniyal Shakhbaksh
+BOXING
+IRI
+Uladzislau Smiahlikau
+BOXING
+BLR
+Koryun Soghomonyan
+BOXING
+ARM
+Yamileth Solorzano
+BOXING
+ESA
+Svetlana Soluyanova
+BOXING
+ROC
+Giordana Sorrentino
+BOXING
+ITA
+Collazo Sotomayor
+BOXING
+AZE
+Hebert Sousa
+BOXING
+BRA
+Kavuma Ssemujju
+BOXING
+UGA
+Samuel Takyi
+BOXING
+GHA
+Tanaka Ryomei
+BOXING
+JPN
+Tanglatihan Tuoheta Erbieke
+BOXING
+CHN
+Abner Teixeira
+BOXING
+BRA
+Serik Temirzhanov
+BOXING
+KAZ
+Irma Testa
+BOXING
+ITA
+Sulemanu Tetteh
+BOXING
+GHA
+David Tshama
+BOXING
+COD
+Sanjar Tursunov
+BOXING
+UZB
+John Ume
+BOXING
+PNG
+Bakhodur Usmonov
+BOXING
+TJK
+Ingrid Valencia
+BOXING
+COL
+Darrelle Valsaint Jr
+BOXING
+HAI
+Ivan Veryasov
+BOXING
+ROC
+Caroline Veyre
+BOXING
+CAN
+Jorge Vivas Palacios
+BOXING
+COL
+Kurt Walker
+BOXING
+IRL
+Aidan Walsh
+BOXING
+IRL
+Michaela Walsh
+BOXING
+IRL
+Alex Winwood
+BOXING
+AUS
+Wu Shih-Yi
+BOXING
+TPE
+Galal Yafai
+BOXING
+GBR
+Maxime Yegnong Njieyo
+BOXING
+CMR
+Esra Yildiz
+BOXING
+TUR
+Naomie Yumba
+BOXING
+COD
+Shakhnoza Yunusova
+BOXING
+UZB
+Stephen Zimba
+BOXING
+ZAM
+Siyovush Zukhurov
+BOXING
+TJK

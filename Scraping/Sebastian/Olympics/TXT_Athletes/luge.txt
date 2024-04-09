@@ -1,0 +1,324 @@
+Pavel Angelov
+LUGE
+BUL
+Vladislav Antonov
+LUGE
+ROC
+Kendija Aparjode
+LUGE
+LAT
+Kristers Aparjods
+LUGE
+LAT
+Tobias Arlt
+LUGE
+GER
+Sascha Benecken
+LUGE
+GER
+Anna Berreiter
+LUGE
+GER
+Gints Berzins
+LUGE
+LAT
+Andrey Bogdanov
+LUGE
+ROC
+Martins Bots
+LUGE
+LAT
+Summer Britcher
+LUGE
+USA
+Anna Cezikova
+LUGE
+CZE
+Wojciech Chmielewski
+LUGE
+POL
+Cho Jung Myung
+LUGE
+KOR
+Natalie Corless
+LUGE
+CAN
+Valentin Cretu
+LUGE
+ROU
+Arturs Darznieks
+LUGE
+LAT
+Victoria Demchenko
+LUGE
+ROC
+Aleksandr Denisev
+LUGE
+ROC
+Doina Descalui
+LUGE
+MDA
+Elsa Desmond
+LUGE
+IRL
+Zachary Di Gregorio
+LUGE
+USA
+Klaudia Domaradzka
+LUGE
+POL
+Anton Dukach
+LUGE
+UKR
+Toni Eggert
+LUGE
+GER
+Madeleine Egle
+LUGE
+AUT
+Dajana Eitberger
+LUGE
+GER
+Trinity Ellis
+LUGE
+CAN
+Fan Duoyao
+LUGE
+CHN
+Ashley Farquharson
+LUGE
+USA
+Leon Felderer
+LUGE
+ITA
+Alex Ferlazzo
+LUGE
+AUS
+Dominik Fischnaller
+LUGE
+ITA
+Kevin Fischnaller
+LUGE
+ITA
+Armin Frauscher
+LUGE
+AUT
+Natalie Geisenberger
+LUGE
+GER
+David Gleirscher
+LUGE
+AUT
+Nico Gleirscher
+LUGE
+AUT
+Tatyana Ivanova
+LUGE
+ROC
+Ekaterina Katnikova
+LUGE
+ROC
+Max Langenhan
+LUGE
+GER
+Felix Loch
+LUGE
+GER
+Johannes Ludwig
+LUGE
+GER
+Chris Mazdzer
+LUGE
+USA
+Jonas Mueller
+LUGE
+AUT
+Semen Pavlichenko
+LUGE
+ROC
+Roman Repilov
+LUGE
+ROC
+Julia Taubitz
+LUGE
+GER
+Eliza Tiruma
+LUGE
+LAT
+Elina Ieva Vitola
+LUGE
+LAT
+Aileen Frisch
+LUGE
+KOR
+Marian Gitlan
+LUGE
+ROU
+Aleksandr Gorbatsevich
+LUGE
+ROC
+Jonathan Gustafson
+LUGE
+USA
+Makena Hodgson
+LUGE
+CAN
+Verena Hofer
+LUGE
+ITA
+Sean Hollander
+LUGE
+USA
+Huang Yebo
+LUGE
+CHN
+Simon Kainzwaldner
+LUGE
+ITA
+Wolfgang Kindl
+LUGE
+AUT
+Seiya Kobayashi
+LUGE
+JPN
+Svante Kohala
+LUGE
+SWE
+Tove Kohala
+LUGE
+SWE
+Lorenz Koller
+LUGE
+AUT
+Jakub Kowalewski
+LUGE
+POL
+Saba Kumaritashvili
+LUGE
+GEO
+Michael Lejsek
+LUGE
+CZE
+Lim Namkyu
+LUGE
+KOR
+Lin Sin-Rong
+LUGE
+TPE
+Andriy Lysetskyy
+LUGE
+UKR
+Natalie Maag
+LUGE
+SUI
+Andriy Mandziy
+LUGE
+UKR
+Yannick Muller
+LUGE
+AUT
+Mirza Nikolajev
+LUGE
+BIH
+Jozef Ninis
+LUGE
+SVK
+Park Jinyong
+LUGE
+KOR
+Zdenek Pekny
+LUGE
+CZE
+Peng Junyue
+LUGE
+CHN
+Roberts Plume
+LUGE
+LAT
+Hannah Prock
+LUGE
+AUT
+Yuriy Prohorov
+LUGE
+ROC
+Veronica Maria Ravenna
+LUGE
+ARG
+Emanuel Rieder
+LUGE
+ITA
+Lisa Schulte
+LUGE
+AUT
+Darius Serban
+LUGE
+ROU
+Andris Sics
+LUGE
+LAT
+Juris Sics
+LUGE
+LAT
+Katarina Simonakova
+LUGE
+SVK
+Marian Skupek
+LUGE
+SVK
+Justin Snith
+LUGE
+CAN
+Mateusz Sochowicz
+LUGE
+POL
+Ihor Stakhiv
+LUGE
+UKR
+Rupert Staudinger
+LUGE
+GBR
+Olena Stetskiv
+LUGE
+UKR
+Thomas Steu
+LUGE
+AUT
+Raluca Stramaturaru
+LUGE
+ROU
+Emily Sweeney
+LUGE
+USA
+Yulianna Tunytska
+LUGE
+UKR
+Tomas Vavercak
+LUGE
+SVK
+Filip Vejdelek
+LUGE
+CZE
+Andrea Votter
+LUGE
+ITA
+Tristan Walker
+LUGE
+CAN
+Wang Peixuan
+LUGE
+CHN
+Reid Watts
+LUGE
+CAN
+Tobias Wendl
+LUGE
+GER
+Tucker West
+LUGE
+USA
+Matej Zmiji
+LUGE
+SVK
+Nina Zoggeler
+LUGE
+ITA

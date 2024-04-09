@@ -1,0 +1,32 @@
+[
+    {
+        "IMG": "/sites/default/files/styles/image_crop_1_1_200x200_/public/athlete_sdms_image/15894-Akira%20Takaishi%20photo.jpg?itok=88OaLlab",
+        "LIEN": "https://www.paralympic.org//akira-takaishi",
+        "NOM": "Akira Takaishi",
+        "SPORT": "Ice Sledge Racing",
+        "PAYS": "Japanese",
+        "DATE_NAISSANCE": "NULL",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "NULL"
+    },
+    {
+        "IMG": "/sites/default/files/styles/image_crop_1_1_200x200_/public/images/140617104513993_SOC_140311_LC_3346.jpg?itok=ez0_A1JZ",
+        "LIEN": "https://www.paralympic.org//rolf-einar-pedersen",
+        "NOM": "Rolf Einar Pedersen",
+        "SPORT": "Ice Sledge Racing",
+        "PAYS": "Norwegian",
+        "DATE_NAISSANCE": "NULL",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "NULL"
+    },
+    {
+        "IMG": "/sites/default/files/styles/image_crop_1_1_200x200_/public/images/180910134129068_Wakako-Tsuchida-%2BcreditITUMedia-Delly-Carr.jpg?itok=ICG_Ik_K",
+        "LIEN": "https://www.paralympic.org//wakako-tsuchida",
+        "NOM": "Wakako Tsuchida",
+        "SPORT": "Ice Sledge Racing",
+        "PAYS": "Japanese",
+        "DATE_NAISSANCE": "NULL",
+        "LIEU_NAISSANCE": "NULL",
+        "TAILLE": "NULL"
+    }
+]

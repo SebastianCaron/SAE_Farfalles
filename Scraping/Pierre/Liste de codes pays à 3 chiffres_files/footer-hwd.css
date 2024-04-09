@@ -1,0 +1,140 @@
+/* 
+    HELLO WORLD DIGITAL Footer
+*/
+
+/* Font(s) */
+@font-face {
+    font-family: "HWD";
+    src: url("https://hello-world.digital/assets/fonts/F37Jan-Regular.woff") format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "HWD";
+    src: url("https://hello-world.digital/assets/fonts/F37Jan-Bold.woff") format('woff');
+    font-weight: bold;
+    font-display: swap;
+}
+
+.hwd-footer {
+    content-visibility: auto;
+    background: #162E67;
+    padding: 60px 0;
+    margin: 0;
+    color: #0060ff;
+    text-align: left;
+}
+
+    .hwd-footer .col-md-5 {
+        padding: 15px;
+    }
+
+        .hwd-footer .col-md-5:first-of-type {
+            border-right: 2px solid #103a8d;
+        }
+
+        .hwd-footer .col-md-5:nth-child(2) {
+            padding-left: 60px;
+        }
+
+.hwd-footer p {
+    font: normal normal normal 16px/24px "HWD", Helvetica, sans-serif;
+    letter-spacing: 0px;
+    margin: 30px 0;
+}
+
+.hwd-footer .hwd-icons {
+    height: 35px;
+    display: table-cell;
+}
+
+    .hwd-footer .hwd-icons img {
+        display: inline-block;
+        margin: 0 10px 15px 0;
+        vertical-align: bottom;
+    }
+
+.hwd-footer .btn {
+    padding: 5px 29px;
+    margin: 0;
+    background: #0060ff;
+    color: #162E67;
+    border-radius: 0;
+    font: normal normal bold 15px/32px "HWD", Helvetica, sans-serif;
+    box-shadow: none;
+    text-transform: lowercase;
+}
+    .hwd-footer .btn:hover {
+        color: #0060ff;
+        background: #000;
+    }
+
+.hwd-footer h6 {
+    position: relative;
+    color: #0060ff;
+    font: normal normal bold 20px/24px "HWD", Helvetica, sans-serif;
+    padding-left: 55px;
+    margin: 10px 0 0 0;
+    text-transform: none;
+}
+
+    .hwd-footer h6 img {
+        position: absolute;
+        left: 0;
+        top: 5px;
+    }
+
+    .hwd-footer h6 small {
+        color: #0060ff;
+        display: block;
+        font: normal normal bold 12px/24px "HWD", Helvetica, sans-serif;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+    }
+
+.hwd-footer ul {
+    font: normal normal normal 16px/24px "HWD", Helvetica, sans-serif;
+    padding-left: 30px;
+}
+
+    .hwd-footer ul li {
+        position: relative;
+        list-style-type: none;
+        padding: 0 0 5px 0;
+        display: block;
+    }
+
+        .hwd-footer ul li .fa-smile,
+        .hwd-footer ul li .fa-smile-o {
+            font-size: 20px;
+            position: absolute;
+            left: -30px;
+            top: 2px;
+        }
+
+        .hwd-footer ul li .material-icons {
+            font-size: 22px;
+            position: absolute;
+            left: -30px;
+            top: 1px;
+        }
+
+
+@media (max-width: 991px) { 
+
+    .hwd-footer {
+        padding: 30px 0;
+    }
+
+        .hwd-footer .col-md-5 {
+            padding: 30px 50px;
+        }
+
+            .hwd-footer .col-md-5:first-of-type {
+                border-right: none;
+            }
+
+            .hwd-footer .col-md-5:nth-child(2) {
+                padding: 30px 50px;
+            }
+}
