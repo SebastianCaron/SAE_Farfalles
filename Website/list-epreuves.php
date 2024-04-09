@@ -150,7 +150,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <td><?php echo $epreuve['Categorie_Epreuves'] == 1 ? 'Collectif' : 'Individuel'; ?></td>
                 <td><?php echo $epreuve['Type_Epreuves'] == 1 ? 'Paralympique' : 'Olympique'; ?></td>
                 <td><?php echo $epreuve['Date_Debut'] . ' - ' . $epreuve['Date_Fin']; ?></td>
-                <td><a href="sites-details.php?id=<?php echo $epreuve['Latitude_Sites']; ?>"><?php echo $epreuve['Nom_Sites']; ?></a></td>
+                <td><a href="sites-details.php?id=<?php echo $epreuve['Nom_Sites']; ?>"><?php echo $epreuve['Nom_Sites']; ?></a></td>
             </tr>
         <?php endforeach; ?>
     </table>
