@@ -121,7 +121,7 @@
             <tr>
                 <td><?php echo $ceremonies['Nom_Ceremonies']; ?></td>
                 <td><?php echo $ceremonies['Date_Debut'] . ' - ' . $ceremonies['Date_Fin']; ?></td>
-                <td><a href="sites-details.php?id=<?php echo $ceremonies['Latitude_Sites']; ?>"><?php echo $ceremonies['Nom_Sites']; ?></a></td>
+                <td><a href="sites-details.php?id=<?php echo $ceremonies['Nom_Sites']; ?>"><?php echo $ceremonies['Nom_Sites']; ?></a></td>
             </tr>
         <?php endforeach; ?>
 </table>
