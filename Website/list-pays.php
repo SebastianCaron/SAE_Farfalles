@@ -110,7 +110,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <span><strong>FR : </strong><?php echo $pays['Nom_Francais']; ?></span> 
                     <span><strong>EN : </strong><?php echo $pays['Nom_Anglais']; ?></span> 
                     <span><strong>Nombre d'athlètes :</strong> <?php echo $pays['Nombre_Athletes']; ?></span> 
-                    <span><a href="https://fr.wikipedia.org/wiki/<?php echo $pays['Nom_Francais']; ?>" target="_blank">En savoir plus</a></span>
+                    <span><a href="https://www.olympedia.org/countries/<?php echo $pays['ID']; ?>" target="_blank">En savoir plus</a></span>
                 </li>
             <?php endforeach; ?>
         </ul>

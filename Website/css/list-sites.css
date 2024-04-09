@@ -268,7 +268,8 @@ nav .img img{
 }
 
 table {
-width: 100%;
+    width: 100%;
+    padding: 20px;
 }
 
 .hide {
