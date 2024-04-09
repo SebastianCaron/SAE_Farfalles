@@ -176,7 +176,7 @@ INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut,
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('EDR1',2.08452588,48.81432266,'2024-07-27','2024-08-11');
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('EVE1',2.08452588,48.81432266,'2024-07-27','2024-08-11');
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('EJP1',2.08452588,48.81432266,'2024-07-27','2024-08-11');
-INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('MPN',2.08452588,48.81432266,'2024-07-27','2024-08-11');
+-- INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('MPN',2.08452588,48.81432266,'2024-07-27','2024-08-11');
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('CTR',2.03498269,48.78800979,'2024-08-05','2024-08-11');
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('CTR1',2.03498269,48.78800979,'2024-08-05','2024-08-11');
 INSERT INTO Se_Deroule(ID_Epreuves, Longitude_Sites, Latitude_Sites, Date_Debut, Date_Fin) VALUES ('EQU_PARA',2.08452588,48.81432266,'2024-09-03','2024-09-07');
