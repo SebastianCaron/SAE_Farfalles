@@ -1,5 +1,4 @@
 <?php 
-    header('Content-Type: text/html; charset=utf-8');
     include 'libs/config.php';
 
     global $db;
