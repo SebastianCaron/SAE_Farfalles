@@ -6,7 +6,7 @@ global $db; // Recupere l'acces à la base de donnee
 $site = null;
 if(isset($_GET['id'])) {
     $site_id = $_GET['id'];
-    $query = "SELECT * FROM Sites WHERE ID_Sites = :site_id";
+    $query = "SELECT * FROM Sites WHERE Latitude_Sites = :site_id";
     $statement = $db->prepare($query);
     $statement->bindParam(':site_id', $site_id, PDO::PARAM_INT);
     $statement->execute();
@@ -55,8 +55,7 @@ if(isset($_GET['id'])) {
         <img src="./img/phryge.png" alt="mascotte paris2024">
     </div>
     <!-- FIN DE LA NAVIGATION -->
-    Latitude_Sites, Longitude_Sites, Nom_Sites, Date_de_construction_Sites, Capacite_d_acceuil_Sites, Accessibilite_Sites, Nom_Villes
-    <div class="content">
+	<div class="content">
         <?php if($site): ?>
             <h2><?php echo $site['Nom_sites']; ?></h2>
             <h3><?php echo $site['Latitude_Sites']; ?></h3>
