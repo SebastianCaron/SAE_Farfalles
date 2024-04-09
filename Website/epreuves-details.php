@@ -41,6 +41,7 @@ if(isset($_GET['id'])) {
     <link rel="stylesheet" type="text/css" href="./css/all.css">
 	
     <!-- VOTRE CSS -->
+    <link rel="stylesheet" type="text/css" href="./css/details.css">
 
     <!-- VOS SCRIPTS -->
 </head>
@@ -75,7 +76,7 @@ if(isset($_GET['id'])) {
 
     <div class="content">
         <?php if($epreuve): ?>
-            <img alt="Logo de L'épreuve" src="<?php echo $epreuve['Logo_Epreuves']; ?>">
+            <img alt="Logo de L'épreuve" src="./img/svgs/<?php echo $epreuve['Logo_Epreuves']; ?>">
             <h2><?php echo $epreuve['Nom_Epreuves']; ?></h2>
             <h2><?php echo $epreuve['Name_Epreuves']; ?></h2>
             <h3><?php echo $epreuve['ID_Epreuves']; ?></h3>
