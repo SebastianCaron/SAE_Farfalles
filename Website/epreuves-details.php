@@ -11,15 +11,20 @@ if(isset($_GET['id'])) {
     $query = "
         SELECT * 
         FROM Epreuves 
-        JOIN Implique ON Epreuves.ID_Epreuves = Implique.ID_Epreuves 
-        JOIN Resultats ON Implique.ID_Resultats = Resultats.ID_Resultats 
-        JOIN Avoir ON Resultats.ID_Resultats = Avoir.ID_Resultats 
-        JOIN Athletes ON Avoir.ID_Athletes = Athletes.ID_Athletes 
         WHERE Epreuves.ID_Epreuves = :epreuve_id;";
     $statement = $db->prepare($query);
     $statement->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_INT);
     $statement->execute();
-    $epreuve = $statement->fetch(PDO::FETCH_ASSOC);
+
+    $query2 = "
+        SELECT * 
+        FROM Athletes 
+        WHERE Epreuves.ID_Epreuves = :epreuve_id;";
+    $statement2 = $db->prepare($query2);
+    $statement2->bindParam(':epreuve_id', $epreuve_id, PDO::PARAM_INT);
+    $statement2->execute();
+
+    $athletes = $statement2->fetch(PDO::FETCH_ASSOC);
 }
 
 
@@ -73,9 +78,6 @@ if(isset($_GET['id'])) {
             <h2><?php echo $epreuve['Nom_Epreuve']; ?></h2>
             <h2><?php echo $epreuve['Name_Epreuve']; ?></h2>
             <h3><?php echo $epreuve['ID_Epreuves']; ?></h3>
-            <h3>Record : <?php echo $record; ?></h3>
-            <h3>Détenteur du record : <a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $athleterecord; ?></a></h3>
-
             <?php
             if ($epreuve['Categorie_Epreuves'] == 1){
                     echo "<h3>Collectif</h3>";
@@ -91,19 +93,13 @@ if(isset($_GET['id'])) {
                 }
                 ?>
             <h3>LISTE ATHLETES</h3>
-            <?php foreach ($epreuve as $epreuve): ?>
+            <?php foreach ($athletes as $athlete): ?>
 				<li>
 					
-					<a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['Nom_Athletes']; ?></a>
-					<a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['ID']; ?></a>
-					<a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['Date_naissance_Athletes']; ?></a>
-					<a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['Lieu_naissance_Athletes']; ?></a>
-                    <a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['Performance_Resultats']; ?></a>
-                    <a href="athlete-details.php?id=<?php echo $epreuve['ID_Athletes']; ?>"><?php echo $epreuve['Medaille_Resultats']; ?></a>
-                    <?php if ($epreuve['Est_Record'] == 1 ){
-                        $record = $epreuve['Performance_Resultats'];
-                        $athleterecord = $epreuve['Nom_Athletes'];
-                    } ?>
+					<a href="athlete-details.php?id=<?php echo $athlete['ID_Athletes']; ?>"><?php echo $athlete['Nom_Athletes']; ?></a>
+					<a href="athlete-details.php?id=<?php echo $athlete['ID_Athletes']; ?>"><?php echo $athlete['ID']; ?></a>
+					<a href="athlete-details.php?id=<?php echo $athlete['ID_Athletes']; ?>"><?php echo $athlete['Date_naissance_Athletes']; ?></a>
+					<a href="athlete-details.php?id=<?php echo $athlete['ID_Athletes']; ?>"><?php echo $athlete['Lieu_naissance_Athletes']; ?></a>
 
 				</li>
 			<?php endforeach; ?>
